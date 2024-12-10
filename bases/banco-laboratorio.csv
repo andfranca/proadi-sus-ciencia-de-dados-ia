@@ -1,0 +1,1471 @@
+IDCOLABORADOR,IDADE,INSATISTFEITO,STATUSCIVIL,GENERO,NOME,SETOR,CARGO,CEP,NIVELEDUCACAO,FORMACAO,RENDAMENSAL,DESCONTOULTIMAFATURA,ANONAEMPRESA,ANOSMESMAPOSICAO,ANOSDESDEULTIMAPROMOCAO
+1,41,Sim,Solteiro,Feminino,Maria da Silva,Alimentos,Auditor,1,2,Ciencias Sociais,19479,Sim,6,4,0
+5,33,Nao,Casado,Feminino,Ana Oliveira,Saude,Pesquisador,3,4,Ciencias Sociais,23159,Sim,8,7,3
+10,59,Nao,Casado,Feminino,Juliana Santos,Saude,Tecnico de Laboratorio,3,3,Medicina,9964,Sim,1,0,0
+15,29,Nao,Solteiro,Feminino,Fernanda Costa,Saude,Tecnico de Laboratorio,,2,Ciencias Sociais,12682,Sim,9,5,0
+20,29,Nao,Divorciado,Feminino,Beatriz Lima,Saude,Diretor de Manufatura,21,4,Ciencias Sociais,10195,Nao,10,9,8
+23,53,Nao,Casado,Feminino,Adriana Pereira,Alimentos,Gestor,2,4,Ciencias Sociais,22021,Nao,25,8,3
+26,24,Nao,Divorciado,Feminino,Patricia Almeida,Saude,Diretor de Manufatura,11,2,Outros,8232,Nao,4,2,1
+28,34,Nao,Solteiro,Feminino,Camila Fernandes,Saude,Diretor de Pesquisa,7,4,Ciencias Sociais,21293,Nao,12,6,2
+32,53,Nao,Divorciado,Feminino,Rafaela Martins,Saude,Gestor,5,3,Outros,10735,Nao,14,13,4
+33,32,Sim,Solteiro,Feminino,Bianca Carvalho,Saude,Pesquisador,16,1,Ciencias Sociais,4681,Sim,10,2,6
+36,44,Nao,Casado,Feminino,Vanessa Souza,Saude,Representante da Saude,7,4,Medicina,2094,Nao,22,6,5
+38,46,Nao,Solteiro,Feminino,Luciana Goncalves,Alimentos,Gestor,2,4,Marketing,22822,Nao,2,2,2
+46,43,Nao,Divorciado,Feminino,Amanda Rodrigues,Saude,Pesquisador,2,2,Medicina,21923,Nao,5,3,1
+49,35,Nao,Casado,Feminino,Isabela Oliveira,Alimentos,Representante de Setor,2,3,Marketing,9687,Nao,2,2,2
+51,36,Nao,Casado,Feminino,Larissa Silva,Saude,Pesquisador,,4,Ciencias Sociais,13072,Sim,1,1,0
+52,33,Nao,Casado,Feminino,Leticia Santos,Alimentos,Auditor,1,3,Ciencias Sociais,3193,Nao,5,3,1
+54,27,Nao,Divorciado,Feminino,Bruna Costa,Saude,Tecnico de Laboratorio,2,4,Ciencias Sociais,19715,Nao,1,0,0
+57,30,Nao,Solteiro,Feminino,Carolina Lima,Saude,Tecnico de Laboratorio,1,2,Medicina,10781,Nao,12,8,3
+58,41,Sim,Casado,Feminino,Priscila Pereira,Saude,Diretor de Pesquisa,12,3,Formacao Tecnica,16280,Nao,22,15,15
+68,44,Nao,Divorciado,Feminino,Thais Almeida,Alimentos,Auditor,1,5,Marketing,4009,Sim,4,3,1
+72,26,Nao,Casado,Feminino,Renata Fernandes,Alimentos,Auditor,23,3,Marketing,21436,Sim,2,2,0
+73,33,Nao,Solteiro,Feminino,Natalia Martins,Saude,Diretor de Pesquisa,1,2,Ciencias Sociais,15146,Sim,15,14,8
+75,35,Nao,Casado,Feminino,Mariana Carvalho,Saude,Tecnico de Laboratorio,23,4,Medicina,16002,Sim,2,2,2
+79,38,Nao,Solteiro,Feminino,Debora Souza,Saude,Tecnico de Laboratorio,,5,Ciencias Sociais,5456,Nao,10,3,9
+80,50,Nao,Divorciado,Feminino,Gabriela Goncalves,Saude,Diretor de Pesquisa,7,2,Medicina,16701,Sim,27,3,13
+81,59,Nao,Solteiro,Feminino,Jessica Rodrigues,Alimentos,Auditor,25,3,Ciencias Sociais,2354,Nao,21,16,7
+83,36,Nao,Divorciado,Feminino,Patricia Oliveira,Saude,Representante da Saude,8,3,Formacao Tecnica,8202,Nao,17,14,12
+84,55,Nao,Divorciado,Feminino,Daniela Silva,Saude,Gestor,8,3,Medicina,19730,Sim,5,0,0
+91,59,Nao,Solteiro,Feminino,Fernanda Santos,Alimentos,Auditor,1,1,Ciencias Sociais,24668,Nao,4,3,1
+97,36,Nao,Casado,Feminino,Paula Costa,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,22002,Nao,1,0,0
+98,31,Nao,Solteiro,Feminino,Amanda Lima,Saude,Diretor de Manufatura,8,4,Ciencias Sociais,20682,Nao,11,7,1
+107,38,Nao,Divorciado,Feminino,Tatiane Pereira,Saude,Pesquisador,6,3,Medicina,15717,Sim,13,11,1
+121,30,Nao,Divorciado,Feminino,Sabrina Almeida,Alimentos,Auditor,4,2,Medicina,19760,Sim,11,8,2
+126,54,Nao,Casado,Feminino,Bianca Fernandes,Saude,Diretor de Pesquisa,2,4,Formacao Tecnica,24001,Nao,4,3,0
+128,24,Nao,Casado,Feminino,Luana Martins,Alimentos,Auditor,3,2,Outros,17519,Nao,3,2,0
+137,20,Sim,Solteiro,Feminino,Caroline Carvalho,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,19783,Sim,1,0,1
+138,34,Nao,Solteiro,Feminino,Vivian Goncalves,Saude,Pesquisador,6,4,Outros,12482,Nao,16,13,2
+140,59,Nao,Casado,Feminino,Rafaela Rodrigues,Medicamentos,Gestor,,4,Recursos Humanos,21922,Nao,3,2,2
+141,50,Nao,Casado,Feminino,Laura Oliveira,Saude,Diretor de Pesquisa,1,3,Ciencias Sociais,9755,Sim,8,3,0
+144,22,Nao,Solteiro,Feminino,Isadora Silva,Saude,Tecnico de Laboratorio,15,3,Medicina,23785,Nao,0,0,0
+145,51,Nao,Solteiro,Feminino,Beatriz Santos,Saude,Representante da Saude,1,4,Medicina,25796,Nao,13,12,12
+148,54,Nao,Solteiro,Feminino,Alessandra Lima,Medicamentos,Gestor,26,3,Recursos Humanos,13871,Sim,5,3,4
+151,34,Nao,Divorciado,Feminino,Raquel Pereira,Saude,Pesquisador,6,4,Ciencias Sociais,15000,Nao,1,0,0
+153,34,Nao,Solteiro,Feminino,Michele Almeida,Saude,Gestor,5,3,Medicina,5615,Nao,11,10,5
+154,36,Nao,Casado,Feminino,Patricia Fernandes,Alimentos,Auditor,11,2,Formacao Tecnica,22952,Nao,9,7,2
+155,36,Nao,Divorciado,Feminino,Bruna Martins,Saude,Tecnico de Laboratorio,3,2,Ciencias Sociais,2561,Nao,1,0,0
+161,56,Sim,Casado,Feminino,Vanessa Carvalho,Saude,Pesquisador,14,4,Ciencias Sociais,4510,Sim,5,4,4
+164,26,Nao,Casado,Feminino,Renata Souza,Saude,Pesquisador,6,3,Outros,23300,Nao,5,4,4
+165,58,Sim,Casado,Feminino,Amanda Goncalves,Saude,Representante da Saude,23,4,Medicina,3465,Nao,40,10,15
+170,49,Nao,Casado,Feminino,Thais Rodrigues,Saude,Diretor de Manufatura,20,4,Medicina,5549,Nao,15,11,5
+171,43,Nao,Solteiro,Feminino,Leticia Oliveira,Saude,Pesquisador,,3,Medicina,16090,Nao,3,2,1
+174,50,Nao,Solteiro,Feminino,Natalia Santos,Alimentos,Auditor,12,3,Marketing,6645,Nao,2,2,2
+175,31,Sim,Casado,Feminino,Ana Pereira,Alimentos,Auditor,20,3,Ciencias Sociais,24788,Sim,2,2,2
+177,26,Nao,Casado,Feminino,Luana Almeida,Medicamentos,Tecnico de TI,25,1,Ciencias Sociais,8916,Nao,8,7,5
+182,39,Nao,Casado,Feminino,Bruna Fernandes,Alimentos,Auditor,4,4,Ciencias Sociais,14590,Nao,15,11,5
+190,32,Sim,Solteiro,Feminino,Amanda Martins,Saude,Tecnico de Laboratorio,9,3,Medicina,10224,Nao,5,4,0
+193,38,Nao,Solteiro,Feminino,Tatiane Carvalho,Saude,Pesquisador,3,5,Formacao Tecnica,2302,Sim,3,2,2
+194,30,Nao,Solteiro,Feminino,Patricia Souza,Saude,Pesquisador,18,3,Ciencias Sociais,23910,Nao,5,4,0
+197,30,Nao,Divorciado,Feminino,Jessica Goncalves,Saude,Pesquisador,5,3,Formacao Tecnica,10415,Nao,3,2,2
+201,19,Nao,Solteiro,Feminino,Mariana Rodrigues,Saude,Tecnico de Laboratorio,3,1,Medicina,16102,Nao,1,0,0
+202,40,Nao,Divorciado,Feminino,Vanessa Oliveira,Saude,Pesquisador,26,3,Medicina,8504,Nao,20,7,2
+207,32,Nao,Solteiro,Feminino,Adriana Silva,Alimentos,Auditor,8,3,Marketing,15589,Nao,9,8,3
+214,58,Nao,Casado,Feminino,Debora Santos,Saude,Pesquisador,9,3,Medicina,11873,Sim,1,0,0
+216,34,Nao,Casado,Feminino,Fernanda Costa,Alimentos,Representante de Setor,,4,Marketing,11314,Nao,4,3,1
+226,50,Nao,Solteiro,Feminino,Larissa Lima,Saude,Gestor,11,3,Ciencias Sociais,17053,Nao,5,4,4
+228,30,Nao,Casado,Feminino,Paula Pereira,Alimentos,Auditor,5,3,Ciencias Sociais,8053,Nao,10,9,7
+230,38,Nao,Solteiro,Feminino,Beatriz Almeida,Alimentos,Auditor,1,4,Ciencias Sociais,12930,Nao,8,3,0
+235,19,Sim,Solteiro,Feminino,Amanda Fernandes,Alimentos,Representante de Setor,1,1,Formacao Tecnica,20989,Nao,0,0,0
+240,45,Nao,Divorciado,Feminino,Leticia Martins,Alimentos,Auditor,4,2,Ciencias Sociais,6319,Sim,5,4,0
+241,56,Nao,Divorciado,Feminino,Bruna Carvalho,Saude,Pesquisador,8,3,Ciencias Sociais,13939,Sim,2,2,2
+244,46,Nao,Divorciado,Feminino,Carolina Souza,Alimentos,Auditor,1,2,Marketing,2137,Nao,24,13,15
+245,38,Nao,Solteiro,Feminino,Isabela Rodrigues,Saude,Tecnico de Laboratorio,9,2,Ciencias Sociais,6319,Nao,2,2,2
+246,31,Nao,Casado,Feminino,Luana Oliveira,Saude,Pesquisador,12,1,Medicina,6984,Sim,4,2,0
+247,34,Nao,Solteiro,Feminino,Rafaela Santos,Saude,Pesquisador,27,2,Medicina,5711,Nao,3,2,1
+248,41,Sim,Solteiro,Feminino,Juliana Lima,Alimentos,Representante de Setor,20,2,Marketing,21728,Sim,4,3,0
+250,53,Nao,Divorciado,Feminino,Adriana Pereira,Saude,Diretor de Manufatura,13,2,Medicina,26250,Nao,4,2,1
+252,33,Nao,Casado,Feminino,Patricia Almeida,Saude,Pesquisador,14,3,Medicina,4673,Nao,8,7,1
+253,40,Nao,Casado,Feminino,Camila Fernandes,Saude,Gestor,,1,Medicina,6499,Nao,20,8,9
+258,51,Nao,Solteiro,Feminino,Rafaela Martins,Saude,Representante da Saude,3,3,Medicina,7192,Nao,7,7,1
+260,27,Nao,Solteiro,Feminino,Bianca Carvalho,Saude,Pesquisador,9,3,Medicina,11781,Nao,7,7,0
+269,35,Nao,Solteiro,Feminino,Vanessa Souza,Saude,Tecnico de Laboratorio,2,3,Medicina,15986,Nao,6,2,1
+270,42,Nao,Divorciado,Feminino,Luciana Goncalves,Saude,Diretor de Manufatura,21,2,Medicina,16439,Nao,5,3,0
+283,29,Sim,Casado,Feminino,Amanda Rodrigues,Alimentos,Auditor,27,3,Marketing,24525,Nao,10,4,1
+286,36,Nao,Solteiro,Feminino,Isabela Oliveira,Saude,Tecnico de Laboratorio,18,1,Medicina,7703,Nao,8,1,1
+293,27,Nao,Solteiro,Feminino,Larissa Silva,Alimentos,Auditor,20,3,Ciencias Sociais,12916,Nao,7,7,0
+297,30,Sim,Solteiro,Feminino,Leticia Santos,Saude,Pesquisador,3,3,Formacao Tecnica,8556,Sim,5,2,0
+298,41,Nao,Solteiro,Feminino,Bruna Costa,Alimentos,Gestor,6,3,Ciencias Sociais,14674,Sim,1,0,0
+299,30,Sim,Solteiro,Feminino,Carolina Lima,Alimentos,Auditor,26,4,Marketing,22967,Nao,6,3,0
+302,45,Nao,Solteiro,Feminino,Priscila Pereira,Alimentos,Auditor,6,3,Medicina,16840,Nao,19,7,12
+303,54,Nao,Casado,Feminino,Thais Almeida,Alimentos,Auditor,3,3,Marketing,17011,Nao,6,2,0
+305,33,Nao,Casado,Feminino,Renata Fernandes,Saude,Pesquisador,,4,Medicina,13248,Nao,3,2,1
+312,29,Nao,Casado,Feminino,Natalia Martins,Alimentos,Auditor,1,1,Medicina,6599,Nao,11,10,4
+314,35,Nao,Solteiro,Feminino,Mariana Carvalho,Alimentos,Auditor,1,3,Marketing,9096,Nao,10,7,0
+316,52,Nao,Solteiro,Feminino,Debora Souza,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,3300,Nao,2,2,2
+323,50,Nao,Divorciado,Feminino,Gabriela Goncalves,Alimentos,Gestor,1,4,Medicina,24118,Nao,7,0,0
+327,43,Nao,Casado,Feminino,Jessica Rodrigues,Alimentos,Gestor,16,3,Marketing,7744,Sim,17,13,1
+328,33,Sim,Casado,Feminino,Patricia Oliveira,Saude,Tecnico de Laboratorio,2,2,Ciencias Sociais,21509,Nao,9,7,1
+330,32,Nao,Casado,Feminino,Daniela Silva,Alimentos,Representante de Setor,4,2,Ciencias Sociais,20990,Nao,4,3,1
+332,39,Nao,Divorciado,Feminino,Fernanda Santos,Saude,Tecnico de Laboratorio,1,4,Medicina,15417,Nao,3,2,1
+338,33,Nao,Casado,Feminino,Paula Costa,Saude,Pesquisador,5,4,Ciencias Sociais,14776,Nao,2,2,0
+340,37,Nao,Casado,Feminino,Amanda Lima,Saude,Pesquisador,1,2,Medicina,18697,Nao,3,1,0
+343,39,Nao,Solteiro,Feminino,Tatiane Pereira,Saude,Representante da Saude,2,4,Formacao Tecnica,6420,Nao,19,6,11
+347,42,Nao,Solteiro,Feminino,Sabrina Almeida,Saude,Pesquisador,17,2,Ciencias Sociais,23016,Sim,3,2,0
+350,25,Nao,Casado,Feminino,Bianca Fernandes,Saude,Diretor de Manufatura,1,3,Ciencias Sociais,7505,Nao,4,2,1
+351,42,Nao,Divorciado,Feminino,Luana Martins,Saude,Tecnico de Laboratorio,2,3,Medicina,8007,Sim,9,6,7
+363,46,Nao,Casado,Feminino,Caroline Carvalho,Alimentos,Gestor,2,3,Formacao Tecnica,14977,Sim,7,7,7
+380,37,Nao,Divorciado,Feminino,Vivian Goncalves,Saude,Diretor de Pesquisa,1,4,Medicina,11677,Sim,5,2,0
+381,35,Nao,Divorciado,Feminino,Rafaela Rodrigues,Saude,Gestor,22,3,Ciencias Sociais,19100,Nao,7,7,6
+382,38,Nao,Divorciado,Feminino,Laura Oliveira,Alimentos,Auditor,7,2,Medicina,19191,Sim,8,0,7
+384,26,Nao,Divorciado,Feminino,Isadora Silva,Saude,Diretor de Manufatura,1,3,Ciencias Sociais,26767,Nao,6,5,1
+391,37,Nao,Solteiro,Feminino,Beatriz Santos,Saude,Pesquisador,1,3,Ciencias Sociais,15881,Nao,17,12,5
+395,28,Nao,Solteiro,Feminino,Alessandra Lima,Saude,Pesquisador,8,2,Ciencias Sociais,4488,Nao,5,3,0
+396,49,Nao,Solteiro,Feminino,Raquel Pereira,Saude,Diretor de Pesquisa,,4,Ciencias Sociais,25594,Sim,3,2,1
+399,31,Nao,Divorciado,Feminino,Michele Almeida,Alimentos,Representante de Setor,5,3,Marketing,3909,Nao,2,2,2
+404,42,Nao,Casado,Feminino,Patricia Fernandes,Alimentos,Auditor,26,3,Marketing,14864,Nao,20,4,4
+411,18,Nao,Solteiro,Feminino,Bruna Martins,Alimentos,Representante de Setor,10,3,Medicina,9724,Nao,0,0,0
+419,36,Nao,Casado,Feminino,Vanessa Carvalho,Saude,Tecnico de Laboratorio,24,4,Ciencias Sociais,6927,Nao,9,8,0
+421,38,Nao,Casado,Feminino,Renata Souza,Saude,Diretor de Pesquisa,25,2,Ciencias Sociais,26707,Nao,10,8,0
+428,33,Nao,Casado,Feminino,Amanda Goncalves,Saude,Gestor,5,4,Ciencias Sociais,23364,Nao,10,6,8
+430,43,Nao,Solteiro,Feminino,Thais Rodrigues,Saude,Tecnico de Laboratorio,10,4,Ciencias Sociais,10675,Nao,8,7,1
+431,49,Nao,Solteiro,Feminino,Leticia Oliveira,Saude,Representante da Saude,1,2,Formacao Tecnica,17810,Sim,7,1,0
+434,27,Nao,Solteiro,Feminino,Natalia Santos,Saude,Pesquisador,5,3,Ciencias Sociais,20938,Sim,4,3,1
+436,32,Nao,Casado,Feminino,Ana Pereira,Alimentos,Auditor,,2,Formacao Tecnica,24624,Sim,13,12,11
+439,32,Nao,Solteiro,Feminino,Luana Almeida,Saude,Pesquisador,2,4,Medicina,10557,Nao,7,7,0
+441,30,Nao,Casado,Feminino,Bruna Fernandes,Saude,Pesquisador,28,2,Medicina,11934,Nao,10,8,1
+442,31,Nao,Casado,Feminino,Amanda Martins,Saude,Diretor de Manufatura,7,2,Ciencias Sociais,14034,Nao,10,9,8
+445,39,Sim,Casado,Feminino,Tatiane Carvalho,Alimentos,Auditor,3,2,Medicina,17778,Sim,1,0,0
+448,43,Nao,Divorciado,Feminino,Patricia Souza,Saude,Tecnico de Laboratorio,10,4,Ciencias Sociais,6227,Nao,9,7,0
+450,54,Nao,Solteiro,Feminino,Jessica Goncalves,Saude,Pesquisador,20,4,Ciencias Sociais,16885,Nao,4,3,0
+451,43,Nao,Casado,Feminino,Mariana Rodrigues,Saude,Representante da Saude,7,3,Ciencias Sociais,9262,Nao,1,0,0
+456,30,Nao,Divorciado,Feminino,Vanessa Oliveira,Alimentos,Auditor,5,3,Marketing,5431,Nao,10,9,1
+458,27,Nao,Casado,Feminino,Adriana Silva,Alimentos,Auditor,8,4,Marketing,3415,Nao,8,7,0
+462,31,Nao,Solteiro,Feminino,Debora Santos,Saude,Diretor de Manufatura,7,4,Medicina,25713,Sim,11,9,4
+463,29,Nao,Divorciado,Feminino,Fernanda Costa,Alimentos,Auditor,10,1,Marketing,11866,Sim,7,7,1
+468,42,Nao,Solteiro,Feminino,Larissa Lima,Saude,Diretor de Pesquisa,,5,Ciencias Sociais,15901,Nao,1,0,0
+471,32,Nao,Casado,Feminino,Paula Pereira,Saude,Tecnico de Laboratorio,2,3,Medicina,3956,Nao,8,0,0
+473,48,Nao,Casado,Feminino,Beatriz Almeida,Alimentos,Gestor,,1,Medicina,23978,Nao,0,0,0
+475,30,Nao,Casado,Feminino,Amanda Fernandes,Alimentos,Auditor,,2,Formacao Tecnica,6069,Sim,2,2,2
+478,21,Sim,Solteiro,Feminino,Leticia Martins,Alimentos,Representante de Setor,1,1,Formacao Tecnica,9150,Sim,3,2,1
+479,36,Nao,Solteiro,Feminino,Bruna Carvalho,Alimentos,Auditor,1,5,Medicina,15276,Nao,1,0,0
+483,40,Nao,Casado,Feminino,Carolina Souza,Saude,Tecnico de Laboratorio,10,4,Ciencias Sociais,22495,Sim,7,7,1
+485,33,Sim,Solteiro,Feminino,Isabela Rodrigues,Alimentos,Representante de Setor,5,3,Marketing,9150,Sim,1,0,0
+486,37,Nao,Casado,Feminino,Luana Oliveira,Saude,Tecnico de Laboratorio,10,3,Medicina,17663,Nao,5,4,0
+487,46,Nao,Casado,Feminino,Rafaela Santos,Saude,Diretor de Manufatura,7,4,Medicina,16044,Nao,1,0,0
+494,21,Sim,Solteiro,Feminino,Juliana Lima,Alimentos,Representante de Setor,12,3,Ciencias Sociais,25422,Nao,1,0,0
+500,51,Nao,Casado,Feminino,Adriana Pereira,Alimentos,Auditor,14,2,Ciencias Sociais,14862,Nao,7,7,0
+501,36,Nao,Casado,Feminino,Patricia Almeida,Saude,Pesquisador,2,3,Ciencias Sociais,11868,Nao,2,2,2
+505,55,Nao,Solteiro,Feminino,Camila Fernandes,Saude,Gestor,2,3,Ciencias Sociais,23258,Sim,5,4,1
+507,24,Nao,Divorciado,Feminino,Rafaela Martins,Alimentos,Auditor,10,4,Marketing,5915,Sim,5,2,0
+511,22,Nao,Casado,Feminino,Bianca Carvalho,Saude,Pesquisador,11,3,Medicina,24440,Nao,2,1,1
+515,37,Nao,Divorciado,Feminino,Vanessa Souza,Saude,Tecnico de Laboratorio,14,3,Ciencias Sociais,26914,Nao,18,7,12
+516,40,Nao,Divorciado,Feminino,Luciana Goncalves,Alimentos,Auditor,2,2,Marketing,22553,Nao,5,4,1
+517,42,Nao,Divorciado,Feminino,Amanda Rodrigues,Saude,Tecnico de Laboratorio,1,4,Ciencias Sociais,20490,Nao,5,2,1
+521,40,Nao,Casado,Feminino,Isabela Oliveira,Saude,Tecnico de Laboratorio,2,3,Medicina,13436,Nao,1,0,0
+523,34,Nao,Casado,Feminino,Larissa Silva,Alimentos,Auditor,4,4,Marketing,12740,Nao,3,2,1
+524,31,Nao,Casado,Feminino,Leticia Santos,Saude,Diretor de Manufatura,7,2,Medicina,4156,Nao,13,10,3
+526,43,Nao,Divorciado,Feminino,Bruna Costa,Saude,Representante da Saude,8,4,Outros,2227,Sim,5,2,0
+527,25,Nao,Solteiro,Feminino,Carolina Lima,Alimentos,Auditor,4,2,Ciencias Sociais,12090,Sim,5,4,1
+529,37,Nao,Casado,Feminino,Priscila Pereira,Saude,Pesquisador,25,5,Medicina,23866,Sim,13,11,10
+532,56,Nao,Casado,Feminino,Thais Almeida,Alimentos,Auditor,6,3,Ciencias Sociais,18256,Nao,7,7,7
+533,30,Nao,Solteiro,Feminino,Renata Fernandes,Alimentos,Auditor,12,3,Formacao Tecnica,19558,Nao,5,4,4
+546,52,Nao,Casado,Feminino,Natalia Martins,Saude,Gestor,4,2,Ciencias Sociais,10310,Nao,5,2,1
+547,42,Nao,Divorciado,Feminino,Mariana Carvalho,Saude,Pesquisador,29,2,Ciencias Sociais,12932,Nao,5,4,0
+548,30,Nao,Solteiro,Feminino,Debora Souza,Saude,Diretor de Manufatura,2,3,Ciencias Sociais,24793,Nao,5,4,0
+549,60,Nao,Casado,Feminino,Gabriela Goncalves,Saude,Gestor,7,3,Ciencias Sociais,3854,Nao,29,8,11
+550,46,Nao,Divorciado,Feminino,Jessica Rodrigues,Saude,Diretor de Manufatura,18,3,Medicina,26314,Nao,10,7,0
+551,42,Nao,Casado,Feminino,Patricia Oliveira,Saude,Representante da Saude,28,4,Formacao Tecnica,4386,Nao,6,5,0
+554,24,Sim,Solteiro,Feminino,Daniela Silva,Alimentos,Representante de Setor,1,1,Formacao Tecnica,21972,Sim,5,3,1
+555,34,Sim,Divorciado,Feminino,Fernanda Santos,Alimentos,Representante de Setor,6,2,Marketing,12253,Nao,2,2,1
+558,40,Nao,Casado,Feminino,Paula Costa,Alimentos,Gestor,2,4,Ciencias Sociais,13022,Nao,20,15,1
+560,26,Nao,Divorciado,Feminino,Amanda Lima,Saude,Pesquisador,23,3,Ciencias Sociais,3032,Nao,3,2,0
+565,29,Sim,Casado,Feminino,Tatiane Pereira,Saude,Pesquisador,25,5,Formacao Tecnica,18300,Nao,2,2,1
+567,30,Nao,Casado,Feminino,Sabrina Almeida,Alimentos,Auditor,22,4,Outros,2890,Nao,9,8,7
+571,30,Nao,Solteiro,Feminino,Bianca Fernandes,Saude,Tecnico de Laboratorio,2,3,Medicina,7181,Nao,11,7,6
+573,60,Nao,Casado,Feminino,Luana Martins,Alimentos,Auditor,28,3,Marketing,2845,Nao,18,13,13
+574,47,Nao,Divorciado,Feminino,Caroline Carvalho,Saude,Diretor de Manufatura,2,2,Medicina,7389,Nao,5,0,0
+578,54,Nao,Solteiro,Feminino,Vivian Goncalves,Saude,Tecnico de Laboratorio,8,4,Ciencias Sociais,23428,Nao,1,0,0
+580,46,Nao,Casado,Feminino,Rafaela Rodrigues,Alimentos,Auditor,10,3,Marketing,11563,Sim,3,2,1
+590,34,Sim,Divorciado,Feminino,Laura Oliveira,Medicamentos,Tecnico de TI,23,3,Recursos Humanos,11533,Sim,3,2,0
+595,48,Nao,Casado,Feminino,Isadora Silva,Alimentos,Auditor,2,5,Marketing,19658,Nao,9,7,6
+597,55,Nao,Solteiro,Feminino,Beatriz Santos,Alimentos,Gestor,18,5,Ciencias Sociais,9873,Nao,10,9,7
+601,40,Nao,Solteiro,Feminino,Alessandra Lima,Saude,Diretor de Manufatura,6,3,Ciencias Sociais,20364,Nao,20,6,5
+602,39,Nao,Casado,Feminino,Raquel Pereira,Saude,Tecnico de Laboratorio,8,1,Ciencias Sociais,17872,Nao,8,3,0
+608,26,Sim,Divorciado,Feminino,Michele Almeida,Medicamentos,Tecnico de TI,17,4,Ciencias Sociais,22808,Sim,7,7,1
+612,33,Nao,Divorciado,Feminino,Patricia Fernandes,Saude,Diretor de Pesquisa,1,5,Medicina,22578,Nao,6,1,0
+616,41,Nao,Solteiro,Feminino,Bruna Martins,Saude,Representante da Saude,,4,Outros,2112,Sim,8,7,0
+620,35,Nao,Solteiro,Feminino,Vanessa Carvalho,Alimentos,Auditor,1,3,Medicina,6698,Nao,5,4,0
+623,37,Nao,Solteiro,Feminino,Renata Souza,Saude,Diretor de Manufatura,1,3,Formacao Tecnica,23848,Nao,6,5,1
+624,46,Nao,Casado,Feminino,Amanda Goncalves,Saude,Representante da Saude,18,1,Medicina,8984,Nao,2,2,1
+625,41,Nao,Casado,Feminino,Thais Rodrigues,Alimentos,Gestor,2,5,Ciencias Sociais,5626,Nao,18,16,11
+634,38,Nao,Casado,Feminino,Leticia Oliveira,Saude,Representante da Saude,10,3,Medicina,22174,Nao,1,0,0
+635,37,Nao,Casado,Feminino,Natalia Santos,Saude,Diretor de Manufatura,1,4,Ciencias Sociais,15701,Nao,6,5,4
+647,24,Sim,Casado,Feminino,Ana Pereira,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,14168,Sim,6,3,1
+655,27,Nao,Divorciado,Feminino,Luana Almeida,Saude,Pesquisador,6,4,Medicina,5013,Nao,5,3,0
+657,20,Nao,Solteiro,Feminino,Bruna Fernandes,Saude,Pesquisador,1,3,Ciencias Sociais,11757,Nao,1,0,0
+659,42,Nao,Casado,Feminino,Amanda Martins,Saude,Representante da Saude,2,4,Ciencias Sociais,5718,Nao,10,2,2
+662,38,Nao,Solteiro,Feminino,Tatiane Carvalho,Saude,Pesquisador,1,1,Ciencias Sociais,14561,Nao,0,0,0
+664,48,Nao,Casado,Feminino,Patricia Souza,Saude,Gestor,1,4,Ciencias Sociais,17997,Nao,3,2,0
+665,44,Nao,Solteiro,Feminino,Jessica Goncalves,Medicamentos,Tecnico de TI,1,4,Ciencias Sociais,26894,Nao,2,2,0
+666,34,Nao,Divorciado,Feminino,Mariana Rodrigues,Alimentos,Representante de Setor,14,3,Formacao Tecnica,2912,Sim,8,2,0
+679,32,Nao,Casado,Feminino,Vanessa Oliveira,Saude,Pesquisador,9,4,Ciencias Sociais,18089,Sim,6,4,0
+680,30,Nao,Divorciado,Feminino,Adriana Silva,Saude,Pesquisador,3,3,Medicina,22653,Nao,1,0,0
+682,53,Nao,Solteiro,Feminino,Debora Santos,Alimentos,Auditor,1,1,Medicina,7507,Nao,14,7,8
+684,45,Sim,Casado,Feminino,Fernanda Costa,Alimentos,Auditor,26,4,Ciencias Sociais,5630,Nao,1,1,0
+686,26,Nao,Casado,Feminino,Larissa Lima,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,17759,Sim,3,2,0
+690,29,Nao,Casado,Feminino,Paula Pereira,Alimentos,Auditor,3,2,Medicina,3487,Nao,6,0,1
+709,38,Nao,Solteiro,Feminino,Beatriz Almeida,Alimentos,Auditor,7,4,Marketing,7791,Nao,7,7,0
+714,27,Nao,Divorciado,Feminino,Amanda Fernandes,Alimentos,Auditor,,1,Medicina,16673,Sim,6,5,0
+717,34,Nao,Solteiro,Feminino,Leticia Martins,Saude,Representante da Saude,9,3,Medicina,17654,Nao,8,7,7
+720,24,Sim,Solteiro,Feminino,Bruna Carvalho,Alimentos,Auditor,3,2,Ciencias Sociais,24785,Nao,2,2,2
+721,39,Nao,Solteiro,Feminino,Carolina Souza,Saude,Representante da Saude,2,4,Formacao Tecnica,20978,Nao,20,7,11
+724,38,Nao,Solteiro,Feminino,Isabela Rodrigues,Saude,Representante da Saude,1,4,Ciencias Sociais,19383,Nao,9,7,1
+725,27,Nao,Casado,Feminino,Luana Oliveira,Saude,Diretor de Manufatura,1,2,Ciencias Sociais,6009,Nao,9,7,0
+727,32,Nao,Solteiro,Feminino,Rafaela Santos,Saude,Diretor de Pesquisa,3,2,Ciencias Sociais,19373,Nao,7,7,7
+741,28,Sim,Solteiro,Feminino,Juliana Lima.,Saude,Pesquisador,1,2,Ciencias Sociais,3872,Sim,7,7,3
+742,36,Nao,Casado,Feminino,Isabela Costa,Saude,Diretor de Pesquisa,8,3,Ciencias Sociais,20335,Nao,8,7,0
+743,38,Nao,Solteiro,Feminino,Livia Rodrigues,Saude,Diretor de Manufatura,1,3,Ciencias Sociais,15397,Sim,1,0,0
+746,47,Nao,Divorciado,Feminino,Heloisa Oliveira,Alimentos,Auditor,3,3,Medicina,10225,Sim,22,2,11
+757,34,Nao,Solteiro,Feminino,Rafaela Silva,Saude,Representante da Saude,8,2,Medicina,7360,Nao,5,1,4
+760,39,Nao,Casado,Feminino,Manuela Santos,Medicamentos,Tecnico de TI,3,3,Recursos Humanos,18767,Nao,8,3,3
+763,40,Nao,Solteiro,Feminino,Luana Pereira,Saude,Pesquisador,2,1,Medicina,22929,Sim,4,2,2
+764,27,Nao,Solteiro,Feminino,Yasmin Fernandes,Saude,Representante da Saude,7,3,Medicina,23398,Nao,7,6,0
+771,35,Nao,Divorciado,Feminino,Mariana Almeida,Saude,Representante da Saude,2,4,Ciencias Sociais,4761,Nao,1,0,0
+775,34,Nao,Divorciado,Feminino,Leticia Oliveira,Saude,Diretor de Manufatura,8,5,Ciencias Sociais,4187,Nao,0,0,0
+781,25,Nao,Solteiro,Feminino,Amanda Carvalho,Alimentos,Auditor,26,1,Medicina,22807,Nao,6,5,1
+785,47,Sim,Solteiro,Feminino,Valentina Martins,Alimentos,Auditor,27,2,Ciencias Sociais,10339,Sim,5,4,1
+792,26,Nao,Divorciado,Feminino,Clara Souza,Saude,Tecnico de Laboratorio,1,2,Ciencias Sociais,5288,Nao,2,2,2
+793,29,Nao,Casado,Feminino,Eloa Rodrigues,Saude,Representante da Saude,27,3,Medicina,25549,Nao,8,7,1
+797,34,Nao,Solteiro,Feminino,Luiza Fernandes,Saude,Pesquisador,1,4,Ciencias Sociais,13551,Nao,4,2,1
+799,54,Nao,Divorciado,Feminino,Ana Beatriz Lima,Saude,Diretor de Manufatura,19,4,Medicina,22670,Sim,5,3,1
+802,37,Nao,Divorciado,Feminino,Lavinia Costa,Saude,Pesquisador,10,1,Ciencias Sociais,19905,Sim,5,3,4
+803,38,Nao,Solteiro,Feminino,Beatriz Oliveira,Saude,Diretor de Manufatura,2,4,Ciencias Sociais,26085,Sim,15,7,4
+804,34,Nao,Solteiro,Feminino,Isabela Martins,Saude,Pesquisador,2,4,Medicina,7530,Nao,6,5,1
+805,35,Nao,Casado,Feminino,Gabriela Lima,Alimentos,Representante de Setor,8,4,Ciencias Sociais,20317,Nao,3,2,0
+807,40,Nao,Casado,Feminino,Renata Almeida,Saude,Representante da Saude,2,2,Medicina,9931,Nao,8,7,3
+808,34,Nao,Casado,Feminino,Larissa Fernandes,Alimentos,Auditor,8,2,Ciencias Sociais,13305,Nao,3,2,1
+813,52,Nao,Casado,Feminino,Camila Santos,Saude,Tecnico de Laboratorio,11,4,Ciencias Sociais,21821,Nao,5,2,1
+816,29,Sim,Casado,Feminino,Fernanda Pereira,Saude,Tecnico de Laboratorio,1,2,Ciencias Sociais,6689,Sim,1,0,0
+819,33,Sim,Solteiro,Feminino,Beatriz Rodrigues,Alimentos,Auditor,16,3,Marketing,26507,Nao,3,2,0
+820,47,Nao,Casado,Feminino,Ana Costa,Saude,Gestor,,2,Outros,12982,Sim,26,14,3
+823,36,Nao,Casado,Feminino,Isabella Martins,Saude,Diretor de Manufatura,1,3,Outros,23361,Nao,9,7,0
+826,35,Nao,Solteiro,Feminino,Rafaela Silva,Saude,Pesquisador,1,4,Ciencias Sociais,13301,Nao,2,2,2
+827,42,Nao,Casado,Feminino,Bianca Oliveira,Saude,Diretor de Manufatura,1,2,Ciencias Sociais,4051,Sim,4,3,0
+830,32,Nao,Casado,Feminino,Juliana Souza,Saude,Diretor de Manufatura,4,3,Ciencias Sociais,19124,Nao,14,13,6
+833,30,Nao,Solteiro,Feminino,Amanda Goncalves,Saude,Diretor de Manufatura,2,3,Medicina,20234,Sim,0,0,0
+834,45,Nao,Solteiro,Feminino,Natalia Carvalho,Saude,Pesquisador,2,3,Ciencias Sociais,6153,Nao,1,0,0
+838,34,Nao,Solteiro,Feminino,Carolina Rodrigues,Saude,Pesquisador,16,4,Ciencias Sociais,8306,Nao,5,2,1
+840,49,Sim,Casado,Feminino,Bruna Almeida,Alimentos,Auditor,11,3,Marketing,5860,Nao,9,8,7
+846,28,Nao,Casado,Feminino,Priscila Fernandes,Alimentos,Auditor,2,4,Marketing,3698,Sim,8,7,7
+848,26,Sim,Casado,Feminino,Thais Pereira,Saude,Pesquisador,5,2,Medicina,20898,Sim,8,7,1
+851,51,Nao,Casado,Feminino,Leticia Alves,Alimentos,Gestor,26,4,Marketing,5594,Nao,20,6,4
+856,35,Nao,Solteiro,Feminino,Adriana Lima,Saude,Pesquisador,27,1,Medicina,17852,Nao,6,5,1
+862,53,Nao,Casado,Feminino,Patricia Oliveira,Alimentos,Auditor,7,2,Marketing,20715,Sim,5,2,0
+865,32,Nao,Casado,Feminino,Vanessa Fernandes,Saude,Pesquisador,8,2,Medicina,22162,Nao,5,3,1
+867,52,Nao,Casado,Feminino,Luciana Santos,Saude,Diretor de Manufatura,25,4,Medicina,19028,Nao,9,8,0
+880,35,Nao,Casado,Feminino,Mariana Pereira,Saude,Diretor de Manufatura,9,3,Ciencias Sociais,23457,Sim,17,14,5
+881,35,Sim,Divorciado,Feminino,Giovanna Silva,Saude,Pesquisador,25,4,Ciencias Sociais,16612,Sim,10,2,7
+887,49,Nao,Casado,Feminino,Laura Almeida,Saude,Pesquisador,1,3,Formacao Tecnica,10554,Nao,4,2,0
+894,42,Nao,Casado,Feminino,Amanda Souza,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,23726,Sim,5,3,1
+896,29,Sim,Divorciado,Feminino,Maria Fernanda,Alimentos,Representante de Setor,1,3,Medicina,23522,Sim,3,2,0
+900,37,Nao,Casado,Feminino,Giovanna Oliveira,Alimentos,Representante de Setor,21,2,Medicina,21222,Nao,5,4,0
+901,53,Nao,Solteiro,Feminino,Luiza Martins,Saude,Diretor de Pesquisa,23,4,Ciencias Sociais,20206,Nao,12,9,3
+902,43,Nao,Casado,Feminino,Isadora Almeida,Saude,Representante da Saude,1,3,Ciencias Sociais,21782,Nao,5,2,2
+903,47,Nao,Casado,Feminino,Heloisa Costa,Alimentos,Auditor,2,2,Marketing,17783,Sim,7,6,7
+909,39,Nao,Casado,Feminino,Lara Rodrigues,Medicamentos,Tecnico de TI,2,3,Ciencias Sociais,7790,Nao,5,4,0
+912,29,Nao,Divorciado,Feminino,Sophia Pereira,Saude,Tecnico de Laboratorio,7,1,Medicina,6054,Nao,4,3,0
+920,43,Nao,Divorciado,Feminino,Valentina Carvalho,Saude,Diretor de Manufatura,8,3,Ciencias Sociais,23814,Nao,1,0,0
+922,20,Sim,Solteiro,Feminino,Clara Santos,Alimentos,Representante de Setor,2,3,Medicina,22052,Nao,2,2,0
+923,21,Sim,Solteiro,Feminino,Manuela Silva,Saude,Pesquisador,18,1,Outros,8870,Nao,1,0,0
+925,47,Nao,Solteiro,Feminino,Alice Lima,Alimentos,Representante de Setor,2,4,Ciencias Sociais,13137,Sim,3,2,1
+926,22,Sim,Casado,Feminino,Gabriela Fernandes,Saude,Diretor de Manufatura,3,1,Ciencias Sociais,10022,Sim,3,2,0
+927,41,Sim,Divorciado,Feminino,Emanuelly Goncalves,Saude,Tecnico de Laboratorio,2,4,Ciencias Sociais,17725,Sim,7,7,1
+930,28,Nao,Divorciado,Feminino,Yasmin Pereira,Saude,Pesquisador,9,3,Medicina,9834,Nao,2,2,2
+933,27,Nao,Solteiro,Feminino,Eloa Oliveira,Saude,Pesquisador,4,3,Ciencias Sociais,17808,Nao,1,1,0
+936,42,Nao,Solteiro,Feminino,Luana Alves,Alimentos,Auditor,14,2,Medicina,7824,Nao,5,4,0
+940,58,Nao,Divorciado,Feminino,Lavinia Costa,Saude,Representante da Saude,5,3,Formacao Tecnica,9255,Sim,6,0,0
+942,35,Nao,Casado,Feminino,Beatriz Rodrigues,Saude,Representante da Saude,21,1,Ciencias Sociais,19170,Sim,10,6,0
+944,49,Nao,Casado,Feminino,Esther Souza,Saude,Tecnico de Laboratorio,,2,Outros,22477,Nao,26,9,1
+947,31,Nao,Casado,Feminino,Lara Lima,Alimentos,Auditor,20,2,Marketing,24406,Nao,9,8,0
+950,38,Nao,Casado,Feminino,Luna Martins,Saude,Diretor de Pesquisa,1,3,Formacao Tecnica,16292,Nao,15,12,5
+951,32,Nao,Casado,Feminino,Mariana Oliveira,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,3974,Nao,3,0,0
+961,31,Nao,Casado,Feminino,Rafaela Carvalho,Saude,Representante da Saude,12,3,Medicina,17369,Sim,9,7,8
+966,32,Nao,Casado,Feminino,Isabella Fernandes,Saude,Diretor de Manufatura,3,4,Medicina,13554,Nao,8,7,6
+969,33,Nao,Solteiro,Feminino,Ana Luiza Silva,Saude,Representante da Saude,1,3,Ciencias Sociais,12291,Nao,5,0,1
+974,29,Nao,Casado,Feminino,Vitoria Almeida,Alimentos,Representante de Setor,20,3,Formacao Tecnica,18203,Nao,3,1,0
+975,35,Nao,Casado,Feminino,Luiza Costa,Alimentos,Auditor,18,3,Medicina,6179,Nao,5,2,1
+983,38,Nao,Solteiro,Feminino,Malu Santos,Alimentos,Auditor,10,3,Formacao Tecnica,19899,Sim,5,3,1
+986,40,Sim,Solteiro,Feminino,Melissa Pereira,Alimentos,Auditor,24,3,Ciencias Sociais,17071,Sim,1,0,0
+994,29,Sim,Solteiro,Feminino,Marina Oliveira,Saude,Pesquisador,10,3,Ciencias Sociais,11479,Sim,0,0,0
+995,33,Nao,Solteiro,Feminino,Milena Carvalho,Saude,Pesquisador,13,1,Ciencias Sociais,17241,Nao,3,2,0
+996,45,Nao,Divorciado,Feminino,Rebeca Fernandes,Saude,Tecnico de Laboratorio,1,4,Medicina,11005,Nao,5,3,0
+998,33,Nao,Casado,Feminino,Ana Clara Almeida,Saude,Representante da Saude,1,4,Outros,20161,Sim,6,5,1
+1001,27,Nao,Casado,Feminino,Amanda Lima,Saude,Tecnico de Laboratorio,16,4,Formacao Tecnica,12086,Nao,2,2,2
+1003,47,Nao,Solteiro,Feminino,Maria Eduarda Rodrigues,Alimentos,Auditor,4,2,Ciencias Sociais,8571,Sim,9,0,0
+1004,30,Sim,Casado,Feminino,Laura Pereira,Saude,Pesquisador,22,3,Ciencias Sociais,11539,Sim,5,2,0
+1009,24,Nao,Divorciado,Feminino,Nicole Oliveira,Saude,Diretor de Manufatura,17,1,Medicina,24117,Nao,4,2,3
+1011,31,Nao,Casado,Feminino,Catarina Fernandes,Saude,Diretor de Manufatura,1,1,Ciencias Sociais,11275,Nao,4,3,0
+1013,54,Nao,Casado,Feminino,Fernanda Alves,Saude,Diretor de Manufatura,17,3,Formacao Tecnica,13943,Nao,10,7,0
+1014,35,Nao,Divorciado,Feminino,Isabela Costa,Saude,Representante da Saude,,4,Medicina,6975,Sim,16,10,10
+1015,30,Nao,Casado,Feminino,Livia Rodrigues,Saude,Diretor de Pesquisa,8,2,Ciencias Sociais,17802,Sim,8,7,1
+1016,20,Sim,Solteiro,Feminino,Heloisa Oliveira,Saude,Pesquisador,11,3,Medicina,18275,Sim,1,0,0
+1017,30,Sim,Solteiro,Feminino,Rafaela Silva,Saude,Tecnico de Laboratorio,5,3,Medicina,25725,Nao,3,2,1
+1025,41,Nao,Solteiro,Feminino,Manuela Santos,Saude,Diretor de Manufatura,7,2,Medicina,23371,Nao,2,2,2
+1026,39,Nao,Casado,Feminino,Luana Pereira,Saude,Diretor de Manufatura,1,1,Ciencias Sociais,7060,Nao,21,6,11
+1027,27,Nao,Casado,Feminino,Yasmin Fernandes,Saude,Diretor de Manufatura,2,4,Ciencias Sociais,4658,Nao,3,2,2
+1032,59,Nao,Solteiro,Feminino,Mariana Almeida,Saude,Diretor de Manufatura,2,3,Ciencias Sociais,21829,Sim,5,3,4
+1033,37,Sim,Casado,Feminino,Leticia Oliveira,Saude,Representante da Saude,11,2,Medicina,14382,Nao,1,0,0
+1035,41,Nao,Divorciado,Feminino,Amanda Carvalho,Saude,Diretor de Pesquisa,7,1,Ciencias Sociais,20284,Nao,21,16,5
+1038,52,Sim,Casado,Feminino,Valentina Martins,Alimentos,Gestor,2,1,Marketing,25846,Nao,32,14,6
+1039,44,Nao,Casado,Feminino,Clara Souza,Alimentos,Auditor,28,3,Medicina,11737,Sim,12,11,11
+1040,50,Nao,Casado,Feminino,Eloa Rodrigues,Alimentos,Auditor,1,3,Ciencias Sociais,24920,Nao,18,7,0
+1042,36,Sim,Solteiro,Feminino,Luiza Fernandes,Saude,Tecnico de Laboratorio,16,4,Ciencias Sociais,8269,Nao,17,13,15
+1043,39,Nao,Solteiro,Feminino,Ana Beatriz Lima,Saude,Diretor de Manufatura,22,3,Medicina,5083,Sim,21,6,2
+1044,33,Nao,Solteiro,Feminino,Lavinia Costa,Alimentos,Representante de Setor,8,1,Ciencias Sociais,21437,Nao,2,2,2
+1045,45,Nao,Casado,Feminino,Beatriz Oliveira,Alimentos,Gestor,11,2,Ciencias Sociais,5404,Nao,9,3,1
+1046,32,Nao,Solteiro,Feminino,Isabela Martins,Saude,Tecnico de Laboratorio,29,4,Medicina,11135,Nao,8,7,7
+1050,53,Nao,Casado,Feminino,Gabriela Lima,Alimentos,Auditor,2,3,Marketing,23537,Nao,15,7,6
+1055,34,Nao,Casado,Feminino,Renata Almeida,Alimentos,Representante de Setor,10,4,Ciencias Sociais,18410,Sim,1,1,0
+1062,37,Nao,Solteiro,Feminino,Larissa Fernandes,Saude,Representante da Saude,3,3,Outros,13848,Nao,4,3,0
+1068,26,Nao,Divorciado,Feminino,Camila Santos,Saude,Pesquisador,1,1,Medicina,25265,Nao,5,3,1
+1070,54,Nao,Casado,Feminino,Fernanda Pereira,Alimentos,Auditor,2,4,Ciencias Sociais,8392,Nao,9,4,7
+1071,56,Nao,Casado,Feminino,Beatriz Rodrigues,Saude,Pesquisador,9,3,Medicina,12154,Nao,5,4,0
+1073,36,Nao,Solteiro,Feminino,Ana Costa,Saude,Diretor de Manufatura,12,5,Medicina,15669,Nao,14,8,7
+1077,20,Sim,Solteiro,Feminino,Isabella Martins,Alimentos,Representante de Setor,9,3,Marketing,17205,Sim,2,2,0
+1079,21,Sim,Solteiro,Feminino,Rafaela Silva,Saude,Tecnico de Laboratorio,10,3,Ciencias Sociais,17258,Nao,1,0,1
+1080,46,Nao,Divorciado,Feminino,Bianca Oliveira,Saude,Pesquisador,8,4,Ciencias Sociais,21029,Sim,16,13,1
+1085,41,Nao,Casado,Feminino,Juliana Souza,Saude,Pesquisador,7,2,Formacao Tecnica,18863,Nao,10,6,0
+1088,38,Nao,Casado,Feminino,Amanda Goncalves,Saude,Representante da Saude,17,1,Ciencias Sociais,24608,Nao,19,9,1
+1097,28,Nao,Solteiro,Feminino,Natalia Carvalho,Saude,Pesquisador,10,3,Outros,7909,Nao,8,7,1
+1101,33,Sim,Solteiro,Feminino,Carolina Rodrigues,Saude,Pesquisador,29,4,Medicina,3129,Nao,13,7,3
+1105,37,Nao,Divorciado,Feminino,Bruna Almeida,Alimentos,Auditor,10,4,Ciencias Sociais,24223,Sim,1,0,0
+1114,33,Nao,Casado,Feminino,Priscila Fernandes,Alimentos,Auditor,7,3,Ciencias Sociais,13401,Nao,3,2,0
+1117,45,Nao,Casado,Feminino,Thais Pereira,Alimentos,Auditor,9,4,Ciencias Sociais,17970,Nao,15,10,4
+1120,29,Nao,Divorciado,Feminino,Leticia Alves,Saude,Pesquisador,28,4,Ciencias Sociais,26968,Nao,7,5,1
+1121,28,Nao,Divorciado,Feminino,Adriana Lima,Saude,Diretor de Manufatura,3,3,Medicina,8039,Nao,9,7,1
+1126,43,Nao,Casado,Feminino,Patricia Oliveira,Saude,Diretor de Manufatura,,3,Ciencias Sociais,11535,Nao,8,7,0
+1131,21,Nao,Solteiro,Feminino,Vanessa Fernandes,Saude,Pesquisador,1,1,Formacao Tecnica,25326,Sim,2,2,2
+1143,29,Nao,Divorciado,Feminino,Luciana Santos,Saude,Pesquisador,10,3,Ciencias Sociais,17940,Nao,7,5,1
+1157,33,Sim,Solteiro,Feminino,Mariana Pereira,Alimentos,Auditor,9,4,Marketing,18385,Sim,5,2,0
+1161,37,Nao,Divorciado,Feminino,Giovanna Silva,Saude,Representante da Saude,25,2,Medicina,17171,Nao,6,2,1
+1163,34,Nao,Casado,Feminino,Laura Almeida,Alimentos,Auditor,9,1,Ciencias Sociais,5829,Nao,6,5,1
+1165,29,Sim,Casado,Feminino,Amanda Souza,Alimentos,Auditor,23,1,Ciencias Sociais,11162,Nao,11,8,3
+1166,40,Nao,Solteiro,Feminino,Maria Fernanda,Saude,Diretor de Pesquisa,9,4,Medicina,13782,Nao,18,7,2
+1175,28,Sim,Casado,Feminino,Giovanna Oliveira,Saude,Tecnico de Laboratorio,12,1,Ciencias Sociais,22955,Sim,1,1,0
+1180,40,Nao,Casado,Feminino,Luiza Martins,Saude,Pesquisador,26,2,Medicina,21203,Sim,1,1,0
+1188,43,Sim,Solteiro,Feminino,Isadora Almeida,Alimentos,Auditor,9,3,Marketing,9489,Nao,4,3,1
+1190,32,Nao,Divorciado,Feminino,Heloisa Costa,Alimentos,Representante de Setor,2,1,Ciencias Sociais,14947,Nao,1,0,0
+1191,56,Nao,Divorciado,Feminino,Lara Rodrigues,Saude,Gestor,4,4,Formacao Tecnica,18575,Nao,5,2,4
+1192,29,Nao,Casado,Feminino,Sophia Pereira,Saude,Tecnico de Laboratorio,6,1,Medicina,26342,Nao,10,8,0
+1195,45,Nao,Casado,Feminino,Valentina Carvalho,Saude,Pesquisador,7,3,Medicina,20100,Sim,3,2,0
+1196,37,Nao,Casado,Feminino,Clara Santos,Saude,Diretor de Manufatura,1,3,Ciencias Sociais,9961,Nao,14,8,3
+1201,53,Nao,Divorciado,Feminino,Manuela Silva,Saude,Gestor,7,2,Medicina,18640,Nao,7,7,4
+1202,29,Nao,Casado,Feminino,Alice Lima,Saude,Pesquisador,15,1,Ciencias Sociais,26933,Sim,5,4,1
+1204,46,Nao,Casado,Feminino,Gabriela Fernandes,Alimentos,Gestor,2,3,Marketing,24097,Nao,26,15,15
+1215,50,Nao,Casado,Feminino,Emanuelly Goncalves,Saude,Gestor,2,3,Medicina,9490,Nao,2,2,2
+1219,24,Sim,Casado,Feminino,Yasmin Pereira,Saude,Tecnico de Laboratorio,17,2,Ciencias Sociais,3372,Nao,1,0,0
+1220,33,Nao,Casado,Feminino,Eloa Oliveira,Alimentos,Auditor,25,3,Medicina,4905,Nao,10,7,0
+1234,32,Nao,Casado,Feminino,Luana Alves,Saude,Tecnico de Laboratorio,13,3,Outros,7331,Nao,2,2,2
+1235,32,Nao,Solteiro,Feminino,Lavinia Costa,Saude,Pesquisador,2,2,Ciencias Sociais,2338,Sim,8,7,0
+1237,36,Nao,Divorciado,Feminino,Beatriz Rodrigues,Saude,Diretor de Manufatura,1,3,Formacao Tecnica,4235,Sim,7,7,7
+1239,40,Nao,Divorciado,Feminino,Esther Souza,Alimentos,Auditor,10,3,Formacao Tecnica,11591,Nao,5,1,1
+1242,42,Nao,Casado,Feminino,Lara Lima,Saude,Diretor de Pesquisa,26,5,Medicina,23281,Sim,1,0,0
+1243,35,Nao,Casado,Feminino,Luna Martins,Alimentos,Auditor,8,2,Marketing,13755,Sim,13,2,4
+1245,54,Nao,Divorciado,Feminino,Mariana Oliveira,Saude,Diretor de Manufatura,1,4,Ciencias Sociais,9659,Nao,5,4,1
+1246,44,Nao,Casado,Feminino,Rafaela Carvalho,Saude,Pesquisador,2,1,Ciencias Sociais,19982,Nao,10,5,7
+1248,19,Sim,Solteiro,Feminino,Isabella Fernandes,Saude,Pesquisador,10,3,Medicina,6148,Sim,1,1,0
+1249,29,Nao,Divorciado,Feminino,Ana Luiza Silva,Saude,Pesquisador,1,3,Ciencias Sociais,5598,Nao,3,2,1
+1252,31,Nao,Solteiro,Feminino,Vitoria Almeida,Saude,Representante da Saude,,3,Medicina,17198,Nao,10,9,1
+1254,59,Nao,Solteiro,Feminino,Luiza Costa,Alimentos,Auditor,3,3,Ciencias Sociais,16490,Nao,6,1,0
+1264,29,Nao,Divorciado,Feminino,Malu Santos,Saude,Diretor de Pesquisa,1,3,Ciencias Sociais,3423,Nao,7,7,1
+1265,34,Nao,Casado,Feminino,Melissa Pereira,Saude,Pesquisador,20,3,Formacao Tecnica,21643,Nao,1,0,0
+1269,19,Nao,Solteiro,Feminino,Marina Oliveira,Saude,Pesquisador,25,3,Ciencias Sociais,21221,Sim,1,0,0
+1277,45,Sim,Solteiro,Feminino,Milena Carvalho,Alimentos,Gestor,2,3,Marketing,2493,Sim,24,10,1
+1279,21,Sim,Solteiro,Feminino,Rebeca Fernandes,Saude,Tecnico de Laboratorio,10,2,Ciencias Sociais,25308,Nao,2,2,2
+1280,46,Nao,Casado,Feminino,Ana Clara Almeida,Alimentos,Gestor,4,2,Marketing,9946,Nao,11,4,0
+1281,34,Nao,Solteiro,Feminino,Amanda Lima,Alimentos,Auditor,2,3,Marketing,6039,Sim,3,2,0
+1285,34,Nao,Divorciado,Feminino,Maria Eduarda Rodrigues,Saude,Tecnico de Laboratorio,19,3,Medicina,22534,Nao,11,8,5
+1292,42,Nao,Casado,Feminino,Laura Pereira,Saude,Pesquisador,7,4,Medicina,5628,Sim,1,0,0
+1293,43,Nao,Solteiro,Feminino,Nicole Oliveira,Alimentos,Auditor,4,4,Marketing,20364,Nao,21,7,15
+1294,36,Nao,Solteiro,Feminino,Catarina Fernandes,Saude,Diretor de Manufatura,2,4,Ciencias Sociais,2323,Sim,16,14,5
+1295,44,Sim,Casado,Feminino,Fernanda Alves,Saude,Representante da Saude,15,3,Medicina,14075,Nao,10,7,0
+1297,51,Nao,Solteiro,Feminino,Maria da Silva,Saude,Tecnico de Laboratorio,6,2,Medicina,4257,Nao,7,0,7
+1298,30,Nao,Solteiro,Feminino,Ana Oliveira,Saude,Diretor de Manufatura,9,2,Medicina,12858,Sim,8,4,1
+1299,29,Sim,Divorciado,Feminino,Juliana Santos,Saude,Tecnico de Laboratorio,7,3,Formacao Tecnica,17285,Sim,7,7,7
+1303,25,Nao,Solteiro,Feminino,Fernanda Costa,Saude,Pesquisador,1,3,Medicina,18830,Nao,2,2,2
+1306,45,Nao,Solteiro,Feminino,Beatriz Lima,Saude,Gestor,25,3,Medicina,13035,Nao,0,0,0
+1307,39,Nao,Divorciado,Feminino,Adriana Pereira,Saude,Gestor,13,4,Medicina,17334,Sim,19,9,15
+1311,30,Nao,Casado,Feminino,Patricia Almeida,Saude,Tecnico de Laboratorio,6,3,Formacao Tecnica,23631,Nao,9,2,6
+1312,36,Nao,Casado,Feminino,Camila Fernandes,Saude,Representante da Saude,10,4,Formacao Tecnica,5747,Nao,7,7,1
+1314,46,Nao,Solteiro,Feminino,Rafaela Martins,Medicamentos,Tecnico de TI,1,2,Ciencias Sociais,22957,Nao,7,6,5
+1315,28,Nao,Casado,Feminino,Bianca Carvalho,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,16392,Nao,9,8,7
+1317,50,Nao,Casado,Feminino,Vanessa Souza,Saude,Diretor de Pesquisa,28,3,Ciencias Sociais,22422,Sim,3,2,1
+1321,30,Nao,Casado,Feminino,Luciana Goncalves,Saude,Gestor,17,4,Medicina,25927,Sim,9,1,0
+1324,31,Nao,Divorciado,Feminino,Amanda Rodrigues,Alimentos,Auditor,2,4,Ciencias Sociais,8935,Sim,10,8,9
+1331,31,Sim,Solteiro,Feminino,Isabela Oliveira,Alimentos,Representante de Setor,1,3,Ciencias Sociais,8319,Sim,3,2,2
+1336,55,Nao,Casado,Feminino,Larissa Silva,Saude,Gestor,2,2,Medicina,6992,Nao,19,9,9
+1349,41,Nao,Divorciado,Feminino,Leticia Santos,Alimentos,Auditor,1,3,Marketing,4297,Nao,9,3,1
+1355,38,Nao,Divorciado,Feminino,Bruna Costa,Alimentos,Auditor,2,2,Ciencias Sociais,19461,Nao,7,7,1
+1356,34,Nao,Solteiro,Feminino,Carolina Lima,Alimentos,Auditor,15,2,Medicina,23553,Nao,10,8,9
+1360,58,Sim,Casado,Feminino,Priscila Pereira,Saude,Diretor de Manufatura,7,4,Medicina,12023,Sim,10,9,5
+1362,36,Nao,Casado,Feminino,Thais Almeida,Alimentos,Auditor,7,3,Marketing,2261,Nao,15,7,6
+1364,27,Nao,Casado,Feminino,Renata Fernandes,Alimentos,Representante de Setor,11,3,Medicina,6527,Nao,1,0,0
+1367,51,Nao,Solteiro,Feminino,Natalia Martins,Saude,Diretor de Manufatura,,2,Formacao Tecnica,24439,Nao,5,2,0
+1368,18,Nao,Solteiro,Feminino,Mariana Carvalho,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,19305,Nao,0,0,0
+1369,35,Nao,Casado,Feminino,Debora Souza,Saude,Tecnico de Laboratorio,1,3,Medicina,10846,Nao,9,7,0
+1374,34,Nao,Divorciado,Feminino,Gabriela Goncalves,Saude,Pesquisador,26,1,Formacao Tecnica,15891,Nao,5,4,0
+1375,40,Nao,Divorciado,Feminino,Jessica Rodrigues,Saude,Representante da Saude,2,1,Medicina,13888,Nao,12,11,11
+1379,31,Sim,Solteiro,Feminino,Patricia Oliveira,Alimentos,Representante de Setor,2,3,Ciencias Sociais,11882,Nao,1,0,0
+1380,35,Sim,Casado,Feminino,Daniela Silva,Alimentos,Auditor,18,4,Marketing,23288,Sim,4,2,3
+1383,34,Nao,Solteiro,Feminino,Fernanda Santos,Saude,Representante da Saude,2,4,Formacao Tecnica,6163,Nao,14,11,4
+1392,41,Nao,Divorciado,Feminino,Paula Costa,Saude,Pesquisador,22,3,Ciencias Sociais,13953,Sim,6,2,3
+1401,52,Nao,Casado,Feminino,Amanda Lima,Saude,Diretor de Manufatura,28,2,Medicina,9731,Sim,5,3,0
+1402,43,Nao,Solteiro,Feminino,Tatiane Pereira,Saude,Pesquisador,6,3,Medicina,20003,Sim,20,7,1
+1403,27,Nao,Casado,Feminino,Sabrina Almeida,Alimentos,Auditor,10,3,Marketing,7100,Sim,6,2,4
+1405,27,Sim,Solteiro,Feminino,Bianca Fernandes,Saude,Pesquisador,17,4,Ciencias Sociais,25681,Sim,8,2,7
+1408,42,Nao,Casado,Feminino,Luana Martins,Medicamentos,Gestor,10,3,Recursos Humanos,16616,Nao,20,7,0
+1409,52,Nao,Casado,Feminino,Caroline Carvalho,Saude,Tecnico de Laboratorio,8,4,Outros,17363,Nao,5,4,0
+1411,37,Nao,Solteiro,Feminino,Vivian Goncalves,Saude,Tecnico de Laboratorio,11,3,Medicina,19106,Nao,3,2,0
+1421,29,Sim,Solteiro,Feminino,Rafaela Rodrigues,Saude,Representante da Saude,14,1,Outros,22930,Sim,8,7,7
+1422,54,Nao,Solteiro,Feminino,Laura Oliveira,Saude,Diretor de Pesquisa,1,3,Medicina,5652,Nao,20,7,12
+1423,58,Nao,Casado,Feminino,Isadora Silva,Saude,Diretor de Pesquisa,1,3,Medicina,22456,Sim,9,8,1
+1425,36,Nao,Solteiro,Feminino,Beatriz Santos,Alimentos,Auditor,3,4,Marketing,20763,Sim,5,4,0
+1427,31,Sim,Solteiro,Feminino,Alessandra Lima,Alimentos,Representante de Setor,1,4,Ciencias Sociais,16154,Nao,1,0,0
+1428,30,Nao,Divorciado,Feminino,Raquel Pereira,Alimentos,Auditor,7,4,Marketing,12761,Nao,3,2,0
+1430,31,Nao,Solteiro,Feminino,Michele Almeida,Saude,Diretor de Pesquisa,8,5,Ciencias Sociais,8847,Nao,3,2,1
+1433,31,Sim,Solteiro,Feminino,Patricia Fernandes,Saude,Pesquisador,8,3,Ciencias Sociais,22262,Nao,1,0,0
+1436,36,Nao,Casado,Feminino,Bruna Martins,Alimentos,Auditor,16,4,Marketing,13494,Nao,3,2,0
+1441,56,Nao,Casado,Feminino,Vanessa Carvalho,Saude,Pesquisador,1,2,Ciencias Sociais,10494,Nao,3,2,1
+1443,47,Nao,Casado,Feminino,Renata Souza,Saude,Diretor de Pesquisa,2,4,Medicina,26703,Nao,20,17,5
+1445,24,Nao,Casado,Feminino,Amanda Goncalves,Alimentos,Auditor,,1,Medicina,15211,Sim,5,4,0
+1447,34,Nao,Casado,Feminino,Thais Rodrigues,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,3708,Nao,5,4,0
+1458,39,Sim,Solteiro,Feminino,Leticia Oliveira,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,17181,Sim,1,0,0
+1459,31,Sim,Solteiro,Feminino,Natalia Santos,Saude,Diretor de Manufatura,1,5,Ciencias Sociais,8931,Nao,10,8,4
+1461,31,Nao,Solteiro,Feminino,Ana Pereira,Medicamentos,Tecnico de TI,8,2,Medicina,24609,Nao,3,2,0
+1467,34,Sim,Casado,Feminino,Luana Almeida,Medicamentos,Tecnico de TI,9,4,Formacao Tecnica,3072,Nao,2,2,2
+1480,42,Nao,Solteiro,Feminino,Bruna Fernandes,Saude,Tecnico de Laboratorio,9,2,Medicina,16458,Nao,12,9,5
+1481,44,Nao,Casado,Feminino,Amanda Martins,Alimentos,Auditor,1,5,Marketing,9282,Nao,1,0,0
+1487,29,Sim,Solteiro,Feminino,Tatiane Carvalho,Alimentos,Auditor,13,3,Formacao Tecnica,17485,Nao,5,3,0
+1489,34,Sim,Solteiro,Feminino,Patricia Souza,Alimentos,Auditor,24,4,Medicina,7815,Sim,15,9,10
+1495,24,Nao,Casado,Feminino,Jessica Goncalves,Alimentos,Representante de Setor,13,2,Ciencias Sociais,7103,Nao,1,0,0
+1502,33,Nao,Casado,Feminino,Mariana Rodrigues,Saude,Tecnico de Laboratorio,4,4,Medicina,8192,Nao,5,4,0
+1503,47,Nao,Casado,Feminino,Vanessa Oliveira,Alimentos,Auditor,14,3,Medicina,24200,Sim,5,4,1
+1509,49,Nao,Casado,Feminino,Adriana Silva,Saude,Tecnico de Laboratorio,3,2,Medicina,23070,Nao,3,2,1
+1513,29,Nao,Casado,Feminino,Debora Santos,Saude,Tecnico de Laboratorio,2,1,Ciencias Sociais,4668,Nao,3,2,0
+1520,54,Nao,Divorciado,Feminino,Fernanda Costa,Saude,Gestor,11,4,Medicina,24456,Nao,14,9,1
+1525,39,Nao,Solteiro,Feminino,Larissa Lima,Saude,Diretor de Manufatura,6,3,Ciencias Sociais,9150,Nao,2,0,2
+1527,46,Nao,Casado,Feminino,Paula Pereira,Alimentos,Gestor,3,3,Ciencias Sociais,11380,Nao,13,12,5
+1529,35,Nao,Solteiro,Feminino,Beatriz Almeida,Saude,Representante da Saude,16,3,Ciencias Sociais,21195,Nao,11,8,3
+1537,31,Sim,Solteiro,Feminino,Amanda Fernandes,Saude,Pesquisador,3,3,Ciencias Sociais,4156,Nao,7,2,7
+1544,29,Nao,Casado,Feminino,Leticia Martins,Saude,Representante da Saude,8,1,Outros,7288,Nao,7,7,0
+1554,35,Nao,Casado,Feminino,Bruna Carvalho,Alimentos,Representante de Setor,28,4,Ciencias Sociais,26204,Nao,5,3,4
+1555,32,Nao,Casado,Feminino,Carolina Souza,Saude,Pesquisador,5,2,Ciencias Sociais,15624,Nao,7,1,2
+1557,48,Nao,Divorciado,Feminino,Isabela Rodrigues,Alimentos,Auditor,16,4,Ciencias Sociais,13693,Nao,8,7,7
+1569,35,Sim,Divorciado,Feminino,Luana Oliveira,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,26619,Sim,1,0,0
+1572,53,Sim,Casado,Feminino,Rafaela Santos,Saude,Diretor de Manufatura,2,5,Formacao Tecnica,14618,Nao,33,7,1
+1576,48,Nao,Casado,Feminino,Juliana Lima,Saude,Pesquisador,15,4,Outros,16530,Nao,8,2,7
+1581,26,Nao,Casado,Feminino,Adriana Pereira,Saude,Pesquisador,3,3,Ciencias Sociais,11133,Nao,1,0,0
+1583,38,Nao,Solteiro,Feminino,Patricia Almeida,Alimentos,Auditor,16,3,Ciencias Sociais,16379,Nao,3,2,1
+1585,36,Nao,Solteiro,Feminino,Camila Fernandes,Alimentos,Auditor,1,4,Ciencias Sociais,21447,Nao,1,0,0
+1587,35,Nao,Solteiro,Feminino,Rafaela Martins,Saude,Representante da Saude,,4,Medicina,4223,Sim,5,2,0
+1598,40,Nao,Casado,Feminino,Bianca Carvalho,Alimentos,Auditor,14,2,Ciencias Sociais,11262,Nao,5,4,1
+1605,22,Nao,Casado,Feminino,Vanessa Souza,Saude,Pesquisador,26,2,Outros,10293,Sim,4,2,1
+1607,32,Nao,Casado,Feminino,Luciana Goncalves,Saude,Pesquisador,5,4,Outros,18783,Nao,3,2,0
+1608,44,Nao,Divorciado,Feminino,Amanda Rodrigues,Saude,Diretor de Pesquisa,7,3,Medicina,3549,Sim,22,7,1
+1611,45,Nao,Solteiro,Feminino,Isabela Oliveira,Saude,Tecnico de Laboratorio,5,5,Medicina,23447,Sim,10,7,1
+1614,36,Nao,Casado,Feminino,Larissa Silva,Saude,Diretor de Manufatura,12,4,Ciencias Sociais,12421,Sim,3,2,1
+1617,49,Nao,Casado,Feminino,Leticia Santos,Saude,Tecnico de Laboratorio,25,4,Ciencias Sociais,22102,Nao,9,6,1
+1622,28,Nao,Divorciado,Feminino,Bruna Costa,Saude,Diretor de Manufatura,27,3,Medicina,20460,Nao,5,3,0
+1624,18,Sim,Solteiro,Feminino,Carolina Lima,Alimentos,Representante de Setor,3,2,Medicina,18420,Sim,0,0,0
+1625,47,Nao,Casado,Feminino,Priscila Pereira,Medicamentos,Gestor,26,4,Ciencias Sociais,5220,Nao,5,2,1
+1628,40,Nao,Casado,Feminino,Thais Almeida,Saude,Diretor de Manufatura,15,3,Ciencias Sociais,25800,Nao,18,15,14
+1630,35,Nao,Casado,Feminino,Renata Fernandes,Saude,Representante da Saude,8,4,Ciencias Sociais,12250,Nao,14,11,2
+1633,39,Nao,Solteiro,Feminino,Natalia Martins,Saude,Diretor de Manufatura,4,3,Medicina,3140,Nao,9,2,3
+1635,45,Nao,Divorciado,Feminino,Mariana Carvalho,Saude,Diretor de Manufatura,2,2,Outros,5388,Nao,10,7,3
+1638,38,Nao,Casado,Feminino,Debora Souza,Saude,Diretor de Manufatura,2,2,Medicina,14199,Sim,5,4,0
+1640,37,Nao,Casado,Feminino,Gabriela Goncalves,Saude,Pesquisador,10,3,Medicina,9953,Nao,8,4,7
+1641,40,Nao,Solteiro,Feminino,Jessica Rodrigues,Saude,Diretor de Manufatura,16,3,Ciencias Sociais,19948,Sim,4,2,3
+1646,24,Nao,Solteiro,Feminino,Patricia Oliveira,Saude,Pesquisador,2,1,Formacao Tecnica,17218,Sim,6,3,1
+1647,27,Nao,Casado,Feminino,Daniela Silva,Saude,Pesquisador,8,3,Medicina,22490,Nao,3,2,0
+1651,36,Nao,Casado,Feminino,Fernanda Santos,Saude,Representante da Saude,5,4,Ciencias Sociais,22792,Nao,3,2,0
+1655,49,Nao,Casado,Feminino,Paula Costa,Saude,Diretor de Pesquisa,22,4,Outros,3498,Nao,4,2,1
+1656,50,Nao,Divorciado,Feminino,Amanda Lima,Saude,Diretor de Pesquisa,17,5,Ciencias Sociais,21981,Nao,14,11,1
+1657,20,Nao,Solteiro,Feminino,Tatiane Pereira,Alimentos,Representante de Setor,2,3,Medicina,13251,Nao,2,2,2
+1658,34,Nao,Divorciado,Feminino,Sabrina Almeida,Saude,Pesquisador,3,3,Ciencias Sociais,19332,Nao,11,8,7
+1661,49,Nao,Casado,Feminino,Bianca Fernandes,Saude,Representante da Saude,6,1,Ciencias Sociais,11652,Sim,15,11,2
+1662,36,Nao,Casado,Feminino,Luana Martins,Saude,Diretor de Manufatura,1,4,Medicina,15411,Nao,3,2,1
+1665,54,Nao,Casado,Feminino,Caroline Carvalho,Saude,Gestor,22,5,Medicina,18685,Nao,10,8,4
+1673,31,Nao,Casado,Feminino,Vivian Goncalves,Alimentos,Auditor,5,4,Ciencias Sociais,22589,Nao,10,0,0
+1674,49,Nao,Divorciado,Feminino,Rafaela Rodrigues,Saude,Tecnico de Laboratorio,16,3,Medicina,24941,Sim,2,2,2
+1675,38,Nao,Solteiro,Feminino,Laura Oliveira,Saude,Tecnico de Laboratorio,2,3,Medicina,23826,Nao,4,3,3
+1676,47,Nao,Divorciado,Feminino,Isadora Silva,Alimentos,Gestor,2,4,Ciencias Sociais,21086,Nao,3,2,1
+1681,33,Nao,Divorciado,Feminino,Beatriz Santos,Alimentos,Auditor,,3,Ciencias Sociais,16130,Sim,6,5,1
+1683,44,Nao,Divorciado,Feminino,Alessandra Lima,Medicamentos,Tecnico de TI,1,3,Ciencias Sociais,4167,Sim,2,2,2
+1687,38,Nao,Casado,Feminino,Raquel Pereira,Saude,Tecnico de Laboratorio,4,2,Medicina,26176,Nao,0,0,0
+1691,48,Sim,Casado,Feminino,Michele Almeida,Alimentos,Representante de Setor,7,2,Medicina,11740,Sim,9,7,7
+1701,34,Nao,Casado,Feminino,Patricia Fernandes,Saude,Pesquisador,19,3,Ciencias Sociais,20338,Nao,10,9,8
+1703,44,Nao,Casado,Feminino,Bruna Martins,Saude,Representante da Saude,2,3,Ciencias Sociais,14810,Sim,8,7,6
+1709,29,Nao,Casado,Feminino,Vanessa Carvalho,Saude,Tecnico de Laboratorio,9,4,Medicina,25412,Nao,5,3,1
+1710,36,Nao,Solteiro,Feminino,Renata Souza,Alimentos,Representante de Setor,2,4,Ciencias Sociais,7439,Nao,13,7,6
+1719,45,Nao,Solteiro,Feminino,Amanda Goncalves,Saude,Diretor de Pesquisa,28,2,Formacao Tecnica,17119,Nao,21,6,8
+1724,40,Nao,Casado,Feminino,Thais Rodrigues,Saude,Diretor de Manufatura,8,2,Ciencias Sociais,5041,Sim,1,0,0
+1735,23,Nao,Solteiro,Feminino,Leticia Oliveira,Saude,Tecnico de Laboratorio,4,1,Medicina,12862,Nao,3,2,1
+1736,31,Nao,Solteiro,Feminino,Natalia Santos,Saude,Diretor de Manufatura,24,1,Formacao Tecnica,6670,Nao,5,4,1
+1744,45,Nao,Casado,Feminino,Ana Pereira,Medicamentos,Tecnico de TI,4,3,Ciencias Sociais,6595,Nao,5,0,0
+1745,30,Nao,Solteiro,Feminino,Luana Almeida,Saude,Pesquisador,2,4,Formacao Tecnica,26427,Nao,9,7,0
+1747,30,Sim,Divorciado,Feminino,Bruna Fernandes,Medicamentos,Tecnico de TI,8,3,Recursos Humanos,9732,Nao,4,2,1
+1751,27,Nao,Solteiro,Feminino,Amanda Martins,Saude,Pesquisador,8,3,Medicina,6152,Nao,6,2,1
+1752,29,Sim,Solteiro,Feminino,Tatiane Carvalho,Alimentos,Representante de Setor,9,3,Marketing,14630,Nao,2,2,2
+1756,33,Nao,Solteiro,Feminino,Patricia Souza,Alimentos,Auditor,2,3,Marketing,10697,Nao,11,7,1
+1757,49,Nao,Solteiro,Feminino,Jessica Goncalves,Alimentos,Auditor,11,4,Marketing,8191,Nao,5,1,0
+1758,33,Sim,Solteiro,Feminino,Mariana Rodrigues,Alimentos,Auditor,16,3,Ciencias Sociais,10092,Sim,0,0,0
+1760,38,Nao,Casado,Feminino,Vanessa Oliveira,Saude,Tecnico de Laboratorio,2,2,Medicina,15963,Nao,6,1,0
+1762,29,Nao,Divorciado,Feminino,Adriana Silva,Saude,Pesquisador,4,3,Formacao Tecnica,10007,Nao,1,0,0
+1775,53,Nao,Casado,Feminino,Debora Santos,Saude,Diretor de Manufatura,1,4,Medicina,22308,Sim,3,2,0
+1779,34,Nao,Solteiro,Feminino,Fernanda Costa,Alimentos,Auditor,3,2,Ciencias Sociais,25353,Nao,2,2,2
+1782,38,Nao,Casado,Feminino,Larissa Lima,Saude,Tecnico de Laboratorio,6,2,Outros,16376,Nao,5,4,0
+1783,22,Sim,Casado,Feminino,Paula Pereira,Saude,Tecnico de Laboratorio,8,1,Medicina,15999,Sim,1,0,0
+1784,31,Nao,Casado,Feminino,Beatriz Almeida,Alimentos,Auditor,29,4,Marketing,13402,Nao,12,7,5
+1786,51,Nao,Casado,Feminino,Amanda Fernandes,Saude,Gestor,3,3,Formacao Tecnica,22984,Nao,2,2,2
+1802,40,Nao,Casado,Feminino,Leticia Martins,Saude,Tecnico de Laboratorio,,2,Ciencias Sociais,25605,Nao,4,3,0
+1815,41,Nao,Divorciado,Feminino,Bruna Carvalho,Alimentos,Auditor,4,1,Marketing,26458,Sim,22,14,13
+1816,30,Nao,Solteiro,Feminino,Carolina Souza,Saude,Diretor de Manufatura,10,3,Medicina,2739,Nao,7,7,0
+1818,26,Sim,Casado,Feminino,Isabela Rodrigues,Medicamentos,Tecnico de TI,20,2,Medicina,6889,Sim,5,1,1
+1821,46,Sim,Casado,Feminino,Luana Oliveira,Saude,Representante da Saude,21,2,Medicina,10842,Nao,9,7,3
+1822,40,Nao,Divorciado,Feminino,Rafaela Santos,Saude,Representante da Saude,1,3,Ciencias Sociais,9060,Nao,5,3,0
+1827,47,Nao,Divorciado,Feminino,Juliana Lima,Saude,Diretor de Manufatura,4,3,Ciencias Sociais,19271,Sim,22,11,14
+1829,40,Nao,Divorciado,Feminino,Adriana Pereira,Saude,Representante da Saude,12,3,Ciencias Sociais,10748,Nao,7,4,7
+1830,54,Nao,Casado,Feminino,Patricia Almeida,Saude,Pesquisador,7,4,Medicina,15696,Nao,7,1,1
+1833,31,Nao,Casado,Feminino,Camila Fernandes,Alimentos,Auditor,7,4,Marketing,8277,Nao,3,2,2
+1834,28,Nao,Casado,Feminino,Rafaela Martins,Saude,Pesquisador,1,3,Medicina,12719,Nao,3,2,1
+1835,38,Nao,Casado,Feminino,Bianca Carvalho,Alimentos,Representante de Setor,2,4,Marketing,4244,Sim,4,2,0
+1839,18,Nao,Solteiro,Feminino,Vanessa Souza,Saude,Pesquisador,14,3,Medicina,8018,Nao,0,0,0
+1845,45,Nao,Casado,Feminino,Luciana Goncalves,Alimentos,Auditor,2,4,Ciencias Sociais,19665,Nao,8,7,5
+1847,36,Nao,Casado,Feminino,Amanda Rodrigues,Saude,Pesquisador,2,4,Outros,19573,Sim,1,0,0
+1850,27,Nao,Solteiro,Feminino,Isabela Oliveira,Saude,Tecnico de Laboratorio,5,2,Ciencias Sociais,19826,Sim,5,4,0
+1856,47,Nao,Solteiro,Feminino,Larissa Silva,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,5411,Nao,2,2,2
+1863,46,Nao,Divorciado,Feminino,Leticia Santos,Alimentos,Auditor,3,3,Formacao Tecnica,7739,Nao,19,17,2
+1864,27,Nao,Casado,Feminino,Bruna Costa,Alimentos,Representante de Setor,23,1,Medicina,7018,Nao,9,8,5
+1866,43,Nao,Casado,Feminino,Carolina Lima,Saude,Gestor,6,3,Medicina,22539,Nao,16,12,6
+1869,46,Sim,Casado,Feminino,Priscila Pereira,Alimentos,Auditor,10,3,Ciencias Sociais,14011,Nao,8,7,0
+1870,27,Nao,Casado,Feminino,Thais Almeida,Saude,Pesquisador,15,3,Ciencias Sociais,23844,Nao,7,6,7
+1875,28,Nao,Casado,Feminino,Renata Fernandes,Alimentos,Representante de Setor,3,3,Medicina,3692,Nao,1,0,0
+1880,36,Nao,Casado,Feminino,Natalia Martins,Alimentos,Auditor,10,4,Formacao Tecnica,6060,Sim,10,9,1
+1886,35,Nao,Casado,Feminino,Mariana Carvalho,Saude,Diretor de Manufatura,16,2,Outros,25388,Sim,3,2,0
+1888,45,Nao,Casado,Feminino,Debora Souza,Saude,Diretor de Manufatura,25,2,Ciencias Sociais,23888,Nao,9,8,3
+1893,26,Nao,Casado,Feminino,Gabriela Goncalves,Saude,Pesquisador,1,2,Ciencias Sociais,14908,Sim,1,0,1
+1898,27,Nao,Solteiro,Feminino,Jessica Rodrigues,Alimentos,Auditor,2,2,Medicina,26997,Nao,8,7,0
+1900,48,Nao,Divorciado,Feminino,Patricia Oliveira,Saude,Gestor,22,3,Medicina,2437,Nao,22,17,4
+1909,41,Nao,Casado,Feminino,Daniela Silva,Alimentos,Auditor,8,3,Marketing,26841,Nao,5,4,1
+1912,31,Nao,Divorciado,Feminino,Fernanda Santos,Alimentos,Auditor,10,2,Medicina,20115,Sim,5,2,1
+1915,34,Nao,Casado,Feminino,Paula Costa,Alimentos,Auditor,3,1,Medicina,16495,Sim,4,2,0
+1916,31,Nao,Divorciado,Feminino,Amanda Lima,Saude,Tecnico de Laboratorio,4,3,Medicina,16031,Nao,2,2,2
+1929,39,Nao,Casado,Feminino,Tatiane Pereira,Alimentos,Auditor,21,4,Ciencias Sociais,3987,Nao,3,2,1
+1933,28,Sim,Solteiro,Feminino,Sabrina Almeida,Alimentos,Auditor,13,2,Marketing,23352,Sim,2,0,2
+1935,56,Nao,Casado,Feminino,Bianca Fernandes,Alimentos,Auditor,,5,Marketing,20328,Nao,0,0,0
+1937,38,Nao,Divorciado,Feminino,Luana Martins,Saude,Pesquisador,8,3,Medicina,18115,Sim,20,11,0
+1938,58,Nao,Casado,Feminino,Caroline Carvalho,Alimentos,Gestor,21,3,Ciencias Sociais,11761,Sim,1,0,0
+1939,32,Sim,Solteiro,Feminino,Vivian Goncalves,Saude,Pesquisador,5,2,Ciencias Sociais,15318,Sim,4,1,0
+1944,27,Sim,Casado,Feminino,Rafaela Rodrigues,Medicamentos,Tecnico de TI,22,3,Recursos Humanos,19555,Nao,1,0,0
+1955,32,Nao,Divorciado,Feminino,Laura Oliveira,Saude,Representante da Saude,15,4,Medicina,16542,Nao,5,1,1
+1962,35,Nao,Casado,Feminino,Isadora Silva,Alimentos,Auditor,7,4,Ciencias Sociais,13586,Sim,10,8,0
+1969,54,Nao,Casado,Feminino,Beatriz Santos,Saude,Pesquisador,9,2,Ciencias Sociais,22474,Nao,4,3,2
+1974,31,Nao,Divorciado,Feminino,Alessandra Lima,Saude,Tecnico de Laboratorio,2,1,Medicina,17536,Sim,1,0,0
+1979,31,Nao,Casado,Feminino,Raquel Pereira,Saude,Diretor de Pesquisa,10,3,Medicina,26862,Nao,11,7,4
+1980,54,Nao,Solteiro,Feminino,Michele Almeida,Saude,Diretor de Manufatura,10,3,Medicina,25198,Sim,5,2,1
+1985,40,Nao,Casado,Feminino,Patricia Fernandes,Saude,Tecnico de Laboratorio,11,3,Formacao Tecnica,26849,Nao,10,9,9
+1986,40,Nao,Casado,Feminino,Bruna Martins,Alimentos,Auditor,2,2,Marketing,4258,Nao,11,8,5
+1987,25,Nao,Casado,Feminino,Vanessa Carvalho,Medicamentos,Tecnico de TI,2,3,Recursos Humanos,19655,Nao,2,0,1
+2000,47,Nao,Casado,Feminino,Renata Souza,Saude,Diretor de Pesquisa,1,1,Medicina,17231,Nao,13,8,5
+2009,33,Nao,Casado,Feminino,Amanda Goncalves,Saude,Representante da Saude,15,2,Medicina,21653,Sim,9,7,8
+2010,32,Nao,Solteiro,Feminino,Thais Rodrigues,Saude,Tecnico de Laboratorio,29,4,Ciencias Sociais,15919,Nao,6,2,4
+2015,38,Nao,Casado,Feminino,Leticia Oliveira,Saude,Diretor de Pesquisa,10,3,Medicina,3376,Nao,18,16,1
+2016,32,Nao,Casado,Feminino,Natalia Santos,Alimentos,Auditor,1,4,Marketing,24032,Nao,14,10,5
+2017,37,Nao,Casado,Feminino,Ana Pereira,Saude,Diretor de Pesquisa,10,3,Ciencias Sociais,15471,Sim,16,11,6
+2018,25,Nao,Divorciado,Feminino,Luana Almeida,Alimentos,Auditor,8,2,Outros,13684,Sim,5,3,0
+2024,36,Nao,Casado,Feminino,Bruna Fernandes,Alimentos,Auditor,3,3,Medicina,12695,Nao,9,7,3
+2025,36,Nao,Divorciado,Feminino,Amanda Martins,Saude,Diretor de Manufatura,4,2,Ciencias Sociais,9192,Nao,4,2,0
+2034,41,Nao,Casado,Feminino,Tatiane Carvalho,Saude,Diretor de Manufatura,28,4,Ciencias Sociais,5640,Nao,20,7,0
+2035,34,Nao,Casado,Feminino,Patricia Souza,Alimentos,Auditor,28,3,Marketing,8978,Nao,8,7,1
+2040,35,Nao,Solteiro,Feminino,Jessica Goncalves,Medicamentos,Tecnico de TI,26,4,Ciencias Sociais,16642,Sim,9,0,1
+2041,38,Nao,Casado,Feminino,Mariana Rodrigues,Alimentos,Auditor,10,2,Ciencias Sociais,5982,Nao,10,7,1
+2045,36,Nao,Casado,Feminino,Vanessa Oliveira,Alimentos,Auditor,11,4,Marketing,14369,Nao,6,3,0
+2046,45,Nao,Solteiro,Feminino,Adriana Silva,Alimentos,Auditor,20,3,Ciencias Sociais,23333,Nao,5,3,0
+2051,40,Nao,Casado,Feminino,Debora Santos,Saude,Pesquisador,2,4,Medicina,12549,Nao,5,3,0
+2052,35,Nao,Casado,Feminino,Fernanda Costa,Saude,Pesquisador,1,4,Ciencias Sociais,8952,Nao,4,3,1
+2054,29,Nao,Solteiro,Feminino,Larissa Lima,Saude,Pesquisador,28,4,Medicina,8489,Nao,5,4,0
+2056,39,Nao,Casado,Feminino,Paula Pereira,Alimentos,Auditor,24,1,Marketing,8828,Nao,20,9,9
+2060,26,Nao,Solteiro,Feminino,Beatriz Almeida,Alimentos,Representante de Setor,5,3,Outros,21378,Nao,4,2,0
+2,49,Nao,Casado,Masculino,Aarao Silva,Saude,Pesquisador,8,1,Ciencias Sociais,24907,Nao,10,7,1
+4,37,Sim,Solteiro,Masculino,Abdiel Oliveira,Saude,Tecnico de Laboratorio,2,2,Outros,2396,Sim,0,0,0
+7,27,Nao,Casado,Masculino,Abel Cardoso,Saude,Tecnico de Laboratorio,2,1,Medicina,16632,Nao,2,2,2
+8,32,Nao,Solteiro,Masculino,Abelardo Ferreira,Saude,Tecnico de Laboratorio,2,2,Ciencias Sociais,11864,Nao,7,7,3
+11,30,Nao,Divorciado,Masculino,Absalao Souza,Saude,Tecnico de Laboratorio,24,1,Ciencias Sociais,13335,Nao,1,0,0
+12,38,Nao,Solteiro,Masculino,Adalberto Costa,Saude,Diretor de Manufatura,23,3,Ciencias Sociais,8787,Nao,9,7,1
+13,36,Nao,Casado,Masculino,Adao Nunes,Saude,Representante da Saude,27,3,Medicina,16577,Nao,7,7,7
+14,35,Nao,Casado,Masculino,Adriano Santos,Saude,Tecnico de Laboratorio,16,3,Medicina,16479,Nao,5,4,0
+16,31,Nao,Divorciado,Masculino,Afonso Pereira,Saude,Pesquisador,26,1,Ciencias Sociais,15170,Nao,5,2,4
+18,34,Nao,Divorciado,Masculino,Agamenon Rodrigues,Saude,Tecnico de Laboratorio,19,2,Medicina,8758,Nao,2,2,1
+19,28,Sim,Solteiro,Masculino,Alberto Mendes,Saude,Tecnico de Laboratorio,24,3,Ciencias Sociais,12947,Sim,4,2,0
+21,32,Nao,Divorciado,Masculino,Aldo Goncalves,Saude,Pesquisador,5,2,Ciencias Sociais,15053,Sim,6,2,0
+22,22,Nao,Divorciado,Masculino,Alejandro Lopes,Saude,Tecnico de Laboratorio,16,2,Medicina,7324,Sim,1,0,0
+24,38,Nao,Solteiro,Masculino,Alexandre Martins,Saude,Pesquisador,2,3,Ciencias Sociais,4306,Sim,3,2,1
+27,36,Sim,Solteiro,Masculino,Alexis Teixeira,Alimentos,Representante de Setor,9,4,Ciencias Sociais,6986,Nao,5,3,0
+30,21,Nao,Solteiro,Masculino,Alfeu Dias,Saude,Pesquisador,15,2,Ciencias Sociais,19281,Nao,0,0,0
+31,34,Sim,Solteiro,Masculino,Alfredo Barros,Saude,Pesquisador,6,1,Medicina,17102,Nao,4,2,1
+35,42,Nao,Casado,Masculino,alvaro Carvalho,Alimentos,Auditor,8,4,Marketing,21173,Nao,9,7,4
+39,33,Nao,Solteiro,Masculino,Amauri Silva,Saude,Tecnico de Laboratorio,2,3,Medicina,6670,Nao,1,1,0
+40,44,Nao,Casado,Masculino,Andre Costa,Saude,Representante da Saude,10,4,Outros,19121,Sim,4,2,1
+41,30,Nao,Solteiro,Masculino,Ângelo Ferreira,Saude,Tecnico de Laboratorio,9,2,Medicina,16117,Nao,10,0,1
+42,39,Sim,Casado,Masculino,Anselmo Souza,Alimentos,Representante de Setor,,3,Formacao Tecnica,3335,Nao,1,0,0
+45,24,Sim,Casado,Masculino,Anthony Lopes,Saude,Pesquisador,1,3,Medicina,3020,Sim,2,0,2
+47,50,Sim,Casado,Masculino,Antônio Oliveira,Alimentos,Representante de Setor,3,2,Marketing,3810,Sim,3,2,0
+53,35,Nao,Divorciado,Masculino,Apolo Nunes,Saude,Tecnico de Laboratorio,4,2,Outros,10910,Nao,1,0,0
+55,26,Sim,Solteiro,Masculino,Aquiles Cardoso,Saude,Tecnico de Laboratorio,25,3,Ciencias Sociais,10558,Nao,1,0,0
+56,27,Nao,Solteiro,Masculino,Arnaldo Mendes,Alimentos,Auditor,8,3,Ciencias Sociais,2975,Nao,9,8,1
+60,34,Nao,Solteiro,Masculino,Arthur Martins,Alimentos,Auditor,23,4,Marketing,10034,Nao,9,5,8
+61,37,Nao,Casado,Masculino,Augusto Teixeira,Saude,Pesquisador,19,2,Ciencias Sociais,10227,Nao,1,0,0
+62,46,Nao,Solteiro,Masculino,Aureliano Dias,Alimentos,Auditor,5,4,Marketing,20445,Sim,9,6,0
+63,35,Nao,Casado,Masculino,Benjamim Goncalves,Saude,Tecnico de Laboratorio,8,1,Ciencias Sociais,4892,Nao,1,0,0
+64,48,Sim,Solteiro,Masculino,Bernardo Barros,Saude,Tecnico de Laboratorio,1,2,Ciencias Sociais,19294,Sim,1,0,0
+65,28,Sim,Solteiro,Masculino,Bruno Santos,Saude,Tecnico de Laboratorio,5,4,Formacao Tecnica,11179,Sim,2,2,2
+70,35,Nao,Casado,Masculino,Bryan Rodrigues,Saude,Representante da Saude,11,2,Medicina,8302,Sim,4,0,2
+74,35,Nao,Casado,Masculino,Caio Costa,Alimentos,Auditor,18,5,Ciencias Sociais,11031,Nao,9,8,1
+76,31,Nao,Divorciado,Masculino,Caleb Lopes,Saude,Tecnico de Laboratorio,7,4,Ciencias Sociais,9528,Nao,7,7,1
+77,37,Nao,Divorciado,Masculino,Camilo Oliveira,Saude,Diretor de Manufatura,1,4,Ciencias Sociais,2689,Nao,7,5,0
+78,32,Nao,Casado,Masculino,Carlos Ferreira,Saude,Diretor de Manufatura,1,3,Medicina,10877,Sim,9,8,7
+85,36,Nao,Solteiro,Masculino,Cassiano Nunes,Saude,Diretor de Manufatura,11,3,Ciencias Sociais,22656,Nao,6,5,0
+86,45,Nao,Divorciado,Masculino,Cesar Martins,Saude,Pesquisador,7,3,Ciencias Sociais,18787,Nao,1,0,0
+88,35,Nao,Casado,Masculino,Christopher Teixeira,Saude,Pesquisador,1,3,Medicina,5868,Nao,3,2,1
+90,36,Sim,Casado,Masculino,Cicero Dias,Saude,Pesquisador,9,3,Medicina,21777,Sim,1,0,0
+94,29,Nao,Casado,Masculino,Ciro Barros,Saude,Pesquisador,2,3,Ciencias Sociais,4956,Nao,5,4,0
+95,31,Nao,Solteiro,Masculino,Claudio Santos,Saude,Pesquisador,1,4,Medicina,18775,Nao,1,1,1
+96,32,Nao,Casado,Masculino,Constantino Rodrigues,Saude,Pesquisador,1,3,Ciencias Sociais,7346,Nao,10,4,0
+100,35,Nao,Solteiro,Masculino,Cristiano Mendes,Alimentos,Auditor,1,4,Marketing,23016,Nao,15,13,2
+101,45,Nao,Casado,Masculino,Cristovao Lopes,Saude,Diretor de Pesquisa,6,4,Outros,15067,Sim,0,0,0
+102,37,Nao,Solteiro,Masculino,Daniel Costa,Saude,Diretor de Pesquisa,7,4,Medicina,25258,Nao,5,2,0
+103,46,Nao,Divorciado,Masculino,Dante Oliveira,Medicamentos,Tecnico de TI,5,2,Medicina,10425,Sim,4,2,0
+104,30,Nao,Casado,Masculino,Davi Ferreira,Saude,Tecnico de Laboratorio,1,1,Ciencias Sociais,15998,Sim,10,8,3
+105,35,Nao,Solteiro,Masculino,Demetrio Nunes,Saude,Pesquisador,1,3,Medicina,26278,Nao,6,4,0
+106,55,Nao,Casado,Masculino,Denis Martins,Alimentos,Auditor,1,2,Ciencias Sociais,18092,Nao,1,0,1
+110,34,Nao,Casado,Masculino,Diego Teixeira,Saude,Diretor de Manufatura,1,2,Medicina,17736,Nao,5,2,1
+112,56,Nao,Solteiro,Masculino,Diogo Dias,Saude,Diretor de Manufatura,7,3,Ciencias Sociais,21698,Nao,6,4,0
+113,23,Nao,Divorciado,Masculino,Dionisio Barros,Alimentos,Representante de Setor,2,1,Formacao Tecnica,9518,Nao,0,0,0
+116,51,Nao,Casado,Masculino,Douglas Santos,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,18725,Nao,4,2,0
+117,30,Nao,Casado,Masculino,Duarte Rodrigues,Saude,Representante da Saude,2,3,Ciencias Sociais,15830,Nao,11,10,10
+118,46,Sim,Solteiro,Masculino,Eduardo Costa,Alimentos,Auditor,9,2,Medicina,13596,Nao,9,8,4
+119,40,Nao,Casado,Masculino,Elias Oliveira,Saude,Representante da Saude,1,4,Ciencias Sociais,14115,Nao,22,3,11
+120,51,Nao,Solteiro,Masculino,Eliseu Ferreira,Alimentos,Auditor,21,4,Marketing,8423,Sim,10,7,1
+124,46,Nao,Casado,Masculino,Eloi Nunes,Saude,Representante da Saude,1,3,Medicina,3142,Sim,10,9,9
+125,32,Nao,Solteiro,Masculino,Emanuel Martins,Alimentos,Auditor,6,4,Medicina,24301,Nao,11,8,5
+129,28,Nao,Casado,Masculino,Enrico Teixeira,Alimentos,Auditor,4,3,Medicina,8863,Nao,5,4,0
+131,58,Nao,Solteiro,Masculino,Enzo Dias,Alimentos,Auditor,10,4,Medicina,24409,Nao,37,10,1
+132,44,Nao,Casado,Masculino,Ernesto Barros,Saude,Tecnico de Laboratorio,23,3,Medicina,25043,Nao,3,2,1
+133,37,Sim,Divorciado,Masculino,Estevao Santos,Medicamentos,Tecnico de TI,6,4,Recursos Humanos,23648,Sim,3,2,0
+134,32,Nao,Solteiro,Masculino,Euclides Rodrigues,Saude,Pesquisador,1,1,Ciencias Sociais,15178,Nao,1,0,0
+139,37,Nao,Divorciado,Masculino,Eugenio Mendes,Saude,Representante da Saude,2,2,Ciencias Sociais,15850,Nao,1,0,0
+142,25,Sim,Solteiro,Masculino,Fabio Costa,Alimentos,Auditor,5,3,Marketing,26959,Sim,6,4,0
+143,25,Nao,Casado,Masculino,Fabricio Oliveira,Saude,Pesquisador,7,1,Medicina,26897,Nao,2,2,2
+147,34,Sim,Solteiro,Masculino,Felipe Ferreira,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,22887,Sim,9,7,0
+150,24,Nao,Casado,Masculino,Felix Nunes,Saude,Tecnico de Laboratorio,18,1,Ciencias Sociais,13257,Nao,5,3,1
+152,37,Nao,Solteiro,Masculino,Fernando Martins,Alimentos,Auditor,3,3,Ciencias Sociais,14506,Nao,5,3,1
+158,43,Nao,Casado,Masculino,Francisco Teixeira,Alimentos,Gestor,26,2,Ciencias Sociais,19494,Sim,25,12,4
+159,30,Nao,Divorciado,Masculino,Frederico Dias,Saude,Pesquisador,23,3,Ciencias Sociais,22310,Nao,10,7,0
+160,33,Nao,Casado,Masculino,Gabriel Barros,Alimentos,Auditor,22,2,Marketing,15480,Nao,7,7,0
+162,51,Nao,Solteiro,Masculino,Gaspar Santos,Saude,Diretor de Pesquisa,6,3,Ciencias Sociais,6462,Nao,20,18,15
+163,31,Sim,Casado,Masculino,Genaro Rodrigues,Alimentos,Auditor,6,4,Ciencias Sociais,20739,Sim,7,7,7
+167,19,Sim,Solteiro,Masculino,George Mendes,Alimentos,Representante de Setor,22,1,Marketing,26820,Sim,0,0,0
+169,22,Nao,Casado,Masculino,Gerardo Teixeira,Saude,Tecnico de Laboratorio,2,1,Formacao Tecnica,19299,Nao,2,1,2
+176,41,Nao,Divorciado,Masculino,Gilberto Dias,Alimentos,Auditor,9,1,Ciencias Sociais,21196,Sim,9,7,0
+178,36,Nao,Divorciado,Masculino,Guilherme Barros,Saude,Diretor de Manufatura,6,2,Medicina,2819,Nao,3,2,0
+179,51,Sim,Solteiro,Masculino,Gustavo Santos,Saude,Diretor de Manufatura,8,4,Ciencias Sociais,25150,Nao,4,2,0
+183,25,Nao,Casado,Masculino,Hector Rodrigues,Alimentos,Auditor,28,3,Ciencias Sociais,24835,Nao,2,2,2
+184,30,Nao,Casado,Masculino,Henrique Mendes,Medicamentos,Tecnico de TI,9,3,Recursos Humanos,13982,Sim,11,9,4
+192,45,Nao,Solteiro,Masculino,Hugo Lopes,Saude,Pesquisador,29,3,Medicina,9752,Nao,6,5,0
+195,32,Nao,Divorciado,Masculino,Ian Costa,Alimentos,Auditor,9,2,Medicina,22812,Nao,8,7,0
+198,30,Nao,Solteiro,Masculino,Igor Oliveira,Saude,Tecnico de Laboratorio,2,1,Medicina,11162,Nao,5,3,1
+199,41,Nao,Divorciado,Masculino,italo Ferreira,Saude,Gestor,10,3,Ciencias Sociais,12888,Nao,7,6,7
+200,41,Nao,Casado,Masculino,Jack Nunes,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,6961,Nao,5,0,1
+204,35,Nao,Casado,Masculino,Jackson Martins,Alimentos,Auditor,1,5,Marketing,11439,Nao,10,8,0
+205,53,Nao,Casado,Masculino,Jaime Teixeira,Alimentos,Representante de Setor,6,2,Marketing,16047,Sim,7,7,4
+206,45,Nao,Divorciado,Masculino,James Dias,Saude,Tecnico de Laboratorio,9,3,Ciencias Sociais,10901,Nao,17,9,0
+208,29,Nao,Casado,Masculino,Jansen Barros,Saude,Diretor de Manufatura,1,1,Formacao Tecnica,26283,Nao,10,7,0
+211,51,Nao,Casado,Masculino,Joao Santos,Saude,Diretor de Manufatura,7,4,Medicina,13983,Nao,1,0,0
+215,40,Nao,Casado,Masculino,Jonathan Rodrigues,Alimentos,Auditor,4,4,Marketing,8552,Nao,12,11,2
+217,22,Nao,Casado,Masculino,Jose Costa,Saude,Pesquisador,19,1,Medicina,11992,Nao,2,2,2
+218,27,Nao,Divorciado,Masculino,Josue Oliveira,Saude,Pesquisador,9,3,Medicina,5970,Nao,2,2,2
+221,28,Nao,Casado,Masculino,Julio Ferreira,Saude,Pesquisador,,3,Medicina,6672,Nao,5,2,0
+223,57,Nao,Divorciado,Masculino,Justin Nunes,Saude,Representante da Saude,24,2,Ciencias Sociais,23402,Sim,5,3,1
+224,27,Nao,Divorciado,Masculino,Kevin Martins,Saude,Pesquisador,3,3,Medicina,25326,Sim,1,1,0
+227,41,Nao,Divorciado,Masculino,Klaus Teixeira,Saude,Pesquisador,14,3,Ciencias Sociais,4609,Nao,9,8,1
+231,32,Nao,Solteiro,Masculino,Leonardo Dias,Saude,Pesquisador,6,5,Ciencias Sociais,12430,Nao,5,4,1
+233,27,Nao,Casado,Masculino,Levi Barros,Saude,Pesquisador,17,3,Formacao Tecnica,13364,Sim,5,2,1
+238,36,Nao,Solteiro,Masculino,Lorenzo Santos,Saude,Tecnico de Laboratorio,3,2,Medicina,15062,Nao,8,7,7
+239,30,Nao,Divorciado,Masculino,Lucas Rodrigues,Saude,Tecnico de Laboratorio,9,3,Medicina,11012,Nao,12,9,6
+242,33,Nao,Solteiro,Masculino,Luis Costa,Saude,Pesquisador,2,3,Ciencias Sociais,10515,Nao,3,1,0
+243,19,Sim,Solteiro,Masculino,Marcelo Oliveira,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,9241,Nao,1,0,1
+249,50,Nao,Casado,Masculino,Marcos Ferreira,Saude,Tecnico de Laboratorio,1,3,Medicina,3425,Nao,3,2,0
+254,55,Nao,Solteiro,Masculino,Marcus Nunes,Saude,Diretor de Pesquisa,14,4,Medicina,13339,Nao,24,15,2
+256,34,Nao,Casado,Masculino,Marcio Martins,Saude,Diretor de Manufatura,2,1,Ciencias Sociais,14074,Nao,10,9,1
+259,52,Nao,Casado,Masculino,Mariano Teixeira,Saude,Gestor,1,4,Ciencias Sociais,5678,Nao,33,18,11
+261,35,Sim,Casado,Masculino,Marinheiro Dias,Saude,Diretor de Manufatura,23,2,Ciencias Sociais,15497,Sim,1,0,0
+262,43,Nao,Divorciado,Masculino,Mateus Barros,Saude,Pesquisador,7,3,Medicina,5228,Nao,5,4,2
+264,45,Nao,Casado,Masculino,Matias Santos,Saude,Gestor,2,2,Medicina,20462,Nao,20,8,11
+267,37,Nao,Casado,Masculino,Mauricio Rodrigues,Saude,Pesquisador,21,3,Ciencias Sociais,22977,Sim,8,7,1
+271,38,Nao,Casado,Masculino,Max Mendes,Saude,Diretor de Manufatura,2,4,Ciencias Sociais,7259,Nao,1,0,0
+273,38,Nao,Casado,Masculino,Maximiliano Teixeira,Saude,Diretor de Manufatura,29,3,Formacao Tecnica,4185,Nao,7,7,1
+274,27,Nao,Casado,Masculino,Maxwell Dias,Saude,Diretor de Manufatura,1,1,Formacao Tecnica,9679,Nao,2,2,2
+275,49,Nao,Divorciado,Masculino,Miguel Costa,Saude,Diretor de Manufatura,18,4,Ciencias Sociais,23793,Sim,7,7,1
+277,34,Nao,Divorciado,Masculino,Milton Oliveira,Saude,Pesquisador,10,4,Medicina,5972,Sim,5,3,2
+281,40,Nao,Casado,Masculino,Moises Ferreira,Saude,Tecnico de Laboratorio,19,2,Medicina,16523,Sim,7,2,3
+282,38,Sim,Casado,Masculino,Nathan Nunes,Saude,Representante da Saude,29,1,Medicina,11354,Sim,1,0,0
+284,22,Nao,Divorciado,Masculino,Nathaniel Martins,Saude,Pesquisador,5,3,Ciencias Sociais,12392,Sim,4,2,2
+287,40,Nao,Casado,Masculino,Nicolas Teixeira,Saude,Representante da Saude,9,5,Ciencias Sociais,14242,Nao,3,2,0
+288,46,Nao,Divorciado,Masculino,Nicolau Dias,Saude,Representante da Saude,1,4,Medicina,12368,Nao,4,2,0
+291,32,Sim,Casado,Masculino,Olavo Costa,Alimentos,Auditor,4,4,Medicina,25812,Nao,14,8,9
+292,30,Nao,Solteiro,Masculino,Oliver Oliveira,Saude,Diretor de Manufatura,1,1,Ciencias Sociais,20925,Nao,11,8,5
+296,51,Nao,Casado,Masculino,Omar Ferreira,Saude,Diretor de Pesquisa,8,4,Ciencias Sociais,15736,Nao,10,9,4
+300,29,Sim,Solteiro,Masculino,Orlando Nunes,Saude,Pesquisador,1,3,Formacao Tecnica,19757,Nao,6,2,1
+304,36,Nao,Solteiro,Masculino,Oscar Martins,Saude,Tecnico de Laboratorio,5,2,Ciencias Sociais,9945,Nao,13,11,3
+306,37,Nao,Divorciado,Masculino,Otavio Teixeira,Saude,Diretor de Pesquisa,11,3,Outros,10056,Sim,10,8,0
+307,38,Nao,Divorciado,Masculino,Pablo Dias,Alimentos,Auditor,3,3,Ciencias Sociais,9647,Nao,16,10,5
+308,31,Nao,Casado,Masculino,Paulo Barros,Saude,Diretor de Manufatura,1,4,Medicina,4381,Nao,5,4,1
+309,59,Nao,Casado,Masculino,Pedro Santos,Saude,Pesquisador,3,3,Ciencias Sociais,8456,Nao,1,0,0
+311,37,Nao,Divorciado,Masculino,Pedro Henrique Rodrigues,Alimentos,Representante de Setor,4,4,Marketing,2539,Nao,9,8,5
+315,29,Sim,Solteiro,Masculino,Pietro Costa,Saude,Pesquisador,18,1,Medicina,14961,Sim,4,3,0
+319,42,Nao,Casado,Masculino,Rafael Oliveira,Saude,Gestor,4,2,Formacao Tecnica,4933,Nao,22,17,11
+321,59,Nao,Casado,Masculino,Rainier Ferreira,Medicamentos,Tecnico de TI,6,2,Medicina,25657,Nao,2,2,2
+325,33,Sim,Casado,Masculino,Ranieri Nunes,Saude,Tecnico de Laboratorio,14,3,Medicina,22149,Sim,5,4,0
+329,52,Nao,Solteiro,Masculino,Renato Martins,Alimentos,Gestor,2,4,Ciencias Sociais,21030,Sim,33,7,15
+331,32,Sim,Solteiro,Masculino,Ricardo Teixeira,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,9571,Sim,3,2,1
+333,32,Nao,Casado,Masculino,Roberto Dias,Alimentos,Auditor,26,4,Marketing,12069,Nao,3,2,2
+334,41,Nao,Divorciado,Masculino,Rodrigo Barros,Saude,Pesquisador,19,2,Ciencias Sociais,19877,Nao,1,0,0
+335,40,Nao,Divorciado,Masculino,Rodolfo Santos,Saude,Pesquisador,24,2,Formacao Tecnica,24447,Nao,9,8,4
+336,45,Nao,Casado,Masculino,Ronald Rodrigues,Saude,Gestor,1,3,Outros,15970,Nao,24,0,1
+337,31,Nao,Divorciado,Masculino,Ruan Costa,Saude,Diretor de Pesquisa,3,4,Medicina,13523,Nao,2,2,2
+339,34,Nao,Casado,Masculino,Samuel Oliveira,Saude,Diretor de Manufatura,,4,Ciencias Sociais,23687,Nao,11,9,5
+341,45,Nao,Casado,Masculino,Sandro Ferreira,Saude,Diretor de Manufatura,7,4,Ciencias Sociais,5118,Nao,3,2,0
+342,37,Sim,Divorciado,Masculino,Santiago Nunes,Saude,Diretor de Manufatura,10,3,Medicina,22573,Nao,1,0,0
+346,29,Nao,Solteiro,Masculino,Saulo Martins,Saude,Pesquisador,15,3,Ciencias Sociais,22673,Nao,6,5,1
+349,29,Nao,Divorciado,Masculino,Sebastian Teixeira,Alimentos,Auditor,20,2,Marketing,10732,Nao,3,2,0
+352,40,Nao,Divorciado,Masculino,Sergio Dias,Saude,Diretor de Pesquisa,2,2,Medicina,5949,Nao,21,7,3
+353,51,Nao,Casado,Masculino,Severino Barros,Saude,Pesquisador,1,3,Ciencias Sociais,23231,Nao,1,0,0
+355,31,Sim,Solteiro,Masculino,Silas Santos,Saude,Tecnico de Laboratorio,29,2,Medicina,11652,Nao,5,4,1
+359,32,Nao,Casado,Masculino,Simao Rodrigues,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,26062,Nao,5,1,0
+361,38,Nao,Casado,Masculino,Simone Mendes,Alimentos,Auditor,2,2,Ciencias Sociais,19682,Nao,8,7,7
+362,32,Nao,Solteiro,Masculino,Sinvaldo Teixeira,Saude,Tecnico de Laboratorio,2,1,Formacao Tecnica,19737,Nao,6,2,0
+364,28,Sim,Solteiro,Masculino,Tadeu Costa,Saude,Tecnico de Laboratorio,2,4,Ciencias Sociais,14935,Nao,0,0,0
+366,29,Nao,Casado,Masculino,Tiago Oliveira,Alimentos,Auditor,2,3,Medicina,3687,Nao,0,0,0
+367,31,Nao,Casado,Masculino,Tomas Ferreira,Saude,Representante da Saude,23,3,Medicina,14408,Nao,9,0,7
+369,25,Nao,Divorciado,Masculino,Tony Nunes,Saude,Representante da Saude,5,2,Ciencias Sociais,18384,Nao,6,3,1
+372,45,Nao,Casado,Masculino,Valentin Martins,Saude,Representante da Saude,20,2,Medicina,7501,Sim,20,7,4
+373,36,Nao,Casado,Masculino,Valentim Teixeira,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,20251,Nao,15,13,10
+374,55,Nao,Solteiro,Masculino,Vasco Dias,Saude,Gestor,1,3,Medicina,18938,Sim,36,10,4
+376,47,Sim,Casado,Masculino,Victor Barros,Saude,Gestor,29,4,Ciencias Sociais,10268,Sim,10,7,9
+377,28,Nao,Casado,Masculino,Vinicius Santos,Saude,Pesquisador,9,3,Medicina,2613,Nao,5,2,0
+378,37,Nao,Casado,Masculino,Virgil Rodrigues,Alimentos,Auditor,6,4,Medicina,22825,Nao,5,4,0
+379,21,Nao,Solteiro,Masculino,Wallace Costa,Saude,Pesquisador,3,2,Medicina,10531,Nao,3,2,1
+385,50,Nao,Divorciado,Masculino,Walter Oliveira,Saude,Diretor de Pesquisa,4,1,Ciencias Sociais,15815,Nao,10,4,1
+386,53,Nao,Casado,Masculino,Wellington Ferreira,Saude,Diretor de Pesquisa,3,4,Medicina,21016,Sim,5,3,1
+387,42,Nao,Casado,Masculino,Wesley Nunes,Alimentos,Auditor,1,1,Ciencias Sociais,24532,Nao,20,16,11
+388,29,Nao,Solteiro,Masculino,William Martins,Alimentos,Auditor,2,2,Ciencias Sociais,20260,Nao,10,7,0
+389,55,Nao,Casado,Masculino,Yuri Teixeira,Saude,Tecnico de Laboratorio,20,2,Formacao Tecnica,15972,Sim,10,7,0
+390,26,Nao,Casado,Masculino,Zacarias Dias,Saude,Representante da Saude,11,2,Medicina,22722,Sim,5,3,3
+392,44,Sim,Divorciado,Masculino,Zaqueu Barros.,Saude,Tecnico de Laboratorio,24,3,Ciencias Sociais,19920,Sim,1,0,0
+393,38,Nao,Divorciado,Masculino,Airton Silva,Saude,Representante da Saude,23,4,Ciencias Sociais,18899,Nao,2,2,1
+394,26,Sim,Divorciado,Masculino,Alaor Oliveira,Saude,Tecnico de Laboratorio,16,4,Medicina,14180,Sim,3,2,0
+397,36,Nao,Solteiro,Masculino,Alceu Ferreira,Saude,Pesquisador,3,3,Formacao Tecnica,26285,Nao,8,0,7
+401,26,Sim,Solteiro,Masculino,Aldenor Nunes,Alimentos,Auditor,4,4,Marketing,8450,Sim,8,7,7
+403,37,Nao,Casado,Masculino,Aleixo Martins,Saude,Pesquisador,9,3,Medicina,11411,Sim,4,2,1
+405,18,Sim,Solteiro,Masculino,Altino Teixeira,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,25233,Nao,0,0,0
+406,35,Nao,Casado,Masculino,Amauri Dias,Alimentos,Auditor,16,3,Marketing,5100,Nao,11,9,6
+407,36,Nao,Casado,Masculino,Ananias Barros,Saude,Tecnico de Laboratorio,18,4,Ciencias Sociais,7122,Nao,1,0,0
+408,51,Nao,Divorciado,Masculino,Andre Luis Costa,Saude,Diretor de Manufatura,2,3,Medicina,16321,Nao,4,1,1
+410,41,Nao,Solteiro,Masculino,Antônio Carlos Oliveira,Alimentos,Gestor,2,4,Ciencias Sociais,15896,Nao,22,10,0
+412,28,Nao,Solteiro,Masculino,Antônio Marcos Ferreira,Saude,Representante da Saude,16,2,Medicina,4824,Nao,8,3,0
+416,31,Nao,Casado,Masculino,Antônio Jose Nunes,Alimentos,Auditor,7,3,Formacao Tecnica,12241,Nao,8,7,7
+417,39,Nao,Divorciado,Masculino,Arivaldo Martins,Saude,Representante da Saude,1,3,Medicina,10942,Nao,18,10,3
+420,32,Nao,Casado,Masculino,Arnaldo Teixeira,Alimentos,Auditor,7,3,Ciencias Sociais,16985,Nao,13,8,4
+422,58,Nao,Divorciado,Masculino,Aurelio Dias,Saude,Representante da Saude,1,4,Ciencias Sociais,17056,Sim,5,3,1
+423,31,Nao,Casado,Masculino,Balbino Barros,Saude,Pesquisador,,4,Formacao Tecnica,10077,Sim,5,2,0
+424,31,Nao,Casado,Masculino,Batista Santos,Medicamentos,Tecnico de TI,2,3,Recursos Humanos,17822,Nao,2,2,1
+425,45,Nao,Divorciado,Masculino,Belmiro Rodrigues,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,20308,Nao,24,9,9
+426,31,Nao,Divorciado,Masculino,Benedito Costa,Saude,Pesquisador,2,4,Ciencias Sociais,7747,Sim,2,2,2
+429,39,Nao,Casado,Masculino,Benicio Oliveira,Saude,Gestor,10,1,Medicina,5355,Sim,21,9,11
+433,52,Sim,Casado,Masculino,Bernardo Jose Ferreira,Saude,Pesquisador,8,4,Medicina,17747,Nao,8,2,7
+437,27,Nao,Solteiro,Masculino,Caetano Nunes,Alimentos,Auditor,2,3,Ciencias Sociais,5242,Sim,5,4,0
+438,31,Nao,Divorciado,Masculino,Camilo Jose Martins,Alimentos,Auditor,7,3,Marketing,7143,Nao,7,7,1
+440,28,Sim,Casado,Masculino,Carlos Alberto Teixeira,Saude,Pesquisador,2,4,Medicina,24737,Sim,3,2,2
+444,39,Nao,Casado,Masculino,Carlos Augusto Dias,Saude,Gestor,7,2,Medicina,21141,Nao,21,9,13
+446,33,Nao,Solteiro,Masculino,Carlos Eduardo Barros,Alimentos,Auditor,10,3,Marketing,4317,Nao,7,7,0
+447,47,Nao,Casado,Masculino,Carlos Henrique Santos,Saude,Diretor de Pesquisa,5,5,Ciencias Sociais,16375,Nao,3,2,1
+449,27,Nao,Casado,Masculino,Carlos Roberto Rodrigues,Alimentos,Auditor,1,1,Marketing,22107,Sim,5,4,1
+452,45,Nao,Casado,Masculino,Celio Costa,Saude,Pesquisador,8,4,Outros,9278,Nao,10,9,9
+453,40,Nao,Casado,Masculino,Clodoaldo Oliveira,Alimentos,Auditor,1,2,Medicina,13273,Sim,4,3,0
+454,29,Sim,Casado,Masculino,Crispim Ferreira,Saude,Tecnico de Laboratorio,8,4,Outros,4759,Sim,7,7,0
+455,29,Nao,Solteiro,Masculino,Custodio Nunes,Saude,Tecnico de Laboratorio,9,5,Outros,7621,Nao,3,2,2
+460,37,Nao,Divorciado,Masculino,Damiao Martins,Saude,Diretor de Manufatura,5,2,Medicina,23177,Nao,6,2,0
+461,38,Nao,Divorciado,Masculino,Daniel Jose Teixeira,Saude,Diretor de Pesquisa,15,2,Ciencias Sociais,15682,Sim,11,10,2
+464,35,Nao,Solteiro,Masculino,Dejanira Dias,Saude,Diretor de Manufatura,5,4,Formacao Tecnica,18264,Nao,16,6,0
+465,23,Nao,Divorciado,Masculino,Demetrio Jose Barros,Saude,Pesquisador,26,1,Ciencias Sociais,16092,Nao,4,2,0
+466,41,Nao,Solteiro,Masculino,Denilson Santos,Saude,Diretor de Manufatura,6,3,Medicina,10110,Sim,5,4,1
+467,47,Nao,Solteiro,Masculino,Devanir Rodrigues,Alimentos,Representante de Setor,4,1,Medicina,25751,Nao,0,0,0
+469,29,Nao,Casado,Masculino,Dirceu Costa,Alimentos,Auditor,2,3,Ciencias Sociais,16928,Nao,4,3,0
+470,42,Nao,Divorciado,Masculino,Divino Oliveira,Medicamentos,Tecnico de TI,2,1,Formacao Tecnica,24017,Sim,3,2,1
+474,37,Nao,Divorciado,Masculino,Donato Ferreira,Saude,Pesquisador,6,3,Medicina,17001,Sim,7,7,6
+476,26,Nao,Casado,Masculino,Dorvalino Nunes,Alimentos,Auditor,1,3,Ciencias Sociais,20156,Nao,8,7,7
+477,42,Nao,Solteiro,Masculino,Douglas Martins,Saude,Representante da Saude,2,4,Outros,17078,Nao,1,0,0
+481,36,Nao,Casado,Masculino,Durval Teixeira,Alimentos,Auditor,3,4,Medicina,7246,Nao,13,9,1
+482,57,Nao,Casado,Masculino,Edgard Dias,Saude,Representante da Saude,1,4,Medicina,2967,Nao,3,2,1
+484,21,Nao,Solteiro,Masculino,Edilson Barros,Alimentos,Representante de Setor,9,2,Medicina,2851,Nao,3,2,2
+488,41,Sim,Solteiro,Masculino,Edinaldo Santos,Alimentos,Auditor,,3,Marketing,9558,Nao,8,7,7
+491,50,Nao,Solteiro,Masculino,Edmar Rodrigues,Saude,Representante da Saude,10,3,Formacao Tecnica,2755,Nao,4,3,1
+492,40,Sim,Casado,Masculino,Edmilson Costa,Alimentos,Auditor,22,2,Marketing,6110,Sim,6,4,1
+493,31,Nao,Solteiro,Masculino,Edson Oliveira,Saude,Pesquisador,9,4,Ciencias Sociais,7551,Sim,2,2,2
+495,29,Nao,Solteiro,Masculino,Eduardo Jose Ferreira,Saude,Pesquisador,23,3,Ciencias Sociais,18168,Nao,3,2,1
+496,35,Nao,Solteiro,Masculino,Evaldo Nunes,Saude,Representante da Saude,9,4,Ciencias Sociais,19394,Nao,1,1,0
+497,27,Nao,Divorciado,Masculino,Ezequiel Martins,Saude,Tecnico de Laboratorio,1,2,Medicina,17881,Nao,5,2,0
+498,28,Nao,Solteiro,Masculino,Fabio Jose Teixeira,Alimentos,Auditor,9,4,Ciencias Sociais,20750,Nao,7,5,0
+499,49,Nao,Solteiro,Masculino,Faustino Dias,Saude,Representante da Saude,7,3,Outros,12066,Nao,5,2,0
+502,34,Sim,Solteiro,Masculino,Felisberto Barros,Alimentos,Auditor,19,3,Marketing,4652,Sim,5,2,0
+508,30,Nao,Casado,Masculino,Fernando Jose Santos,Alimentos,Representante de Setor,2,1,Formacao Tecnica,17434,Nao,1,0,0
+510,26,Sim,Solteiro,Masculino,Florencio Rodrigues,Saude,Pesquisador,3,1,Formacao Tecnica,6582,Nao,6,4,0
+513,36,Nao,Casado,Masculino,Floriano Costa,Alimentos,Auditor,2,2,Medicina,3809,Nao,10,9,9
+514,30,Sim,Solteiro,Masculino,Francisca Oliveira,Saude,Pesquisador,4,3,Formacao Tecnica,3427,Sim,1,0,0
+518,37,Nao,Solteiro,Masculino,Francisco Jose Ferreira,Saude,Diretor de Manufatura,10,4,Ciencias Sociais,21123,Sim,1,0,0
+520,43,Nao,Divorciado,Masculino,Gilson Nunes,Saude,Diretor de Pesquisa,12,3,Ciencias Sociais,4345,Nao,25,10,3
+522,54,Nao,Casado,Masculino,Gilmar Martins,Saude,Diretor de Pesquisa,5,2,Medicina,8509,Nao,4,2,1
+525,43,Nao,Casado,Masculino,Gumercindo Teixeira,Saude,Tecnico de Laboratorio,21,3,Medicina,15238,Nao,3,2,1
+530,31,Nao,Casado,Masculino,Helio Jose Dias,Saude,Tecnico de Laboratorio,1,2,Ciencias Sociais,16193,Nao,4,2,3
+531,39,Nao,Divorciado,Masculino,Helvecio Barros,Saude,Gestor,1,1,Ciencias Sociais,8213,Sim,21,8,1
+534,41,Nao,Casado,Masculino,Hemerson Santos,Alimentos,Auditor,1,3,Marketing,19566,Nao,10,7,0
+536,28,Nao,Divorciado,Masculino,Herbert Rodrigues,Saude,Tecnico de Laboratorio,17,2,Medicina,13535,Nao,10,0,1
+538,25,Sim,Casado,Masculino,Hortencio Costa,Saude,Tecnico de Laboratorio,3,3,Medicina,9396,Nao,2,2,0
+543,52,Nao,Casado,Masculino,Inacio Oliveira,Saude,Diretor de Manufatura,3,3,Medicina,19609,Sim,5,4,0
+544,45,Nao,Casado,Masculino,Inocencio Ferreira,Saude,Pesquisador,10,2,Ciencias Sociais,9655,Nao,2,2,0
+556,38,Nao,Casado,Masculino,Irapua Nunes,Saude,Tecnico de Laboratorio,2,2,Ciencias Sociais,12106,Sim,1,0,0
+562,30,Nao,Casado,Masculino,Ismael Martins,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,16734,Nao,5,3,1
+564,29,Nao,Casado,Masculino,Ivan Teixeira,Saude,Diretor de Pesquisa,3,4,Medicina,21526,Nao,10,2,0
+566,19,Sim,Solteiro,Masculino,Jacinto Dias,Medicamentos,Tecnico de TI,,2,Formacao Tecnica,18437,Nao,1,0,0
+568,57,Nao,Divorciado,Masculino,Jair Barros,Alimentos,Gestor,29,3,Marketing,22102,Nao,1,0,0
+569,50,Nao,Casado,Masculino,Jeremias Santos,Saude,Gestor,29,4,Ciencias Sociais,9314,Nao,27,10,15
+575,46,Nao,Casado,Masculino,Joao Batista Rodrigues,Saude,Diretor de Pesquisa,2,3,Ciencias Sociais,2288,Nao,3,2,0
+577,35,Nao,Solteiro,Masculino,Joao Carlos Costa,Saude,Tecnico de Laboratorio,22,3,Ciencias Sociais,19225,Nao,5,4,4
+579,34,Nao,Divorciado,Masculino,Joao Jose Oliveira,Saude,Pesquisador,2,4,Ciencias Sociais,8416,Nao,7,3,5
+581,31,Nao,Divorciado,Masculino,Joao Paulo Ferreira,Saude,Diretor de Manufatura,9,1,Ciencias Sociais,14394,Nao,13,8,0
+582,33,Sim,Casado,Masculino,Joaquim Nunes,Saude,Gestor,15,1,Medicina,24619,Sim,7,6,7
+584,33,Sim,Divorciado,Masculino,Jonas Martins,Saude,Tecnico de Laboratorio,10,1,Medicina,6705,Nao,4,3,1
+585,30,Nao,Solteiro,Masculino,Jonatas Teixeira,Alimentos,Representante de Setor,7,1,Marketing,18398,Nao,3,2,1
+586,35,Nao,Casado,Masculino,Jose Carlos Dias,Saude,Representante da Saude,16,3,Ciencias Sociais,14295,Sim,8,7,0
+587,31,Sim,Casado,Masculino,Jose Roberto Barros,Saude,Representante da Saude,20,3,Ciencias Sociais,22908,Nao,1,0,0
+591,42,Nao,Casado,Masculino,Josue Santos,Saude,Tecnico de Laboratorio,5,2,Outros,9260,Nao,2,2,2
+592,36,Nao,Solteiro,Masculino,Julio Cesar Rodrigues,Alimentos,Auditor,10,4,Medicina,15318,Nao,10,3,9
+593,22,Sim,Solteiro,Masculino,Jurandir Costa,Saude,Tecnico de Laboratorio,4,1,Formacao Tecnica,9129,Nao,2,2,1
+599,41,Nao,Solteiro,Masculino,Laercio Oliveira,Alimentos,Auditor,10,2,Ciencias Sociais,13430,Nao,14,3,1
+600,35,Nao,Casado,Masculino,Leandro Ferreira,Alimentos,Auditor,1,3,Marketing,18659,Nao,11,9,6
+604,31,Nao,Solteiro,Masculino,Leonel Nunes,Alimentos,Auditor,2,1,Ciencias Sociais,8346,Sim,6,5,0
+605,42,Nao,Casado,Masculino,Leônidas Martins,Saude,Diretor de Manufatura,24,3,Medicina,6950,Sim,10,9,5
+606,45,Nao,Casado,Masculino,Leopoldo Jose Teixeira,Alimentos,Auditor,2,3,Outros,16177,Nao,8,7,3
+611,29,Nao,Divorciado,Masculino,Lindomar Dias,Saude,Diretor de Manufatura,19,3,Formacao Tecnica,22645,Nao,3,2,1
+613,31,Nao,Divorciado,Masculino,Lino Barros,Alimentos,Gestor,7,3,Ciencias Sociais,25291,Nao,5,4,0
+614,18,Sim,Solteiro,Masculino,Lourenco Santos,Alimentos,Representante de Setor,5,3,Marketing,8059,Sim,0,0,0
+615,40,Nao,Divorciado,Masculino,Lucas Jose Rodrigues,Alimentos,Auditor,28,3,Outros,11373,Nao,1,0,0
+618,26,Nao,Divorciado,Masculino,Luciano Costa,Alimentos,Auditor,29,2,Medicina,4267,Nao,0,0,0
+621,34,Nao,Solteiro,Masculino,Gael Dias,Alimentos,Auditor,21,4,Ciencias Sociais,19921,Nao,10,7,5
+622,26,Sim,Solteiro,Masculino,Ravi Silva,Saude,Tecnico de Laboratorio,24,3,Formacao Tecnica,23213,Sim,1,0,0
+626,37,Nao,Divorciado,Masculino,Gael Oliveira,Alimentos,Auditor,9,4,Medicina,24666,Nao,9,5,7
+630,52,Nao,Divorciado,Masculino,Ravi Ferreira,Saude,Pesquisador,6,2,Formacao Tecnica,22087,Sim,10,9,6
+631,32,Sim,Casado,Masculino,Enzo Nunes,Alimentos,Auditor,11,4,Outros,23914,Nao,4,2,1
+632,24,Nao,Casado,Masculino,Lorenzo Martins,Alimentos,Representante de Setor,24,3,Medicina,5530,Nao,2,2,2
+638,49,Nao,Divorciado,Masculino,Theo Teixeira,Saude,Diretor de Pesquisa,18,4,Ciencias Sociais,2125,Sim,31,9,0
+639,24,Nao,Casado,Masculino,Gael Barros,Saude,Pesquisador,23,3,Medicina,21630,Sim,6,5,1
+641,26,Nao,Casado,Masculino,Ravi Santos,Alimentos,Auditor,28,2,Marketing,7428,Nao,5,3,1
+643,24,Nao,Casado,Masculino,Enrico Mendes,Saude,Tecnico de Laboratorio,17,2,Outros,9100,Nao,1,0,0
+644,50,Nao,Casado,Masculino,Lorenzo Lopes,Medicamentos,Gestor,3,3,Medicina,7999,Nao,32,5,10
+645,25,Nao,Casado,Masculino,Theo Costa,Alimentos,Representante de Setor,13,1,Medicina,26376,Nao,7,4,0
+648,30,Sim,Casado,Masculino,Gael Rodrigues,Alimentos,Representante de Setor,12,4,Ciencias Sociais,14470,Nao,1,0,0
+649,34,Nao,Casado,Masculino,Ravi Oliveira,Saude,Pesquisador,1,2,Ciencias Sociais,22794,Sim,6,5,1
+650,31,Sim,Divorciado,Masculino,Enzo Nunes,Alimentos,Auditor,13,4,Medicina,11512,Nao,3,1,1
+652,35,Nao,Solteiro,Masculino,Lorenzo Martins,Saude,Tecnico de Laboratorio,25,2,Outros,14004,Nao,3,2,0
+653,31,Nao,Divorciado,Masculino,Theo Teixeira,Alimentos,Auditor,6,4,Medicina,6219,Nao,7,7,5
+656,37,Nao,Casado,Masculino,Gael Barros,Alimentos,Auditor,2,3,Marketing,3010,Sim,3,0,1
+661,43,Nao,Divorciado,Masculino,Ravi Santos,Saude,Diretor de Pesquisa,6,4,Outros,2671,Sim,1,0,0
+663,43,Nao,Divorciado,Masculino,Enrico Mendes,Saude,Tecnico de Laboratorio,9,5,Medicina,19627,Sim,8,7,4
+667,27,Sim,Divorciado,Masculino,Lorenzo Lopes,Alimentos,Representante de Setor,2,1,Marketing,16346,Nao,4,3,0
+669,21,Nao,Solteiro,Masculino,Theo Costa,Alimentos,Representante de Setor,22,1,Formacao Tecnica,24444,Nao,3,2,1
+671,44,Nao,Casado,Masculino,Gael Rodrigues,Saude,Gestor,3,4,Outros,9358,Sim,2,2,0
+675,22,Nao,Casado,Masculino,Ravi Oliveira,Saude,Pesquisador,6,1,Medicina,12145,Nao,2,2,2
+677,33,Nao,Divorciado,Masculino,Enzo Nunes,Alimentos,Auditor,8,4,Marketing,20431,Nao,5,0,1
+683,34,Nao,Casado,Masculino,Lorenzo Martins,Saude,Pesquisador,1,5,Ciencias Sociais,7660,Nao,10,9,8
+689,37,Nao,Casado,Masculino,Theo Teixeira,Saude,Diretor de Manufatura,3,3,Outros,9606,Nao,10,7,7
+691,35,Nao,Solteiro,Masculino,Gael Barros,Saude,Pesquisador,6,4,Ciencias Sociais,19368,Nao,17,11,11
+692,33,Nao,Divorciado,Masculino,Ravi Santos,Saude,Representante da Saude,6,3,Ciencias Sociais,5335,Nao,13,11,4
+698,54,Nao,Casado,Masculino,Enrico Mendes,Medicamentos,Tecnico de TI,19,4,Medicina,6729,Nao,9,7,7
+699,36,Nao,Divorciado,Masculino,Lorenzo Lopes,Saude,Diretor de Manufatura,9,2,Medicina,13934,Sim,3,2,0
+700,27,Nao,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,3,4,Medicina,15174,Nao,4,2,1
+701,20,Sim,Solteiro,Masculino,Gael Rodrigues,Saude,Pesquisador,10,1,Medicina,26999,Sim,1,0,1
+702,33,Sim,Solteiro,Masculino,Ravi Oliveira,Saude,Pesquisador,3,3,Ciencias Sociais,3164,Sim,10,8,9
+704,35,Nao,Casado,Masculino,Enzo Nunes,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,16900,Nao,1,0,0
+705,23,Nao,Casado,Masculino,Lorenzo Martins,Saude,Pesquisador,4,3,Medicina,8544,Nao,3,2,0
+707,25,Nao,Casado,Masculino,Theo Teixeira,Alimentos,Auditor,8,3,Ciencias Sociais,15678,Nao,3,2,1
+710,29,Nao,Divorciado,Masculino,Gael Barros,Saude,Pesquisador,1,4,Ciencias Sociais,18959,Nao,10,7,2
+712,48,Nao,Casado,Masculino,Ravi Santos,Alimentos,Auditor,2,1,Marketing,18597,Nao,2,2,2
+715,37,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Pesquisador,10,2,Ciencias Sociais,15232,Nao,1,0,0
+716,50,Nao,Casado,Masculino,Lorenzo Lopes,Saude,Tecnico de Laboratorio,28,1,Medicina,3297,Sim,20,8,3
+722,32,Nao,Solteiro,Masculino,Theo Costa,Alimentos,Auditor,10,3,Marketing,21703,Nao,10,7,0
+723,50,Sim,Casado,Masculino,Gael Rodrigues,Alimentos,Auditor,8,2,Formacao Tecnica,23452,Sim,4,3,1
+728,47,Nao,Solteiro,Masculino,Ravi Oliveira,Alimentos,Auditor,14,4,Marketing,11825,Nao,7,7,1
+729,40,Nao,Casado,Masculino,Enzo Nunes,Alimentos,Auditor,5,4,Ciencias Sociais,23772,Sim,18,13,1
+730,53,Nao,Casado,Masculino,Lorenzo Martins,Saude,Diretor de Pesquisa,7,3,Ciencias Sociais,13514,Nao,5,1,1
+731,41,Nao,Divorciado,Masculino,Theo Teixeira,Medicamentos,Gestor,10,4,Recursos Humanos,8861,Nao,21,6,12
+732,60,Nao,Solteiro,Masculino,Gael Barros,Alimentos,Auditor,16,4,Marketing,11924,Nao,2,2,2
+733,27,Nao,Divorciado,Masculino,Ravi Santos,Saude,Diretor de Manufatura,10,2,Ciencias Sociais,4809,Nao,9,7,1
+734,41,Nao,Casado,Masculino,Enrico Mendes,Medicamentos,Gestor,1,3,Recursos Humanos,19562,Nao,22,7,2
+738,50,Nao,Casado,Masculino,Lorenzo Lopes,Alimentos,Representante de Setor,8,4,Marketing,9983,Nao,2,2,2
+744,44,Nao,Solteiro,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,,3,Medicina,2104,Nao,5,2,1
+747,30,Nao,Divorciado,Masculino,Gael Rodrigues,Alimentos,Auditor,27,5,Marketing,25275,Nao,8,7,7
+749,29,Nao,Solteiro,Masculino,Ravi Oliveira,Alimentos,Representante de Setor,10,3,Ciencias Sociais,2755,Nao,1,0,0
+752,42,Sim,Divorciado,Masculino,Enzo Nunes,Saude,Pesquisador,19,3,Medicina,20366,Sim,2,2,2
+754,43,Nao,Casado,Masculino,Lorenzo Martins,Alimentos,Auditor,15,3,Ciencias Sociais,23683,Nao,2,2,2
+758,23,Nao,Casado,Masculino,Theo Teixeira,Saude,Tecnico de Laboratorio,9,1,Medicina,4344,Nao,4,3,0
+762,56,Nao,Casado,Masculino,Gael Barros,Saude,Representante da Saude,9,3,Medicina,20420,Nao,10,7,1
+766,29,Nao,Divorciado,Masculino,Ravi Santos,Alimentos,Representante de Setor,10,3,Marketing,17967,Nao,2,2,2
+769,53,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,10919,Nao,2,2,2
+772,32,Nao,Casado,Masculino,Lorenzo Lopes,Saude,Tecnico de Laboratorio,24,4,Ciencias Sociais,21146,Nao,10,8,4
+773,38,Nao,Casado,Masculino,Theo Costa,Saude,Pesquisador,2,5,Medicina,20471,Sim,1,0,0
+776,52,Nao,Casado,Masculino,Gael Rodrigues,Alimentos,Gestor,3,4,Marketing,10084,Nao,34,6,1
+780,33,Sim,Solteiro,Masculino,Ravi Oliveira,Saude,Pesquisador,1,4,Outros,5207,Sim,10,9,7
+783,45,Nao,Solteiro,Masculino,Enzo Nunes,Alimentos,Representante de Setor,2,2,Formacao Tecnica,12388,Nao,8,7,3
+784,23,Nao,Solteiro,Masculino,Lorenzo Martins,Saude,Pesquisador,10,1,Medicina,19630,Nao,2,2,0
+786,34,Nao,Solteiro,Masculino,Theo Teixeira,Alimentos,Auditor,2,3,Outros,18686,Nao,6,5,1
+787,55,Sim,Casado,Masculino,Gael Barros,Saude,Gestor,2,3,Medicina,21199,Sim,5,2,1
+789,36,Nao,Solteiro,Masculino,Ravi,Alimentos,Auditor,8,4,Ciencias Sociais,14229,Nao,10,7,0
+791,52,Nao,Casado,Masculino,Caio Mendes,Saude,Pesquisador,19,4,Medicina,26589,Nao,4,3,1
+796,26,Sim,Solteiro,Masculino,Davi Lopes,Alimentos,Auditor,8,3,Formacao Tecnica,3064,Nao,4,3,1
+800,27,Nao,Casado,Masculino,Enzo Oliveira,Alimentos,Auditor,8,1,Marketing,24008,Nao,4,2,1
+806,30,Nao,Casado,Masculino,Felipe Ferreira,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,24375,Nao,2,2,0
+809,42,Nao,Divorciado,Masculino,Gael Nunes,Saude,Gestor,8,3,Ciencias Sociais,16225,Nao,24,7,14
+811,23,Sim,Casado,Masculino,Heitor Martins,Saude,Tecnico de Laboratorio,6,3,Ciencias Sociais,3445,Sim,0,0,0
+812,24,Nao,Divorciado,Masculino,Ian Teixeira,Saude,Tecnico de Laboratorio,9,3,Ciencias Sociais,26551,Nao,1,0,0
+815,50,Nao,Casado,Masculino,Lorenzo Dias,Saude,Diretor de Pesquisa,2,3,Medicina,6881,Nao,4,3,0
+817,33,Nao,Casado,Masculino,Miguel Barros,Saude,Diretor de Pesquisa,7,3,Medicina,25995,Nao,13,9,3
+824,29,Nao,Casado,Masculino,Otavio Santos,Saude,Pesquisador,23,2,Ciencias Sociais,23779,Nao,10,7,0
+825,58,Sim,Solteiro,Masculino,Ravi Rodrigues,Saude,Diretor de Pesquisa,2,4,Ciencias Sociais,25761,Sim,31,15,13
+828,28,Sim,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,2,4,Medicina,16374,Nao,2,2,2
+829,36,Nao,Casado,Masculino,Caio Mendes,Medicamentos,Tecnico de TI,13,3,Recursos Humanos,25527,Nao,5,2,0
+832,40,Nao,Solteiro,Masculino,Davi Lopes,Saude,Tecnico de Laboratorio,16,4,Medicina,11983,Nao,1,0,0
+836,42,Nao,Casado,Masculino,Enzo Oliveira,Saude,Diretor de Manufatura,29,3,Ciencias Sociais,11806,Nao,9,8,7
+837,38,Nao,Divorciado,Masculino,Felipe Ferreira,Saude,Representante da Saude,12,3,Ciencias Sociais,4284,Nao,4,3,1
+842,55,Sim,Solteiro,Masculino,Gael Nunes,Alimentos,Auditor,2,1,Medicina,21519,Nao,9,7,7
+843,43,Nao,Casado,Masculino,Heitor Martins,Saude,Diretor de Pesquisa,14,2,Ciencias Sociais,5200,Nao,4,1,1
+844,27,Nao,Divorciado,Masculino,Ian Teixeira,Saude,Diretor de Pesquisa,5,1,Formacao Tecnica,8842,Sim,9,8,0
+845,35,Nao,Solteiro,Masculino,Lorenzo Dias,Saude,Diretor de Manufatura,7,3,Outros,18869,Nao,8,5,1
+847,34,Nao,Casado,Masculino,Miguel Barros,Medicamentos,Tecnico de TI,3,2,Recursos Humanos,2243,Nao,3,2,0
+850,27,Nao,Casado,Masculino,Otavio Santos,Saude,Pesquisador,3,3,Medicina,16571,Nao,0,0,0
+852,44,Nao,Solteiro,Masculino,Ravi Rodrigues,Saude,Representante da Saude,4,3,Medicina,5197,Nao,5,2,2
+854,25,Nao,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,2,1,Medicina,21632,Nao,4,3,0
+855,33,Nao,Divorciado,Masculino,Caio Mendes,Alimentos,Auditor,1,3,Medicina,21816,Nao,9,8,0
+857,36,Nao,Casado,Masculino,Davi Lopes,Alimentos,Auditor,1,2,Ciencias Sociais,2823,Sim,18,14,4
+859,32,Nao,Divorciado,Masculino,Enzo Oliveira,Alimentos,Auditor,13,4,Ciencias Sociais,9250,Nao,5,2,0
+861,30,Nao,Divorciado,Masculino,Felipe Ferreira,Saude,Pesquisador,5,4,Ciencias Sociais,2373,Nao,5,4,0
+864,45,Nao,Divorciado,Masculino,Gael Nunes,Alimentos,Auditor,9,3,Marketing,19239,Sim,5,4,0
+868,37,Nao,Divorciado,Masculino,Heitor Martins,Alimentos,Auditor,16,4,Marketing,24558,Nao,1,0,0
+869,28,Nao,Divorciado,Masculino,Ian Teixeira,Medicamentos,Tecnico de TI,8,2,Medicina,23965,Nao,5,1,0
+872,22,Nao,Casado,Masculino,Lorenzo Dias,Saude,Diretor de Manufatura,,2,Ciencias Sociais,19146,Nao,2,2,2
+874,44,Nao,Casado,Masculino,Miguel Barros,Saude,Tecnico de Laboratorio,,4,Ciencias Sociais,5044,Sim,3,2,0
+875,42,Nao,Solteiro,Masculino,Otavio Santos,Saude,Pesquisador,2,1,Medicina,9068,Sim,2,1,2
+878,36,Nao,Casado,Masculino,Ravi Rodrigues,Medicamentos,Tecnico de TI,8,3,Ciencias Sociais,8635,Nao,5,4,0
+879,25,Nao,Casado,Masculino,Theo Costa,Alimentos,Auditor,3,1,Outros,14363,Sim,5,3,0
+882,32,Nao,Divorciado,Masculino,Caio Mendes,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,9148,Nao,3,0,0
+885,25,Nao,Casado,Masculino,Davi Lopes,Alimentos,Auditor,4,1,Marketing,18154,Nao,5,2,0
+888,24,Nao,Casado,Masculino,Enzo Oliveira,Saude,Tecnico de Laboratorio,4,1,Ciencias Sociais,10778,Nao,5,2,3
+889,32,Nao,Casado,Masculino,Felipe Ferreira,Alimentos,Auditor,5,2,Ciencias Sociais,8891,Nao,10,8,5
+893,38,Nao,Casado,Masculino,Gael Nunes,Alimentos,Representante de Setor,9,3,Marketing,12102,Nao,2,2,1
+895,31,Nao,Casado,Masculino,Heitor Martins,Saude,Pesquisador,11,4,Ciencias Sociais,14871,Sim,6,4,0
+897,53,Nao,Casado,Masculino,Ian Teixeira,Alimentos,Auditor,8,3,Marketing,22789,Nao,2,0,2
+899,35,Nao,Casado,Masculino,Lorenzo Dias,Saude,Diretor de Manufatura,25,3,Formacao Tecnica,9129,Nao,13,10,4
+904,37,Nao,Solteiro,Masculino,Miguel Barros,Alimentos,Auditor,19,2,Medicina,4814,Sim,10,0,0
+905,50,Nao,Divorciado,Masculino,Otavio Santos,Saude,Gestor,2,4,Ciencias Sociais,4544,Nao,31,6,14
+910,33,Nao,Divorciado,Masculino,Ravi Rodrigues,Medicamentos,Tecnico de TI,3,2,Recursos Humanos,22650,Sim,4,3,0
+911,32,Sim,Solteiro,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,25,4,Ciencias Sociais,18016,Sim,1,0,0
+913,44,Nao,Casado,Masculino,Caio Mendes,Saude,Pesquisador,9,2,Ciencias Sociais,7508,Sim,8,7,7
+916,28,Nao,Solteiro,Masculino,Davi Lopes,Alimentos,Auditor,5,4,Medicina,24252,Nao,4,2,0
+918,58,Sim,Divorciado,Masculino,Enzo Oliveira,Saude,Tecnico de Laboratorio,2,1,Ciencias Sociais,13384,Sim,1,0,0
+924,36,Nao,Casado,Masculino,Felipe Ferreira,Saude,Representante da Saude,14,1,Ciencias Sociais,4821,Sim,16,8,4
+932,39,Sim,Casado,Masculino,Gael Nunes,Saude,Tecnico de Laboratorio,6,3,Medicina,4303,Sim,2,2,2
+934,34,Nao,Divorciado,Masculino,Heitor Martins,Saude,Tecnico de Laboratorio,10,3,Ciencias Sociais,6896,Nao,1,0,1
+939,33,Nao,Solteiro,Masculino,Ian Teixeira,Saude,Pesquisador,1,4,Outros,3339,Sim,3,2,0
+941,31,Nao,Casado,Masculino,Lorenzo Dias,Alimentos,Representante de Setor,7,4,Ciencias Sociais,11737,Nao,7,7,5
+945,48,Nao,Casado,Masculino,Miguel Barros,Saude,Pesquisador,20,4,Medicina,5543,Nao,0,0,0
+949,36,Nao,Solteiro,Masculino,Otavio Santos,Saude,Pesquisador,7,4,Outros,23293,Nao,6,2,0
+952,25,Sim,Casado,Masculino,Ravi Rodrigues,Alimentos,Representante de Setor,19,2,Marketing,18798,Sim,1,0,0
+954,40,Nao,Divorciado,Masculino,Theo Costa,Alimentos,Auditor,10,4,Marketing,20652,Nao,1,0,0
+956,26,Nao,Solteiro,Masculino,duardo Mendes,Alimentos,Auditor,1,3,Medicina,11148,Nao,7,7,0
+957,41,Nao,Solteiro,Masculino,Francisco Lopes,Saude,Tecnico de Laboratorio,6,3,Medicina,3119,Sim,18,13,2
+958,36,Nao,Solteiro,Masculino,Guilherme Oliveira,Saude,Tecnico de Laboratorio,2,4,Medicina,12287,Nao,11,8,3
+959,19,Sim,Solteiro,Masculino,Joao Ferreira,Alimentos,Representante de Setor,21,3,Outros,9947,Sim,1,0,0
+960,20,Sim,Solteiro,Masculino,Lorenzo Nunes,Saude,Tecnico de Laboratorio,4,3,Formacao Tecnica,13008,Nao,1,0,0
+964,40,Nao,Divorciado,Masculino,Miguel Martins,Saude,Pesquisador,,4,Medicina,25063,Sim,1,1,0
+967,36,Sim,Casado,Masculino,Nicolas Teixeira,Alimentos,Auditor,3,1,Ciencias Sociais,5518,Sim,16,7,3
+970,37,Sim,Casado,Masculino,Otavio Dias,Alimentos,Auditor,1,4,Ciencias Sociais,14922,Nao,14,1,11
+972,45,Nao,Casado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,4,2,Ciencias Sociais,23163,Nao,9,7,0
+976,52,Nao,Casado,Masculino,Ravi Santos,Saude,Gestor,1,2,Ciencias Sociais,13829,Nao,9,8,7
+977,58,Sim,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,2,3,Formacao Tecnica,26227,Nao,1,0,0
+981,53,Nao,Divorciado,Masculino,Eduardo Mendes,Alimentos,Gestor,2,2,Medicina,13938,Nao,17,13,15
+982,30,Nao,Divorciado,Masculino,Francisco Lopes,Alimentos,Auditor,8,2,Outros,9977,Nao,8,4,7
+984,35,Nao,Divorciado,Masculino,Guilherme Oliveira,Alimentos,Auditor,3,4,Ciencias Sociais,6812,Nao,10,9,0
+985,39,Nao,Solteiro,Masculino,Joao Ferreira,Alimentos,Auditor,2,5,Ciencias Sociais,2560,Nao,8,7,0
+987,47,Nao,Divorciado,Masculino,Lorenzo Nunes,Saude,Diretor de Manufatura,16,4,Medicina,6759,Sim,19,10,2
+990,36,Nao,Divorciado,Masculino,Miguel Martins,Alimentos,Auditor,8,4,Formacao Tecnica,25952,Nao,7,7,0
+991,31,Sim,Solteiro,Masculino,Nicolas Teixeira,Saude,Pesquisador,9,2,Medicina,10322,Sim,3,2,1
+992,33,Nao,Solteiro,Masculino,Otavio Dias,Alimentos,Gestor,17,3,Ciencias Sociais,20489,Nao,10,8,6
+997,50,Nao,Divorciado,Masculino,Pedro Barros,Saude,Diretor de Pesquisa,1,2,Medicina,6615,Nao,5,4,1
+999,41,Nao,Divorciado,Masculino,Ravi Santos,Saude,Diretor de Pesquisa,9,3,Medicina,3735,Nao,18,16,0
+1002,45,Nao,Casado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,23,2,Ciencias Sociais,14039,Sim,9,8,0
+1005,50,Nao,Casado,Masculino,Eduardo Mendes,Saude,Diretor de Manufatura,24,3,Ciencias Sociais,4161,Sim,12,11,1
+1006,38,Nao,Casado,Masculino,Francisco Lopes,Saude,Pesquisador,10,1,Medicina,12127,Nao,2,1,0
+1007,46,Nao,Divorciado,Masculino,Guilherme Oliveira,Saude,Diretor de Manufatura,7,2,Medicina,24208,Nao,8,7,0
+1010,35,Sim,Divorciado,Masculino,Joao Ferreira,Saude,Tecnico de Laboratorio,14,4,Outros,10074,Sim,4,2,0
+1012,18,Nao,Solteiro,Masculino,Lorenzo Nunes,Saude,Pesquisador,5,2,Ciencias Sociais,13493,Nao,0,0,0
+1018,26,Nao,Casado,Masculino,Miguel Martins,Saude,Diretor de Manufatura,2,2,Medicina,3334,Nao,8,7,1
+1019,22,Nao,Casado,Masculino,Nicolas Teixeira,Saude,Tecnico de Laboratorio,8,1,Ciencias Sociais,6881,Nao,4,3,1
+1022,48,Nao,Solteiro,Masculino,Otavio Dias,Saude,Representante da Saude,6,3,Ciencias Sociais,13119,Nao,2,2,2
+1024,48,Nao,Solteiro,Masculino,Pedro Barros,Saude,Representante da Saude,4,4,Ciencias Sociais,22245,Nao,15,11,4
+1028,35,Nao,Divorciado,Masculino,Ravi Santos,Saude,Tecnico de Laboratorio,10,3,Outros,9541,Nao,3,2,1
+1029,42,Nao,Casado,Masculino,Theo Costa,Alimentos,Gestor,5,2,Marketing,7770,Nao,1,0,0
+1030,50,Nao,Casado,Masculino,Eduardo Mendes,Saude,Tecnico de Laboratorio,9,3,Ciencias Sociais,20165,Nao,1,0,0
+1034,55,Nao,Casado,Masculino,Francisco Lopes,Saude,Representante da Saude,18,4,Medicina,12992,Sim,8,7,6
+1036,38,Nao,Solteiro,Masculino,Guilherme Oliveira,Alimentos,Auditor,3,4,Ciencias Sociais,4981,Sim,1,0,0
+1037,26,Sim,Solteiro,Masculino,Joao Ferreira,Alimentos,Auditor,29,2,Medicina,21813,Nao,2,2,2
+1047,34,Nao,Divorciado,Masculino,Lorenzo Nunes,Alimentos,Auditor,1,4,Marketing,12278,Nao,15,1,0
+1048,59,Nao,Casado,Masculino,Miguel Martins,Alimentos,Gestor,1,2,Formacao Tecnica,11038,Sim,6,4,0
+1049,45,Nao,Solteiro,Masculino,Nicolas Teixeira,Medicamentos,Tecnico de TI,24,4,Medicina,8318,Nao,6,3,0
+1052,36,Sim,Divorciado,Masculino,Otavio Dias,Saude,Tecnico de Laboratorio,15,3,Outros,7858,Nao,1,0,0
+1053,26,Sim,Casado,Masculino,Pedro Barros,Saude,Pesquisador,2,3,Ciencias Sociais,15346,Sim,3,2,1
+1056,28,Nao,Casado,Masculino,Ravi Santos,Alimentos,Representante de Setor,10,1,Medicina,23384,Nao,1,0,0
+1060,38,Nao,Casado,Masculino,Theo Costa,Saude,Pesquisador,3,4,Outros,2997,Nao,2,2,2
+1061,50,Nao,Casado,Masculino,Eduardo Mendes,Saude,Diretor de Pesquisa,2,4,Medicina,12853,Sim,8,1,7
+1066,40,Nao,Casado,Masculino,Francisco Lopes,Alimentos,Auditor,26,3,Marketing,22217,Nao,7,7,7
+1069,46,Nao,Divorciado,Masculino,Guilherme Oliveira,Saude,Diretor de Pesquisa,1,4,Medicina,21445,Nao,2,2,2
+1074,55,Nao,Solteiro,Masculino,Joao Ferreira,Saude,Gestor,2,1,Medicina,17323,Nao,9,7,6
+1076,43,Nao,Divorciado,Masculino,Lorenzo Nunes,Alimentos,Auditor,25,3,Medicina,5268,Nao,1,0,0
+1081,51,Sim,Casado,Masculino,Miguel Martins,Saude,Pesquisador,4,4,Ciencias Sociais,10332,Sim,10,0,2
+1082,28,Sim,Solteiro,Masculino,Nicolas Teixeira,Saude,Representante da Saude,24,2,Formacao Tecnica,12355,Nao,10,7,1
+1083,26,Nao,Casado,Masculino,Otavio Dias,Saude,Tecnico de Laboratorio,1,2,Medicina,11141,Nao,5,3,1
+1084,30,Nao,Casado,Masculino,Pedro Barros,Saude,Diretor de Manufatura,20,3,Outros,9096,Nao,6,2,0
+1092,40,Nao,Casado,Masculino,Ravi Santos,Saude,Representante da Saude,20,4,Formacao Tecnica,26542,Nao,11,10,11
+1094,27,Nao,Casado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,8,5,Ciencias Sociais,5869,Nao,3,2,1
+1096,55,Nao,Casado,Masculino,Gael Dias,Saude,Diretor de Manufatura,2,1,Ciencias Sociais,15813,Nao,3,2,1
+1098,44,Sim,Casado,Masculino,Ravi Silva,Medicamentos,Tecnico de TI,1,2,Medicina,2326,Nao,20,6,3
+1099,33,Nao,Divorciado,Masculino,Gael Oliveira,Saude,Representante da Saude,5,3,Ciencias Sociais,21214,Nao,3,2,1
+1100,35,Sim,Solteiro,Masculino,Ravi Ferreira,Alimentos,Auditor,4,3,Formacao Tecnica,10333,Sim,8,7,4
+1102,28,Nao,Divorciado,Masculino,Enzo Nunes,Saude,Tecnico de Laboratorio,15,2,Ciencias Sociais,22482,Nao,4,2,2
+1103,34,Nao,Solteiro,Masculino,Lorenzo Martins,Saude,Representante da Saude,3,1,Ciencias Sociais,22266,Nao,6,2,0
+1106,25,Sim,Casado,Masculino,Theo Teixeira,Saude,Tecnico de Laboratorio,4,1,Formacao Tecnica,4605,Sim,7,7,5
+1107,26,Sim,Divorciado,Masculino,Gael Barros,Saude,Tecnico de Laboratorio,21,3,Medicina,19373,Nao,1,1,0
+1108,33,Sim,Solteiro,Masculino,Ravi Santos,Saude,Pesquisador,25,3,Medicina,2993,Sim,2,2,2
+1109,42,Nao,Casado,Masculino,Enrico Mendes,Saude,Gestor,2,2,Medicina,14399,Nao,22,6,13
+1111,28,Sim,Divorciado,Masculino,Lorenzo Lopes,Saude,Tecnico de Laboratorio,1,3,Medicina,7160,Nao,1,0,0
+1113,50,Sim,Solteiro,Masculino,Theo Costa,Alimentos,Auditor,1,4,Outros,17251,Sim,0,0,0
+1115,34,Nao,Casado,Masculino,Gael Rodrigues,Saude,Pesquisador,3,4,Ciencias Sociais,22478,Nao,0,0,0
+1116,48,Nao,Solteiro,Masculino,Ravi Oliveira,Saude,Gestor,1,4,Medicina,16154,Nao,5,4,2
+1118,52,Nao,Solteiro,Masculino,Enzo Nunes,Saude,Representante da Saude,7,4,Ciencias Sociais,15322,Nao,8,6,4
+1119,38,Nao,Divorciado,Masculino,Lorenzo Martins,Alimentos,Auditor,10,4,Marketing,5569,Sim,8,7,2
+1124,46,Nao,Casado,Masculino,Theo Teixeira,Alimentos,Gestor,3,1,Marketing,15596,Nao,12,9,4
+1125,38,Nao,Solteiro,Masculino,Gael Barros,Alimentos,Auditor,2,2,Marketing,20619,Nao,1,0,0
+1127,39,Sim,Divorciado,Masculino,Ravi Santos,Saude,Representante da Saude,2,3,Ciencias Sociais,13547,Nao,18,7,11
+1128,40,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Diretor de Pesquisa,14,3,Medicina,17544,Nao,20,7,4
+1132,39,Nao,Solteiro,Masculino,Lorenzo Lopes,Saude,Tecnico de Laboratorio,9,3,Ciencias Sociais,8770,Nao,5,4,0
+1133,36,Nao,Solteiro,Masculino,Theo Costa,Saude,Diretor de Manufatura,18,4,Ciencias Sociais,23238,Nao,11,9,0
+1135,31,Nao,Casado,Masculino,Gael Rodrigues,Alimentos,Representante de Setor,20,3,Ciencias Sociais,21981,Nao,2,2,2
+1136,28,Nao,Casado,Masculino,Ravi Oliveira,Saude,Pesquisador,2,1,Ciencias Sociais,19911,Nao,5,3,0
+1137,35,Nao,Divorciado,Masculino,Enzo Nunes,Alimentos,Auditor,11,2,Marketing,18500,Nao,5,2,0
+1138,49,Nao,Casado,Masculino,Lorenzo Martins,Alimentos,Auditor,8,4,Formacao Tecnica,11879,Nao,9,8,2
+1140,34,Nao,Solteiro,Masculino,Theo Teixeira,Saude,Diretor de Manufatura,2,2,Ciencias Sociais,15834,Nao,3,2,0
+1148,42,Nao,Solteiro,Masculino,Gael Barros,Saude,Tecnico de Laboratorio,29,3,Medicina,9558,Nao,1,0,0
+1150,29,Nao,Casado,Masculino,Ravi Santos,Saude,Diretor de Manufatura,8,1,Medicina,17689,Sim,10,7,1
+1152,38,Nao,Casado,Masculino,Enrico Mendes,Medicamentos,Tecnico de TI,1,3,Recursos Humanos,6004,Nao,7,6,5
+1154,28,Nao,Divorciado,Masculino,Lorenzo Lopes,Saude,Pesquisador,6,3,Ciencias Sociais,22088,Sim,3,1,0
+1156,18,Sim,Solteiro,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,8,1,Medicina,13556,Nao,0,0,0
+1158,41,Nao,Casado,Masculino,Gael Rodrigues,Saude,Tecnico de Laboratorio,12,4,Ciencias Sociais,9051,Sim,1,0,0
+1160,31,Sim,Casado,Masculino,Ravi Oliveira,Saude,Tecnico de Laboratorio,15,3,Medicina,6233,Nao,2,2,2
+1162,27,Nao,Casado,Masculino,Enzo Nunes,Saude,Pesquisador,6,3,Ciencias Sociais,7950,Nao,4,2,2
+1164,35,Nao,Solteiro,Masculino,Lorenzo Martins,Medicamentos,Tecnico de TI,8,4,Formacao Tecnica,7108,Nao,5,4,1
+1167,42,Sim,Solteiro,Masculino,Theo Teixeira,Alimentos,Auditor,12,3,Ciencias Sociais,2447,Sim,21,9,13
+1171,42,Nao,Solteiro,Masculino,Gael Barros,Alimentos,Auditor,4,4,Marketing,2253,Nao,6,4,1
+1172,35,Nao,Casado,Masculino,Ravi Santos,Saude,Tecnico de Laboratorio,1,4,Medicina,16340,Nao,8,0,1
+1173,24,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Tecnico de Laboratorio,24,3,Medicina,6409,Nao,4,3,1
+1177,26,Nao,Casado,Masculino,Lorenzo Lopes,Saude,Tecnico de Laboratorio,3,4,Medicina,13421,Nao,8,7,0
+1179,30,Nao,Casado,Masculino,Theo Costa,Alimentos,Auditor,10,3,Marketing,2706,Nao,10,3,1
+1182,35,Nao,Divorciado,Masculino,Gael Rodrigues,Saude,Diretor de Manufatura,2,3,Ciencias Sociais,19588,Nao,7,7,6
+1184,34,Nao,Solteiro,Masculino,Ravi Oliveira,Saude,Representante da Saude,1,3,Medicina,25755,Nao,13,9,4
+1185,35,Nao,Casado,Masculino,Enzo Nunes,Saude,Tecnico de Laboratorio,4,4,Outros,26537,Nao,2,2,2
+1193,19,Nao,Solteiro,Masculino,Lorenzo Martins,Saude,Pesquisador,9,2,Ciencias Sociais,7172,Nao,1,1,0
+1198,20,Nao,Solteiro,Masculino,Theo Teixeira,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,12828,Nao,2,2,1
+1200,44,Sim,Solteiro,Masculino,Gael Barros,Saude,Pesquisador,10,4,Ciencias Sociais,10826,Sim,6,4,0
+1203,22,Sim,Casado,Masculino,Ravi Santos,Saude,Pesquisador,3,4,Ciencias Sociais,4223,Sim,0,0,0
+1206,44,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Pesquisador,17,3,Ciencias Sociais,4279,Nao,0,0,0
+1207,33,Nao,Casado,Masculino,Lorenzo Lopes,Medicamentos,Tecnico de TI,2,3,Recursos Humanos,8429,Nao,5,4,1
+1210,41,Sim,Divorciado,Masculino,Theo Costa,Saude,Pesquisador,5,2,Ciencias Sociais,20293,Nao,1,0,0
+1211,30,Nao,Divorciado,Masculino,Gael Rodrigues,Alimentos,Auditor,29,4,Ciencias Sociais,13192,Nao,4,3,0
+1212,40,Nao,Casado,Masculino,Ravi Oliveira,Alimentos,Auditor,2,4,Medicina,25440,Nao,0,0,0
+1216,28,Nao,Casado,Masculino,Enzo Nunes,Saude,Tecnico de Laboratorio,19,4,Medicina,12449,Nao,6,5,3
+1217,46,Nao,Casado,Masculino,Lorenzo Martins,Saude,Diretor de Pesquisa,15,2,Ciencias Sociais,10849,Nao,4,2,0
+1218,35,Nao,Casado,Masculino,Theo Teixeira,Alimentos,Auditor,17,4,Ciencias Sociais,21026,Sim,7,7,1
+1221,36,Nao,Divorciado,Masculino,Gael Barros,Saude,Tecnico de Laboratorio,6,4,Ciencias Sociais,6865,Nao,7,7,1
+1224,30,Nao,Divorciado,Masculino,Ravi Santos,Saude,Tecnico de Laboratorio,7,4,Ciencias Sociais,11309,Nao,10,7,8
+1225,44,Nao,Solteiro,Masculino,Enrico Mendes,Saude,Pesquisador,29,4,Outros,7744,Nao,20,11,13
+1226,20,Nao,Solteiro,Masculino,Lorenzo Lopes,Alimentos,Representante de Setor,21,3,Marketing,5050,Nao,2,1,2
+1228,46,Nao,Divorciado,Masculino,Theo Costa,Saude,Diretor de Manufatura,2,4,Formacao Tecnica,17433,Nao,6,3,1
+1231,42,Nao,Casado,Masculino,Gael Rodrigues,Medicamentos,Tecnico de TI,2,5,Medicina,12858,Nao,4,3,0
+1233,60,Nao,Divorciado,Masculino,Ravi Oliveira,Alimentos,Auditor,7,4,Marketing,10893,Sim,11,7,1
+1238,33,Nao,Casado,Masculino,Enzo Nunes,Saude,Pesquisador,9,3,Medicina,6311,Nao,14,10,4
+1240,25,Nao,Solteiro,Masculino,Lorenzo Martins,Alimentos,Auditor,10,4,Ciencias Sociais,20623,Nao,4,3,1
+1241,30,Nao,Casado,Masculino,Theo Teixeira,Saude,Pesquisador,1,3,Medicina,9369,Sim,11,9,5
+1244,27,Nao,Casado,Masculino,Gael Barros,Saude,Pesquisador,14,3,Ciencias Sociais,14377,Sim,9,7,6
+1250,54,Nao,Casado,Masculino,Ravi Santos,Saude,Diretor de Pesquisa,3,3,Ciencias Sociais,23474,Nao,10,9,0
+1251,31,Nao,Casado,Masculino,Enrico Mendes,Saude,Representante da Saude,11,2,Medicina,17089,Sim,6,5,0
+1255,43,Nao,Casado,Masculino,Lorenzo Lopes,Saude,Diretor de Pesquisa,3,3,Ciencias Sociais,18625,Nao,8,7,0
+1256,49,Nao,Casado,Masculino,Theo Costa,Saude,Gestor,4,2,Medicina,12124,Nao,1,0,0
+1257,36,Nao,Casado,Masculino,Gael Rodrigues,Saude,Pesquisador,3,3,Formacao Tecnica,9256,Nao,11,10,0
+1258,48,Nao,Solteiro,Masculino,Ravi Oliveira,Saude,Tecnico de Laboratorio,2,2,Formacao Tecnica,16620,Nao,1,0,0
+1259,27,Nao,Divorciado,Masculino,Enzo Nunes,Saude,Pesquisador,4,2,Ciencias Sociais,3208,Nao,5,3,0
+1260,29,Nao,Divorciado,Masculino,Lorenzo Martins,Saude,Representante da Saude,7,3,Ciencias Sociais,4204,Sim,6,0,1
+1263,48,Nao,Solteiro,Masculino,Theo Teixeira,Saude,Diretor de Pesquisa,1,3,Ciencias Sociais,8733,Nao,1,0,0
+1267,44,Nao,Casado,Masculino,Gael Barros,Alimentos,Gestor,5,3,Marketing,8751,Nao,22,9,3
+1268,33,Nao,Divorciado,Masculino,Benicio Lopes,Alimentos,Auditor,10,5,Marketing,21708,Sim,9,8,0
+1270,23,Nao,Casado,Masculino,Bernardo Santos,Saude,Pesquisador,1,2,Ciencias Sociais,16901,Nao,1,0,0
+1273,25,Sim,Solteiro,Masculino,Dante Mendes,Alimentos,Representante de Setor,24,1,Ciencias Sociais,8040,Sim,1,0,1
+1275,26,Nao,Solteiro,Masculino,Gael Teixeira,Saude,Pesquisador,4,2,Ciencias Sociais,9973,Sim,8,5,2
+1278,55,Nao,Divorciado,Masculino,Heitor Dias,Saude,Representante da Saude,8,1,Medicina,25592,Sim,33,9,15
+1282,51,Nao,Divorciado,Masculino,Lorenzo Barros,Alimentos,Gestor,9,3,Ciencias Sociais,19196,Sim,29,10,11
+1283,59,Nao,Solteiro,Masculino,Miguel Costa,Saude,Diretor de Manufatura,18,4,Medicina,20002,Nao,9,7,5
+1286,28,Nao,Solteiro,Masculino,Otavio Oliveira,Saude,Tecnico de Laboratorio,1,4,Medicina,6842,Sim,4,2,0
+1288,44,Nao,Divorciado,Masculino,Ravi Ferreira,Saude,Gestor,4,2,Ciencias Sociais,17477,Nao,25,9,14
+1289,34,Nao,Casado,Masculino,Theo Nunes,Medicamentos,Tecnico de TI,11,3,Ciencias Sociais,21833,Nao,10,9,1
+1291,35,Nao,Casado,Masculino,Valentin Martins,Saude,Pesquisador,6,1,Ciencias Sociais,6020,Sim,3,2,2
+1296,28,Nao,Casado,Masculino,Benicio Lopes,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,14222,Sim,2,2,2
+1301,28,Nao,Solteiro,Masculino,Bernardo Santos,Saude,Pesquisador,1,3,Formacao Tecnica,4732,Nao,3,2,1
+1304,32,Nao,Casado,Masculino,Dante Mendes,Alimentos,Auditor,8,3,Medicina,11693,Nao,10,7,0
+1308,58,Nao,Divorciado,Masculino,Gael Teixeira,Saude,Pesquisador,23,4,Ciencias Sociais,26076,Nao,2,2,2
+1309,32,Sim,Casado,Masculino,Heitor Dias,Saude,Tecnico de Laboratorio,7,2,Ciencias Sociais,22845,Nao,10,4,1
+1310,39,Sim,Solteiro,Masculino,Lorenzo Barros,Saude,Pesquisador,23,3,Medicina,22154,Nao,5,2,0
+1318,40,Sim,Solteiro,Masculino,Miguel Costa,Alimentos,Auditor,25,4,Marketing,17235,Sim,5,4,1
+1319,52,Sim,Solteiro,Masculino,Otavio Oliveira,Alimentos,Auditor,5,3,Ciencias Sociais,21534,Sim,8,7,7
+1322,39,Nao,Solteiro,Masculino,Ravi Ferreira,Saude,Diretor de Manufatura,18,2,Ciencias Sociais,13352,Nao,8,7,1
+1329,41,Nao,Solteiro,Masculino,Theo Nunes,Alimentos,Auditor,10,2,Medicina,22074,Nao,19,2,11
+1333,44,Sim,Casado,Masculino,Valentin Martins,Saude,Tecnico de Laboratorio,3,3,Ciencias Sociais,14669,Nao,3,2,1
+1334,42,Nao,Casado,Masculino,Benicio Lopes,Saude,Gestor,2,1,Ciencias Sociais,26582,Sim,20,8,2
+1338,56,Nao,Solteiro,Masculino,Bernardo Santos,Medicamentos,Gestor,8,4,Ciencias Sociais,4022,Nao,7,3,7
+1340,40,Nao,Divorciado,Masculino,Dante Mendes,Saude,Pesquisador,16,2,Ciencias Sociais,8532,Nao,4,2,0
+1344,34,Nao,Divorciado,Masculino,Gael Teixeira,Saude,Representante da Saude,9,3,Ciencias Sociais,5494,Nao,9,7,1
+1346,40,Nao,Solteiro,Masculino,Heitor Dias,Saude,Pesquisador,2,3,Ciencias Sociais,22455,Nao,9,8,8
+1350,35,Nao,Solteiro,Masculino,Lorenzo Barros,Saude,Pesquisador,4,4,Ciencias Sociais,2690,Sim,9,6,1
+1352,51,Nao,Divorciado,Masculino,Miguel Costa,Medicamentos,Gestor,5,3,Ciencias Sociais,17588,Sim,33,9,0
+1358,25,Nao,Casado,Masculino,Otavio Oliveira,Saude,Tecnico de Laboratorio,19,1,Medicina,9075,Nao,3,2,1
+1361,40,Nao,Casado,Masculino,Ravi Ferreira,Saude,Tecnico de Laboratorio,1,4,Ciencias Sociais,6762,Nao,4,2,0
+1363,48,Nao,Solteiro,Masculino,Theo Nunes,Saude,Diretor de Manufatura,4,3,Ciencias Sociais,18706,Nao,10,9,0
+1371,27,Nao,Solteiro,Masculino,Valentin Martins,Alimentos,Auditor,2,1,Ciencias Sociais,20392,Nao,6,2,0
+1372,55,Sim,Solteiro,Masculino,Benicio Lopes,Alimentos,Auditor,13,4,Marketing,9277,Sim,19,7,3
+1373,56,Nao,Casado,Masculino,Bernardo Santos,Saude,Diretor de Manufatura,23,3,Ciencias Sociais,18235,Sim,19,16,15
+1377,34,Nao,Casado,Masculino,Dante Mendes,Saude,Tecnico de Laboratorio,29,3,Medicina,17491,Nao,8,7,7
+1382,38,Nao,Divorciado,Masculino,Gael Teixeira,Saude,Pesquisador,7,3,Ciencias Sociais,15748,Nao,4,2,0
+1387,28,Nao,Casado,Masculino,Heitor Dias,Alimentos,Auditor,26,3,Ciencias Sociais,24232,Nao,5,3,0
+1389,31,Sim,Casado,Masculino,Lorenzo Barros,Saude,Diretor de Manufatura,22,4,Medicina,21057,Sim,10,2,6
+1390,39,Nao,Casado,Masculino,Miguel Costa,Alimentos,Auditor,21,4,Ciencias Sociais,3567,Sim,5,4,1
+1391,51,Nao,Casado,Masculino,Otavio Oliveira,Alimentos,Auditor,2,3,Marketing,15395,Nao,4,2,3
+1394,37,Nao,Casado,Masculino,Ravi Ferreira,Saude,Pesquisador,4,1,Ciencias Sociais,5182,Sim,6,4,1
+1395,33,Nao,Casado,Masculino,Theo Nunes,Alimentos,Auditor,5,1,Ciencias Sociais,19293,Nao,5,4,1
+1396,32,Nao,Casado,Masculino,Valentin Martins,Alimentos,Auditor,2,1,Marketing,20497,Sim,3,2,1
+1397,39,Nao,Casado,Masculino,Benicio Lopes,Saude,Representante da Saude,25,2,Ciencias Sociais,3449,Nao,6,4,0
+1399,25,Nao,Casado,Masculino,Bernardo Santos,Alimentos,Auditor,18,1,Ciencias Sociais,12477,Nao,3,2,1
+1407,26,Nao,Solteiro,Masculino,Dante Mendes,Saude,Pesquisador,2,1,Medicina,4050,Nao,4,3,1
+1412,35,Nao,Solteiro,Masculino,Gael Teixeira,Saude,Diretor de Manufatura,18,2,Ciencias Sociais,19944,Nao,2,2,2
+1415,25,Nao,Casado,Masculino,Heitor Dias,Saude,Tecnico de Laboratorio,1,3,Formacao Tecnica,4910,Nao,3,2,0
+1417,26,Nao,Solteiro,Masculino,Lorenzo Barros,Saude,Tecnico de Laboratorio,7,3,Outros,23577,Nao,7,7,0
+1419,29,Nao,Solteiro,Masculino,Miguel Costa,Medicamentos,Tecnico de TI,17,3,Outros,9769,Nao,10,9,0
+1420,49,Sim,Solteiro,Masculino,Otavio Oliveira,Saude,Tecnico de Laboratorio,28,2,Ciencias Sociais,22710,Nao,4,3,1
+1424,55,Nao,Divorciado,Masculino,Ravi Ferreira,Saude,Diretor de Pesquisa,1,4,Medicina,12414,Nao,7,7,0
+1431,34,Nao,Divorciado,Masculino,Theo Nunes,Saude,Pesquisador,1,4,Outros,20284,Nao,4,3,1
+1434,27,Nao,Casado,Masculino,Valentin Martins,Saude,Tecnico de Laboratorio,11,1,Ciencias Sociais,7679,Nao,5,0,1
+1435,36,Nao,Solteiro,Masculino,Caio Mendes,Saude,Tecnico de Laboratorio,4,4,Ciencias Sociais,22604,Nao,10,4,1
+1438,47,Nao,Casado,Masculino,Davi Lopes,Saude,Pesquisador,1,3,Formacao Tecnica,10205,Nao,6,5,1
+1439,25,Sim,Casado,Masculino,Enzo Oliveira,Alimentos,Representante de Setor,9,2,Ciencias Sociais,15182,Nao,3,2,2
+1440,37,Nao,Solteiro,Masculino,Felipe Ferreira,Saude,Tecnico de Laboratorio,5,2,Formacao Tecnica,25470,Nao,6,5,1
+1446,32,Nao,Casado,Masculino,Gael Nunes,Alimentos,Auditor,7,5,Marketing,23343,Nao,4,3,0
+1448,41,Nao,Casado,Masculino,Heitor Martins,Saude,Pesquisador,5,5,Medicina,5561,Sim,4,2,0
+1449,40,Nao,Divorciado,Masculino,Ian Teixeira,Saude,Tecnico de Laboratorio,9,4,Outros,23099,Nao,8,7,0
+1453,31,Nao,Divorciado,Masculino,Lorenzo Dias,Alimentos,Auditor,8,2,Ciencias Sociais,8386,Nao,13,7,9
+1457,46,Sim,Divorciado,Masculino,Miguel Barros,Alimentos,Auditor,9,3,Marketing,15986,Nao,7,7,4
+1460,45,Nao,Divorciado,Masculino,Otavio Santos,Saude,Representante da Saude,20,3,Medicina,19863,Sim,7,7,0
+1464,31,Sim,Casado,Masculino,Ravi Rodrigues,Saude,Tecnico de Laboratorio,2,3,Ciencias Sociais,21081,Sim,2,2,2
+1465,45,Nao,Casado,Masculino,Theo Costa,Saude,Diretor de Manufatura,29,3,Formacao Tecnica,14720,Sim,3,1,1
+1466,48,Nao,Divorciado,Masculino,Caio Mendes,Alimentos,Auditor,7,3,Marketing,24795,Nao,2,2,2
+1468,40,Nao,Divorciado,Masculino,Davi Lopes,Saude,Diretor de Pesquisa,8,1,Medicina,25178,Nao,9,8,4
+1469,28,Nao,Solteiro,Masculino,Enzo Oliveira,Alimentos,Auditor,5,3,Medicina,23490,Nao,5,4,1
+1471,44,Nao,Solteiro,Masculino,Felipe Ferreira,Saude,Tecnico de Laboratorio,5,3,Ciencias Sociais,7973,Nao,5,2,0
+1472,53,Nao,Solteiro,Masculino,Gael Nunes,Saude,Diretor de Pesquisa,2,3,Medicina,19764,Nao,9,8,8
+1473,49,Nao,Casado,Masculino,Heitor Martins,Saude,Representante da Saude,5,4,Formacao Tecnica,21534,Nao,3,2,1
+1474,40,Nao,Divorciado,Masculino,Ian Teixeira,Saude,Pesquisador,2,3,Medicina,8045,Nao,3,1,1
+1475,44,Nao,Solteiro,Masculino,Lorenzo Dias,Saude,Pesquisador,20,3,Ciencias Sociais,21158,Nao,5,2,1
+1477,33,Nao,Casado,Masculino,Miguel Barros,Alimentos,Auditor,7,3,Medicina,17456,Nao,4,3,0
+1478,34,Nao,Solteiro,Masculino,Otavio Santos,Alimentos,Auditor,3,3,Outros,15891,Nao,13,9,3
+1479,30,Nao,Casado,Masculino,Ravi Rodrigues,Alimentos,Auditor,16,1,Ciencias Sociais,2939,Nao,2,1,2
+1482,30,Nao,Divorciado,Masculino,Theo Costa,Saude,Pesquisador,7,3,Formacao Tecnica,7152,Nao,1,0,0
+1483,57,Nao,Casado,Masculino,Caio Mendes,Saude,Pesquisador,1,2,Ciencias Sociais,2721,Nao,12,9,2
+1484,49,Nao,Divorciado,Masculino,Davi Lopes,Saude,Representante da Saude,7,4,Ciencias Sociais,20948,Nao,8,7,0
+1485,34,Nao,Divorciado,Masculino,Enzo Oliveira,Saude,Diretor de Pesquisa,15,3,Medicina,11929,Nao,14,8,6
+1486,28,Sim,Casado,Masculino,Felipe Ferreira,Alimentos,Representante de Setor,1,3,Formacao Tecnica,15747,Nao,3,2,1
+1492,35,Nao,Casado,Masculino,Gael Nunes,Alimentos,Representante de Setor,7,1,Ciencias Sociais,16192,Nao,1,0,0
+1494,24,Sim,Solteiro,Masculino,Heitor Martins,Saude,Tecnico de Laboratorio,9,3,Medicina,16998,Sim,0,0,0
+1496,44,Nao,Solteiro,Masculino,Ian Teixeira,Saude,Diretor de Manufatura,2,1,Medicina,19719,Sim,2,2,2
+1497,29,Nao,Divorciado,Masculino,Lorenzo Dias,Alimentos,Auditor,19,3,Ciencias Sociais,23757,Nao,10,7,0
+1499,30,Nao,Divorciado,Masculino,Miguel Barros,Medicamentos,Tecnico de TI,1,3,Ciencias Sociais,15428,Nao,5,3,1
+1501,55,Nao,Casado,Masculino,Otavio Santos,Saude,Representante da Saude,4,4,Ciencias Sociais,16143,Sim,3,2,1
+1504,28,Sim,Solteiro,Masculino,Ravi Rodrigues,Saude,Tecnico de Laboratorio,2,2,Medicina,5355,Nao,0,0,0
+1506,28,Nao,Divorciado,Masculino,Theo Costa,Saude,Pesquisador,1,3,Ciencias Sociais,12530,Nao,1,0,0
+1507,28,Nao,Solteiro,Masculino,Caio Mendes,Alimentos,Auditor,7,3,Ciencias Sociais,11827,Nao,4,2,1
+1514,28,Nao,Casado,Masculino,Davi Lopes,Saude,Diretor de Manufatura,29,1,Ciencias Sociais,3173,Nao,8,6,1
+1515,33,Nao,Solteiro,Masculino,Enzo Oliveira,Saude,Representante da Saude,8,5,Ciencias Sociais,22049,Sim,0,0,0
+1516,32,Nao,Solteiro,Masculino,Felipe Ferreira,Saude,Gestor,10,3,Medicina,21072,Nao,5,2,0
+1522,29,Sim,Solteiro,Masculino,Gael Nunes,Saude,Pesquisador,1,4,Formacao Tecnica,7568,Nao,9,7,0
+1523,44,Nao,Casado,Masculino,Heitor Martins,Saude,Diretor de Pesquisa,28,3,Ciencias Sociais,22074,Nao,20,6,14
+1533,23,Nao,Solteiro,Masculino,Ian Teixeira,Saude,Tecnico de Laboratorio,20,1,Ciencias Sociais,24812,Nao,4,3,1
+1534,40,Sim,Solteiro,Masculino,Lorenzo Dias,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,21831,Nao,5,4,1
+1535,34,Nao,Casado,Masculino,Miguel Barros,Alimentos,Auditor,1,3,Formacao Tecnica,12288,Sim,10,9,8
+1539,50,Nao,Solteiro,Masculino,Otavio Santos,Saude,Diretor de Pesquisa,22,5,Medicina,24450,Sim,32,6,13
+1541,34,Nao,Casado,Masculino,Ravi Rodrigues,Alimentos,Representante de Setor,7,2,Formacao Tecnica,4944,Sim,11,10,5
+1542,42,Nao,Casado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,2,3,Medicina,24052,Nao,1,0,0
+1543,37,Nao,Casado,Masculino,Caio Mendes,Saude,Pesquisador,13,3,Medicina,3031,Nao,10,8,3
+1545,33,Nao,Solteiro,Masculino,Davi Lopes,Saude,Diretor de Manufatura,25,3,Ciencias Sociais,24152,Nao,5,3,0
+1546,45,Nao,Casado,Masculino,Enzo Oliveira,Saude,Pesquisador,28,3,Formacao Tecnica,4585,Nao,5,4,0
+1547,42,Nao,Casado,Masculino,Felipe Ferreira,Saude,Representante da Saude,2,3,Ciencias Sociais,18611,Sim,20,8,13
+1548,40,Nao,Casado,Masculino,Gael Nunes,Alimentos,Auditor,9,2,Medicina,19345,Nao,8,4,7
+1549,33,Nao,Casado,Masculino,Heitor Martins,Saude,Tecnico de Laboratorio,28,4,Ciencias Sociais,22949,Sim,15,14,5
+1550,40,Nao,Solteiro,Masculino,Ian Teixeira,Medicamentos,Gestor,6,2,Medicina,17381,Sim,21,7,7
+1551,24,Nao,Divorciado,Masculino,Lorenzo Dias,Saude,Tecnico de Laboratorio,21,2,Formacao Tecnica,10036,Nao,1,1,0
+1552,40,Nao,Divorciado,Masculino,Miguel Barros,Saude,Representante da Saude,8,2,Ciencias Sociais,8841,Sim,2,2,2
+1553,45,Nao,Divorciado,Masculino,Otavio Santos,Saude,Representante da Saude,,4,Formacao Tecnica,20933,Nao,10,8,7
+1556,36,Nao,Solteiro,Masculino,Ravi Rodrigues,Alimentos,Representante de Setor,2,4,Ciencias Sociais,17001,Sim,3,2,1
+1558,29,Nao,Casado,Masculino,Theo Costa,Saude,Pesquisador,9,3,Ciencias Sociais,22376,Nao,1,0,0
+1560,33,Nao,Casado,Masculino,Diego Costa,Alimentos,Auditor,8,4,Ciencias Sociais,10589,Nao,2,2,2
+1562,30,Sim,Casado,Masculino,Gabriel Oliveira,Alimentos,Auditor,1,3,Ciencias Sociais,5323,Nao,10,8,6
+1563,38,Nao,Casado,Masculino,Henrique Ferreira,Medicamentos,Tecnico de TI,10,4,Recursos Humanos,14814,Nao,6,3,1
+1564,35,Nao,Solteiro,Masculino,Joao Nunes,Saude,Tecnico de Laboratorio,1,3,Medicina,21731,Nao,3,0,1
+1568,30,Nao,Casado,Masculino,Lorenzo Martins,Alimentos,Auditor,29,4,Formacao Tecnica,17799,Nao,4,2,1
+1573,38,Sim,Casado,Masculino,Miguel Teixeira,Saude,Diretor de Manufatura,2,3,Medicina,7653,Nao,5,2,1
+1574,32,Nao,Casado,Masculino,Nicolas Dias,Saude,Pesquisador,1,4,Formacao Tecnica,25174,Nao,6,5,1
+1577,34,Nao,Solteiro,Masculino,Otavio Barros,Saude,Pesquisador,7,4,Medicina,22061,Nao,1,0,0
+1578,55,Nao,Casado,Masculino,Pedro Santos,Alimentos,Gestor,26,5,Marketing,23037,Nao,36,6,2
+1580,34,Nao,Casado,Masculino,Ravi Rodrigues,Saude,Pesquisador,1,4,Ciencias Sociais,13008,Nao,2,2,2
+1582,38,Nao,Casado,Masculino,Theo Costa,Alimentos,Auditor,14,3,Ciencias Sociais,12355,Nao,9,8,7
+1586,29,Nao,Solteiro,Masculino,Diego Costa,Saude,Tecnico de Laboratorio,3,1,Medicina,16213,Sim,10,9,1
+1588,39,Nao,Casado,Masculino,Gabriel Oliveira,Alimentos,Auditor,6,3,Medicina,4658,Nao,7,6,7
+1590,29,Nao,Divorciado,Masculino,Henrique Ferreira,Saude,Representante da Saude,2,1,Ciencias Sociais,24483,Nao,6,4,1
+1591,50,Nao,Casado,Masculino,Joao Nunes,Alimentos,Gestor,9,3,Marketing,19519,Sim,1,0,0
+1592,23,Nao,Casado,Masculino,Lorenzo Martins,Saude,Pesquisador,10,3,Formacao Tecnica,12826,Nao,2,2,2
+1594,36,Nao,Casado,Masculino,Miguel Teixeira,Saude,Tecnico de Laboratorio,6,4,Ciencias Sociais,19711,Sim,3,2,0
+1595,42,Nao,Solteiro,Masculino,Nicolas Dias,Saude,Gestor,9,2,Outros,26362,Nao,1,0,0
+1596,35,Nao,Casado,Masculino,Otavio Barros,Saude,Tecnico de Laboratorio,28,3,Ciencias Sociais,25348,Nao,10,9,6
+1597,34,Nao,Casado,Masculino,Pedro Santos,Saude,Representante da Saude,10,4,Formacao Tecnica,15332,Nao,8,2,7
+1599,43,Nao,Divorciado,Masculino,Ravi Rodrigues,Saude,Tecnico de Laboratorio,27,3,Formacao Tecnica,5855,Nao,6,4,0
+1601,35,Nao,Casado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,7,2,Ciencias Sociais,7713,Nao,1,0,0
+1602,46,Nao,Solteiro,Masculino,Diego Costa,Alimentos,Gestor,1,4,Ciencias Sociais,3156,Nao,26,0,0
+1604,28,Sim,Casado,Masculino,Gabriel Oliveira,Saude,Tecnico de Laboratorio,24,3,Medicina,7324,Sim,1,1,0
+1606,50,Nao,Casado,Masculino,Henrique Ferreira,Saude,Representante da Saude,20,5,Medicina,20689,Sim,30,8,12
+1609,30,Nao,Casado,Masculino,Joao Nunes,Saude,Pesquisador,7,3,Medicina,5348,Nao,6,4,1
+1612,45,Nao,Casado,Masculino,Lorenzo Martins,Alimentos,Auditor,26,3,Marketing,24162,Nao,10,7,4
+1613,31,Nao,Solteiro,Masculino,Miguel Teixeira,Alimentos,Auditor,2,4,Outros,21602,Nao,5,2,0
+1615,34,Nao,Divorciado,Masculino,Nicolas Dias,Saude,Diretor de Manufatura,10,4,Ciencias Sociais,17000,Nao,9,7,7
+1618,39,Nao,Casado,Masculino,Otavio Barros,Saude,Diretor de Manufatura,10,5,Medicina,3835,Nao,7,7,7
+1619,27,Nao,Divorciado,Masculino,Pedro Santos,Saude,Tecnico de Laboratorio,19,3,Outros,16290,Nao,7,7,0
+1621,35,Nao,Casado,Masculino,Ravi Rodrigues,Saude,Pesquisador,18,5,Ciencias Sociais,26312,Nao,16,15,1
+1623,21,Nao,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,5,1,Medicina,26009,Nao,2,2,2
+1627,39,Nao,Divorciado,Masculino,Diego Costa,Saude,Tecnico de Laboratorio,3,2,Medicina,10302,Nao,10,8,0
+1631,37,Nao,Casado,Masculino,Gabriel Oliveira,Saude,Diretor de Manufatura,19,3,Ciencias Sociais,26493,Nao,4,3,0
+1639,35,Sim,Casado,Masculino,Henrique Ferreira,Alimentos,Auditor,10,3,Medicina,21530,Nao,13,12,6
+1642,44,Nao,Casado,Masculino,Joao Nunes,Medicamentos,Tecnico de TI,1,5,Recursos Humanos,10503,Sim,10,7,0
+1644,48,Nao,Casado,Masculino,Lorenzo Martins,Saude,Gestor,4,5,Medicina,5602,Nao,2,2,2
+1645,35,Sim,Divorciado,Masculino,Miguel Teixeira,Alimentos,Auditor,,2,Medicina,22098,Sim,2,2,2
+1648,27,Nao,Solteiro,Masculino,Nicolas Dias,Saude,Pesquisador,2,3,Medicina,6297,Nao,4,2,1
+1649,40,Sim,Solteiro,Masculino,Otavio Barros,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,3339,Sim,4,2,0
+1650,29,Nao,Solteiro,Masculino,Pedro Santos,Alimentos,Auditor,10,3,Medicina,23413,Nao,5,2,1
+1653,25,Nao,Divorciado,Masculino,Ravi Rodrigues,Saude,Diretor de Manufatura,2,1,Ciencias Sociais,4973,Nao,7,7,0
+1654,39,Nao,Casado,Masculino,Theo Costa,Saude,Diretor de Manufatura,12,3,Medicina,7693,Nao,5,4,1
+1659,36,Nao,Solteiro,Masculino,Diego Costa,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,10950,Nao,4,3,1
+1664,36,Nao,Divorciado,Masculino,Gabriel Oliveira,Saude,Representante da Saude,3,2,Ciencias Sociais,26308,Nao,5,4,0
+1666,43,Nao,Casado,Masculino,Henrique Ferreira,Saude,Diretor de Pesquisa,15,2,Ciencias Sociais,3525,Nao,14,10,6
+1667,35,Sim,Solteiro,Masculino,Joao Nunes,Alimentos,Auditor,12,4,Outros,10414,Sim,11,9,6
+1668,38,Nao,Casado,Masculino,Lorenzo Martins,Saude,Pesquisador,1,3,Ciencias Sociais,9867,Nao,13,11,2
+1669,29,Nao,Divorciado,Masculino,Miguel Teixeira,Alimentos,Auditor,5,3,Medicina,3356,Sim,10,0,0
+1670,33,Nao,Divorciado,Masculino,Nicolas Dias,Alimentos,Auditor,2,4,Medicina,3921,Nao,6,2,0
+1671,32,Nao,Divorciado,Masculino,Otavio Barros,Saude,Pesquisador,2,3,Medicina,25518,Nao,9,5,1
+1677,49,Nao,Solteiro,Masculino,Pedro Santos,Saude,Gestor,1,3,Ciencias Sociais,22384,Nao,8,7,0
+1678,41,Nao,Solteiro,Masculino,Ravi Rodrigues,Alimentos,Auditor,23,2,Ciencias Sociais,11591,Sim,2,0,0
+1680,20,Nao,Solteiro,Masculino,Theo Costa,Alimentos,Representante de Setor,9,1,Ciencias Sociais,21082,Nao,2,2,0
+1682,36,Nao,Casado,Masculino,Eduardo Mendes,Saude,Representante da Saude,26,4,Ciencias Sociais,7419,Nao,3,2,0
+1684,23,Sim,Solteiro,Masculino,Francisco Lopes,Saude,Tecnico de Laboratorio,8,1,Medicina,20586,Sim,5,4,1
+1689,53,Nao,Casado,Masculino,Guilherme Oliveira,Saude,Representante da Saude,24,4,Medicina,3458,Nao,4,3,1
+1692,32,Sim,Solteiro,Masculino,Joao Ferreira,Saude,Tecnico de Laboratorio,2,4,Ciencias Sociais,24852,Nao,1,0,0
+1693,26,Nao,Solteiro,Masculino,Lorenzo Nunes,Saude,Tecnico de Laboratorio,7,3,Medicina,11925,Nao,7,7,5
+1694,55,Nao,Divorciado,Masculino,Miguel Martins,Saude,Pesquisador,22,3,Formacao Tecnica,23737,Nao,4,2,1
+1696,34,Nao,Casado,Masculino,Nicolas Teixeira,Saude,Tecnico de Laboratorio,5,2,Medicina,11912,Nao,15,10,4
+1697,60,Nao,Divorciado,Masculino,Otavio Dias,Saude,Representante da Saude,1,4,Medicina,20467,Nao,1,0,0
+1698,33,Nao,Casado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,21,3,Medicina,13637,Nao,14,11,2
+1700,37,Nao,Divorciado,Masculino,Ravi Santos,Alimentos,Auditor,1,4,Medicina,7677,Nao,6,3,1
+1702,23,Sim,Divorciado,Masculino,Theo Costa,Alimentos,Representante de Setor,7,3,Ciencias Sociais,25103,Sim,3,2,0
+1704,35,Nao,Solteiro,Masculino,Eduardo Mendes,Saude,Pesquisador,2,4,Medicina,13970,Sim,5,4,1
+1706,43,Nao,Casado,Masculino,Francisco Lopes,Alimentos,Auditor,2,3,Medicina,6069,Sim,10,9,8
+1707,24,Nao,Casado,Masculino,Guilherme Oliveira,Saude,Pesquisador,9,3,Medicina,17616,Nao,5,3,0
+1708,41,Nao,Solteiro,Masculino,Joao Ferreira,Alimentos,Auditor,6,3,Marketing,15869,Nao,10,8,8
+1712,45,Nao,Casado,Masculino,Lorenzo Nunes,Saude,Representante da Saude,1,1,Ciencias Sociais,3395,Nao,23,15,14
+1714,24,Sim,Casado,Masculino,Miguel Martins,Medicamentos,Tecnico de TI,,1,Recursos Humanos,11585,Nao,1,0,0
+1716,47,Sim,Casado,Masculino,Nicolas Teixeira,Alimentos,Auditor,9,3,Ciencias Sociais,24164,Nao,23,5,14
+1718,26,Nao,Casado,Masculino,Otavio Dias,Saude,Tecnico de Laboratorio,17,4,Medicina,6217,Nao,3,2,0
+1720,32,Nao,Casado,Masculino,Pedro Barros,Saude,Pesquisador,10,3,Ciencias Sociais,17360,Nao,5,2,1
+1721,31,Nao,Casado,Masculino,Ravi Santos,Saude,Tecnico de Laboratorio,2,4,Ciencias Sociais,18103,Nao,5,2,0
+1722,41,Nao,Casado,Masculino,Theo Costa,Medicamentos,Tecnico de TI,4,3,Recursos Humanos,20794,Nao,3,2,1
+1725,24,Nao,Divorciado,Masculino,Eduardo Mendes,Saude,Tecnico de Laboratorio,29,1,Medicina,3622,Nao,6,2,1
+1727,46,Nao,Solteiro,Masculino,Francisco Lopes,Saude,Representante da Saude,13,4,Ciencias Sociais,9697,Nao,10,7,0
+1728,35,Nao,Casado,Masculino,Guilherme Oliveira,Saude,Diretor de Manufatura,27,4,Ciencias Sociais,5151,Nao,7,7,0
+1729,30,Nao,Casado,Masculino,Joao Ferreira,Saude,Pesquisador,16,1,Ciencias Sociais,3811,Nao,10,0,0
+1731,47,Nao,Casado,Masculino,Lorenzo Nunes,Alimentos,Auditor,2,4,Marketing,3536,Nao,1,0,0
+1732,46,Nao,Divorciado,Masculino,Miguel Martins,Alimentos,Auditor,2,3,Ciencias Sociais,5596,Sim,10,6,0
+1733,36,Sim,Divorciado,Masculino,Nicolas Teixeira,Alimentos,Auditor,13,5,Marketing,8658,Sim,2,2,2
+1734,32,Sim,Solteiro,Masculino,Otavio Dias,Alimentos,Auditor,1,2,Ciencias Sociais,12147,Nao,0,0,0
+1737,39,Nao,Casado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,1,3,Ciencias Sociais,8989,Sim,9,8,5
+1739,32,Nao,Casado,Masculino,Ravi Santos,Alimentos,Auditor,19,3,Ciencias Sociais,3840,Nao,4,3,0
+1740,40,Nao,Solteiro,Masculino,Theo Costa,Alimentos,Gestor,7,4,Medicina,4349,Nao,21,8,12
+1746,24,Nao,Casado,Masculino,Eduardo Mendes,Medicamentos,Tecnico de TI,10,3,Medicina,2097,Nao,2,2,2
+1749,31,Nao,Casado,Masculino,Francisco Lopes,Alimentos,Auditor,5,3,Formacao Tecnica,20943,Nao,5,2,0
+1753,29,Nao,Solteiro,Masculino,Guilherme Oliveira,Saude,Representante da Saude,1,3,Ciencias Sociais,23060,Sim,3,2,0
+1754,30,Nao,Divorciado,Masculino,Joao Ferreira,Alimentos,Auditor,15,2,Marketing,3088,Nao,7,7,1
+1755,34,Nao,Casado,Masculino,Lorenzo Nunes,Saude,Pesquisador,2,4,Medicina,5586,Sim,5,0,1
+1761,31,Sim,Casado,Masculino,Miguel Martins,Alimentos,Auditor,16,4,Marketing,19002,Nao,1,0,0
+1763,30,Nao,Casado,Masculino,Nicolas Teixeira,Saude,Representante da Saude,16,3,Ciencias Sociais,9128,Nao,7,0,1
+1764,32,Nao,Solteiro,Masculino,Otavio Dias,Saude,Pesquisador,5,4,Formacao Tecnica,17674,Nao,7,7,0
+1766,38,Nao,Casado,Masculino,Pedro Barros,Saude,Representante da Saude,18,3,Medicina,24539,Sim,1,0,1
+1767,43,Sim,Casado,Masculino,Ravi Santos,Saude,Pesquisador,17,3,Formacao Tecnica,15587,Sim,1,0,0
+1768,42,Nao,Divorciado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,12,3,Medicina,8952,Nao,5,3,0
+1770,55,Nao,Casado,Masculino,Eduardo Mendes,Saude,Diretor de Pesquisa,2,3,Medicina,19805,Nao,1,0,0
+1771,33,Nao,Divorciado,Masculino,Francisco Lopes,Saude,Pesquisador,4,3,Formacao Tecnica,6194,Nao,9,8,1
+1772,41,Nao,Divorciado,Masculino,Guilherme Oliveira,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,20520,Nao,5,3,0
+1774,34,Nao,Divorciado,Masculino,Joao Ferreira,Alimentos,Auditor,10,3,Ciencias Sociais,12313,Sim,15,14,0
+1778,43,Nao,Solteiro,Masculino,Otavio Santos,Medicamentos,Tecnico de TI,2,3,Ciencias Sociais,5033,Nao,9,7,1
+1780,21,Sim,Solteiro,Masculino,Ravi Rodrigues,Alimentos,Representante de Setor,7,1,Marketing,4567,Nao,1,0,1
+1787,37,Nao,Casado,Masculino,Theo Costa,Alimentos,Auditor,9,2,Marketing,8800,Nao,5,2,0
+1789,46,Nao,Divorciado,Masculino,Caio Mendes,Saude,Diretor de Pesquisa,2,4,Medicina,14218,Sim,2,1,2
+1790,36,Nao,Casado,Masculino,Davi Lopes,Saude,Representante da Saude,,3,Ciencias Sociais,25949,Sim,12,8,5
+1792,44,Sim,Divorciado,Masculino,Enzo Oliveira,Saude,Pesquisador,1,2,Medicina,11092,Sim,5,3,2
+1794,37,Nao,Divorciado,Masculino,Felipe Ferreira,Medicamentos,Tecnico de TI,8,2,Outros,12832,Nao,10,0,4
+1797,35,Sim,Solteiro,Masculino,Gael Nunes,Alimentos,Auditor,27,3,Ciencias Sociais,13492,Sim,10,7,7
+1798,33,Nao,Casado,Masculino,Heitor Martins,Saude,Pesquisador,8,4,Ciencias Sociais,6076,Nao,10,8,7
+1799,28,Nao,Casado,Masculino,Ian Teixeira,Saude,Pesquisador,1,3,Ciencias Sociais,5531,Nao,5,3,0
+1800,39,Nao,Solteiro,Masculino,Lorenzo Dias,Saude,Diretor de Pesquisa,10,1,Medicina,7914,Nao,4,3,2
+1801,46,Nao,Solteiro,Masculino,Miguel Barros,Alimentos,Auditor,26,2,Ciencias Sociais,25166,Nao,2,2,2
+1803,42,Nao,Casado,Masculino,Otavio Santos,Saude,Representante da Saude,13,3,Medicina,5696,Nao,0,0,0
+1804,35,Nao,Divorciado,Masculino,Ravi Rodrigues,Saude,Diretor de Manufatura,2,2,Medicina,24442,Nao,7,7,1
+1805,38,Nao,Divorciado,Masculino,Theo Costa,Medicamentos,Tecnico de TI,2,3,Recursos Humanos,7129,Nao,11,10,3
+1807,34,Sim,Casado,Masculino,Caio Mendes,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,6208,Nao,7,1,0
+1809,37,Sim,Solteiro,Masculino,Davi Lopes,Saude,Diretor de Manufatura,10,4,Medicina,4992,Nao,10,3,0
+1812,39,Nao,Divorciado,Masculino,Enzo Oliveira,Alimentos,Auditor,20,3,Ciencias Sociais,19188,Nao,2,1,2
+1813,43,Nao,Solteiro,Masculino,Felipe Ferreira,Saude,Pesquisador,9,3,Ciencias Sociais,24978,Nao,3,2,1
+1814,41,Nao,Solteiro,Masculino,Gael Nunes,Saude,Representante da Saude,5,3,Ciencias Sociais,15530,Nao,3,2,1
+1823,34,Nao,Casado,Masculino,Heitor Martins,Alimentos,Auditor,8,2,Formacao Tecnica,22128,Nao,10,8,4
+1824,58,Nao,Divorciado,Masculino,Ian Teixeira,Alimentos,Gestor,2,3,Medicina,22577,Nao,16,9,14
+1826,35,Nao,Casado,Masculino,Lorenzo Dias,Saude,Tecnico de Laboratorio,23,4,Medicina,9696,Nao,5,4,0
+1836,26,Nao,Solteiro,Masculino,Miguel Barros,Alimentos,Auditor,10,3,Medicina,9125,Nao,5,3,1
+1837,58,Nao,Casado,Masculino,Otavio Santos,Saude,Diretor de Pesquisa,15,4,Ciencias Sociais,21624,Sim,2,2,2
+1842,31,Sim,Casado,Masculino,Ravi Rodrigues,Medicamentos,Tecnico de TI,18,5,Recursos Humanos,21495,Nao,1,0,0
+1844,29,Sim,Divorciado,Masculino,Theo Costa,Medicamentos,Tecnico de TI,13,3,Recursos Humanos,3157,Sim,2,2,2
+1849,43,Nao,Casado,Masculino,Diego Costa,Alimentos,Auditor,2,4,Ciencias Sociais,19246,Nao,7,7,7
+1852,29,Nao,Casado,Masculino,Gabriel Oliveira,Saude,Tecnico de Laboratorio,20,1,Medicina,7003,Nao,11,8,3
+1853,32,Nao,Solteiro,Masculino,Henrique Ferreira,Alimentos,Auditor,10,4,Marketing,26075,Nao,0,0,0
+1854,42,Nao,Casado,Masculino,Joao Nunes,Saude,Pesquisador,10,4,Formacao Tecnica,6161,Nao,6,3,3
+1857,46,Nao,Divorciado,Masculino,Lorenzo Martins,Saude,Diretor de Manufatura,2,2,Ciencias Sociais,19989,Nao,9,8,4
+1858,28,Nao,Divorciado,Masculino,Miguel Teixeira,Medicamentos,Tecnico de TI,1,2,Ciencias Sociais,10494,Nao,3,2,2
+1859,29,Nao,Divorciado,Masculino,Nicolas Dias,Saude,Representante da Saude,29,1,Ciencias Sociais,21143,Nao,7,0,1
+1860,42,Nao,Solteiro,Masculino,Otavio Barros,Saude,Tecnico de Laboratorio,8,3,Ciencias Sociais,13624,Nao,0,0,0
+1862,32,Sim,Solteiro,Masculino,Pedro Santos,Alimentos,Auditor,2,4,Marketing,26186,Sim,2,2,2
+1865,29,Nao,Casado,Masculino,Ravi Rodrigues,Medicamentos,Tecnico de TI,6,1,Medicina,15434,Nao,1,0,0
+1867,48,Nao,Casado,Masculino,Theo Costa,Saude,Diretor de Pesquisa,,3,Ciencias Sociais,13583,Nao,22,10,12
+1868,29,Sim,Solteiro,Masculino,Diego Costa,Saude,Pesquisador,24,2,Ciencias Sociais,14753,Sim,1,0,1
+1871,39,Nao,Divorciado,Masculino,Gabriel Oliveira,Saude,Pesquisador,19,4,Outros,5141,Nao,2,2,2
+1873,55,Nao,Casado,Masculino,Henrique Ferreira,Saude,Pesquisador,2,4,Formacao Tecnica,7975,Nao,5,2,0
+1876,30,Sim,Solteiro,Masculino,Joao Nunes,Alimentos,Representante de Setor,9,3,Medicina,16019,Nao,1,0,0
+1878,22,Sim,Solteiro,Masculino,Lorenzo Martins,Saude,Pesquisador,7,1,Ciencias Sociais,26092,Sim,1,0,0
+1881,31,Nao,Divorciado,Masculino,Miguel Teixeira,Saude,Tecnico de Laboratorio,20,3,Ciencias Sociais,18624,Nao,10,8,0
+1882,34,Nao,Casado,Masculino,Nicolas Dias,Alimentos,Auditor,4,3,Ciencias Sociais,24444,Sim,5,3,1
+1883,29,Nao,Solteiro,Masculino,Otavio Barros,Saude,Tecnico de Laboratorio,7,3,Ciencias Sociais,19384,Nao,3,2,1
+1885,37,Nao,Casado,Masculino,Pedro Santos,Saude,Pesquisador,7,4,Medicina,13588,Sim,5,3,0
+1890,36,Nao,Solteiro,Masculino,Ravi Rodrigues,Medicamentos,Tecnico de TI,2,1,Recursos Humanos,4223,Nao,10,1,0
+1892,40,Nao,Divorciado,Masculino,Theo Costa,Saude,Gestor,1,4,Ciencias Sociais,18991,Nao,19,7,11
+1903,44,Nao,Casado,Masculino,Diego Costa,Saude,Representante da Saude,1,4,Ciencias Sociais,9364,Nao,2,0,2
+1905,34,Sim,Casado,Masculino,Gabriel Oliveira,Saude,Pesquisador,16,4,Formacao Tecnica,14460,Sim,5,2,3
+1907,56,Sim,Solteiro,Masculino,Henrique Ferreira,Saude,Tecnico de Laboratorio,24,2,Ciencias Sociais,10261,Nao,4,2,1
+1908,36,Nao,Casado,Masculino,Joao Nunes,Alimentos,Auditor,17,2,Marketing,16822,Nao,4,2,1
+1911,42,Nao,Casado,Masculino,Lorenzo Martins,Saude,Diretor de Pesquisa,6,3,Medicina,14842,Nao,13,7,5
+1918,26,Nao,Casado,Masculino,Miguel Teixeira,Saude,Tecnico de Laboratorio,6,3,Outros,7102,Nao,7,7,7
+1922,45,Nao,Solteiro,Masculino,Nicolas Dias,Saude,Representante da Saude,1,4,Medicina,14511,Nao,4,2,0
+1924,33,Nao,Solteiro,Masculino,Otavio Barros,Alimentos,Auditor,10,4,Marketing,10410,Nao,10,4,0
+1927,28,Nao,Casado,Masculino,Pedro Santos,Alimentos,Auditor,1,2,Ciencias Sociais,19255,Sim,7,7,0
+1928,29,Sim,Solteiro,Masculino,Ravi Rodrigues,Alimentos,Representante de Setor,24,3,Formacao Tecnica,10642,Nao,1,0,0
+1931,27,Nao,Casado,Masculino,Theo Costa,Saude,Pesquisador,,4,Formacao Tecnica,6073,Nao,5,3,1
+1932,34,Nao,Casado,Masculino,Diego Costa,Saude,Pesquisador,22,4,Outros,26496,Sim,15,10,6
+1934,47,Nao,Casado,Masculino,Gabriel Oliveira,Saude,Pesquisador,14,4,Formacao Tecnica,2125,Nao,8,7,1
+1936,39,Nao,Casado,Masculino,Henrique Ferreira,Saude,Diretor de Manufatura,9,2,Medicina,12315,Nao,10,0,7
+1940,38,Nao,Divorciado,Masculino,Joao Nunes,Saude,Pesquisador,9,2,Ciencias Sociais,14293,Nao,5,2,0
+1941,49,Nao,Casado,Masculino,Lorenzo Martins,Saude,Diretor de Pesquisa,2,1,Ciencias Sociais,13738,Nao,5,4,4
+1943,42,Nao,Divorciado,Masculino,Miguel Teixeira,Alimentos,Auditor,12,4,Marketing,2900,Sim,0,0,0
+1945,35,Nao,Casado,Masculino,Nicolas Dias,Alimentos,Auditor,18,4,Medicina,15975,Nao,5,3,0
+1947,28,Nao,Solteiro,Masculino,Otavio Barros,Saude,Pesquisador,16,3,Medicina,2122,Nao,5,3,1
+1948,31,Nao,Divorciado,Masculino,Pedro Santos,Saude,Pesquisador,3,2,Medicina,3995,Sim,4,2,2
+1949,36,Nao,Casado,Masculino,Ravi Rodrigues,Saude,Tecnico de Laboratorio,9,4,Ciencias Sociais,9238,Nao,5,4,0
+1950,34,Nao,Solteiro,Masculino,Theo Costa,Alimentos,Auditor,1,3,Marketing,6770,Nao,14,8,2
+1951,34,Nao,Divorciado,Masculino,Diego Costa,Alimentos,Auditor,13,4,Medicina,22914,Nao,8,7,1
+1952,26,Nao,Solteiro,Masculino,Gabriel Oliveira,Saude,Tecnico de Laboratorio,1,3,Medicina,20006,Nao,7,7,7
+1954,29,Nao,Casado,Masculino,Henrique Ferreira,Saude,Representante da Saude,1,3,Ciencias Sociais,6225,Nao,5,3,0
+1956,31,Nao,Casado,Masculino,Joao Nunes,Saude,Pesquisador,1,3,Ciencias Sociais,5771,Nao,10,8,8
+1960,28,Sim,Divorciado,Masculino,Lorenzo Martins,Saude,Tecnico de Laboratorio,17,3,Formacao Tecnica,18779,Nao,4,1,0
+1961,38,Nao,Solteiro,Masculino,Miguel Teixeira,Alimentos,Representante de Setor,1,3,Ciencias Sociais,11473,Nao,1,0,0
+1965,27,Nao,Solteiro,Masculino,Nicolas Dias,Alimentos,Auditor,9,3,Marketing,5099,Nao,7,7,0
+1966,32,Nao,Solteiro,Masculino,Otavio Barros,Saude,Diretor de Manufatura,5,4,Ciencias Sociais,10138,Nao,1,0,0
+1967,31,Sim,Casado,Masculino,Pedro Santos,Alimentos,Auditor,26,4,Marketing,21075,Sim,10,7,0
+1968,53,Sim,Solteiro,Masculino,Ravi Rodrigues,Alimentos,Auditor,24,4,Ciencias Sociais,5843,Sim,2,2,2
+1970,33,Nao,Divorciado,Masculino,Theo Costa,Saude,Representante da Saude,7,2,Ciencias Sociais,18079,Nao,9,7,2
+1971,43,Nao,Casado,Masculino,Eduardo Mendes,Saude,Representante da Saude,11,3,Ciencias Sociais,16873,Nao,10,9,0
+1972,38,Nao,Casado,Masculino,Francisco Lopes,Medicamentos,Tecnico de TI,1,4,Outros,5224,Sim,6,2,1
+1973,55,Nao,Casado,Masculino,Guilherme Oliveira,Medicamentos,Gestor,26,4,Recursos Humanos,25811,Sim,10,9,1
+1975,39,Nao,Solteiro,Masculino,Joao Ferreira,Alimentos,Auditor,15,4,Marketing,25098,Nao,20,8,11
+1976,42,Nao,Solteiro,Masculino,Lorenzo Nunes,Saude,Pesquisador,23,2,Ciencias Sociais,14811,Nao,20,9,3
+1981,24,Nao,Solteiro,Masculino,Miguel Martins,Saude,Representante da Saude,1,2,Ciencias Sociais,14120,Nao,4,3,1
+1982,23,Nao,Solteiro,Masculino,Nicolas Teixeira,Saude,Tecnico de Laboratorio,12,2,Outros,13672,Nao,5,2,1
+1989,30,Nao,Casado,Masculino,Otavio Dias,Saude,Tecnico de Laboratorio,1,2,Medicina,4077,Nao,12,8,1
+1992,25,Nao,Divorciado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,2,1,Outros,7298,Sim,2,2,0
+1993,47,Nao,Solteiro,Masculino,Ravi Santos,Saude,Representante da Saude,25,3,Medicina,13084,Nao,17,14,12
+1994,33,Nao,Divorciado,Masculino,Theo Costa,Saude,Tecnico de Laboratorio,,2,Medicina,20439,Nao,1,1,0
+1995,38,Nao,Casado,Masculino,Eduardo Mendes,Alimentos,Auditor,1,4,Ciencias Sociais,7636,Nao,15,13,5
+1996,31,Nao,Casado,Masculino,Francisco Lopes,Alimentos,Representante de Setor,2,2,Ciencias Sociais,6393,Nao,2,2,1
+1997,38,Nao,Casado,Masculino,Guilherme Oliveira,Saude,Diretor de Manufatura,6,4,Ciencias Sociais,14284,Nao,8,3,7
+1998,42,Nao,Divorciado,Masculino,Joao Ferreira,Saude,Pesquisador,18,4,Ciencias Sociais,11189,Sim,4,3,1
+1999,41,Nao,Casado,Masculino,Lorenzo Nunes,Saude,Pesquisador,1,3,Ciencias Sociais,21412,Nao,5,3,1
+2003,35,Nao,Casado,Masculino,Miguel Martins,Saude,Tecnico de Laboratorio,11,4,Medicina,20232,Sim,2,2,2
+2007,22,Nao,Solteiro,Masculino,Nicolas Teixeira,Saude,Pesquisador,1,2,Ciencias Sociais,17624,Nao,3,2,1
+2008,35,Nao,Solteiro,Masculino,Otavio Dias,Saude,Pesquisador,9,4,Medicina,18698,Nao,10,7,0
+2012,40,Nao,Casado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,1,4,Ciencias Sociais,4060,Nao,1,0,0
+2013,32,Nao,Casado,Masculino,Ravi Santos,Alimentos,Representante de Setor,1,4,Medicina,18024,Nao,2,2,2
+2014,39,Nao,Solteiro,Masculino,Theo Costa,Saude,Pesquisador,24,1,Ciencias Sociais,5340,Nao,7,7,1
+2019,52,Nao,Divorciado,Masculino,Eduardo Mendes,Alimentos,Representante de Setor,29,4,Ciencias Sociais,19788,Nao,9,8,0
+2020,44,Nao,Solteiro,Masculino,Francisco Lopes,Saude,Pesquisador,1,3,Medicina,13422,Sim,4,3,1
+2021,21,Nao,Solteiro,Masculino,Guilherme Oliveira,Alimentos,Representante de Setor,5,1,Medicina,25479,Sim,2,2,1
+2022,39,Nao,Solteiro,Masculino,Joao Ferreira,Saude,Gestor,9,3,Ciencias Sociais,15302,Nao,6,0,1
+2023,23,Sim,Casado,Masculino,Lorenzo Nunes,Alimentos,Representante de Setor,9,3,Marketing,26956,Nao,1,0,1
+2026,56,Nao,Divorciado,Masculino,Miguel Martins,Saude,Representante da Saude,1,4,Ciencias Sociais,26236,Nao,13,12,1
+2027,29,Sim,Casado,Masculino,Nicolas Teixeira,Saude,Pesquisador,1,4,Medicina,26124,Sim,2,2,2
+2031,42,Nao,Casado,Masculino,Otavio Dias,Saude,Gestor,2,3,Ciencias Sociais,17312,Nao,22,6,4
+2032,56,Sim,Casado,Masculino,Pedro Barros,Saude,Tecnico de Laboratorio,7,2,Formacao Tecnica,3666,Nao,10,9,9
+2036,36,Nao,Divorciado,Masculino,Ravi Santos,Alimentos,Auditor,15,4,Marketing,10436,Nao,15,12,11
+2037,41,Nao,Divorciado,Masculino,Theo Costa,Alimentos,Auditor,3,3,Ciencias Sociais,12227,Nao,5,4,0
+2038,32,Nao,Solteiro,Masculino,Eduardo Mendes,Saude,Pesquisador,2,3,Formacao Tecnica,11288,Nao,4,2,1
+2044,50,Sim,Divorciado,Masculino,Francisco Lopes,Alimentos,Auditor,1,4,Ciencias Sociais,14255,Nao,6,3,0
+2048,40,Nao,Solteiro,Masculino,Guilherme Oliveira,Saude,Pesquisador,2,4,Ciencias Sociais,2725,Nao,2,2,2
+2049,35,Nao,Casado,Masculino,Joao Ferreira,Saude,Representante da Saude,18,4,Ciencias Sociais,24594,Sim,10,2,0
+2053,29,Nao,Casado,Masculino,Lorenzo Nunes,Saude,Tecnico de Laboratorio,13,2,Outros,23679,Sim,4,3,0
+2055,50,Sim,Divorciado,Masculino,Miguel Martins,Alimentos,Auditor,28,3,Marketing,16586,Sim,3,2,2
+2057,31,Nao,Solteiro,Masculino,Nicolas Teixeira,Saude,Diretor de Manufatura,5,3,Medicina,3787,Nao,9,4,1
+2061,36,Nao,Casado,Masculino,Otavio Dias,Saude,Tecnico de Laboratorio,23,2,Medicina,12290,Nao,5,2,0
+2062,39,Nao,Casado,Masculino,Pedro Barros,Saude,Representante da Saude,6,1,Medicina,21457,Nao,7,7,1
+2064,27,Nao,Casado,Masculino,Ravi Santos,Saude,Diretor de Manufatura,4,3,Ciencias Sociais,5174,Sim,6,2,0
+2065,49,Nao,Casado,Masculino,Theo Costa,Alimentos,Auditor,2,3,Medicina,13243,Nao,9,6,0
+2068,34,Nao,Casado,Masculino,Eduardo Mendes,Saude,Tecnico de Laboratorio,,3,Medicina,10228,Nao,4,3,1
