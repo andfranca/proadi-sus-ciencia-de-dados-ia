@@ -1,0 +1,11 @@
+Idade,Genero,Anos na Empresa,Area de Atuacao,Salario,Equilibrio vidatrabalho,Satisfacao Trabalho,Taxa de desempenho,Numero de promocoes,Hora Extra,Distancia casa trabalho,Nivel de Educacao,Status Civil,Numero de Dependentes,Nivel no Trabalho,Tamanho da empresa,Tempo de empresa meses,Trabalho remoto,Oportunidade de Lideranca,Inovacao,Reputacao da Empresa,Reconhecimento Funcionarios
+37,Feminino,27,Tecnologia,12617,Razoavel,Alta,Media,1,Sim,97,Bacharel,Casado,2,Junior,Pequena,57,Sim,Nao,Nao,Excelente,Alta
+35,Masculino,12,Educacao,5935,Ruim,Alta,Media,2,Nao,34,Bacharel,Solteiro,1,Senior,Media,19,Nao,Nao,Nao,Ruim,Alta
+52,Masculino,34,Educacao,3908,Ruim,Muito Alta,Media,1,Nao,33,Tecnologo,Casado,2,Pleno,Media,63,Nao,Sim,Nao,Ruim,Media
+35,Masculino,21,Saude,5663,Boa,Media,Media,0,Sim,44,Ensino Médio,Divorciado,2,Senior,Media,70,Nao,Nao,Nao,Razoavel,Media
+30,Masculino,4,Saude,8184,Razoavel,Alta,Alta,4,Nao,27,Tecnologo,Casado,3,Pleno,Pequena,50,Nao,Nao,Nao,Ruim,Baixa
+25,Masculino,14,Saude,9156,Boa,Alta,Media,1,Nao,25,Bacharel,Solteiro,4,Junior,Pequena,18,Sim,Nao,Nao,Boa,Media
+49,Feminino,4,Tecnologia,9692,Excelente,Alta,Media,0,Nao,60,Doutorado,Casado,2,Pleno,Media,59,Nao,Nao,Nao,Ruim,Baixa
+23,Feminino,4,Tecnologia,10004,Excelente,Alta,Abaixo da Media,1,Nao,94,Ensino Médio,Casado,0,Pleno,Grande,44,Nao,Nao,Nao,Ruim,Baixa
+38,Feminino,14,Educacao,4493,Boa,Alta,Alta,2,Nao,94,Bacharel,Casado,0,Junior,Pequena,38,Nao,Nao,Sim,Boa,Media
+32,Masculino,22,Midia,6011,Boa,Muito Alta,Alta,0,Nao,92,Bacharel,Solteiro,0,Junior,Pequena,88,Nao,Nao,Nao,Razoavel,Baixa
