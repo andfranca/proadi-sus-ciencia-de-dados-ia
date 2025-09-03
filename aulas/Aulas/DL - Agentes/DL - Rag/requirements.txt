@@ -1,0 +1,10 @@
+streamlit 
+llama-index-core 
+llama-index-llms-ollama 
+llama-index-embeddings-ollama
+llama-index-readers-file 
+pymupdf
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
